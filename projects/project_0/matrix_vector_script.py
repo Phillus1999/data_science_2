@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def convert_matrix(matrix):
+def convert_matrix(matrix, name):
     """
     Converts a matrix into a list of (i, j, value) tuples.
     return: converted: list of (i, j, value) tuples
@@ -10,7 +10,7 @@ def convert_matrix(matrix):
 
     for i, row in enumerate(matrix):
         for j, value in enumerate(row):
-            converted.append([i, j, value])
+            converted.append([i, j, value, name])
 
     return converted
 
@@ -78,12 +78,12 @@ def create_scenario_mat_mat(scenario_name, size_a = (1000,1000), size_b=(1000,10
     matrix_a = np.random.randint(0, 3, size=size_a)
     matrix_b = np.random.randint(0, 3, size=size_b)
     #convert matrix
-    matrix_list_a = convert_matrix(matrix_a)
-    matrix_list_b = convert_matrix(matrix_b)
-    result_matrix_list = convert_matrix(calculate_result(matrix_a, matrix_b))
+    matrix_list_a = convert_matrix(matrix_a, "A")
+    matrix_list_b = convert_matrix(matrix_b, "B")
+    result_matrix_list = convert_matrix(calculate_result(matrix_a, matrix_b), "C")
     #write files
     input = matrix_list_a + matrix_list_b
-    write_file(matrix_list_a, "input_" + scenario_name + ".txt")
+    write_file(input, "input_" + scenario_name + ".txt")
     write_file(result_matrix_list, "result_" + scenario_name + ".txt")
 
 
@@ -122,6 +122,4 @@ def clear_all_txt():
 if __name__ == '__main__':
 
     clear_all_txt()
-    create_scenario_mat_vec("mat_vec_10", size_a=(10, 10), size_b=(10, 1))
-    create_scenario_mat_vec("mat_vec_100", size_a=(100, 100), size_b=(100, 1))
-    create_scenario_mat_vec("mat_vec_1000", size_a=(1000, 1000), size_b=(1000, 1))
+    create_scenario_mat_mat("1000x1000")
