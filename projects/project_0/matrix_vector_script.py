@@ -1,5 +1,11 @@
 import numpy as np
+
+
 def convert_matrix(matrix):
+    """
+    Converts a matrix into a list of (i, j, value) tuples.
+    return: converted: list of (i, j, value) tuples
+    """
     converted = []
 
     for i, row in enumerate(matrix):
@@ -10,6 +16,10 @@ def convert_matrix(matrix):
 
 
 def convert_vector(vector):
+    """
+    Converts a vector into a list of (i, value) tuples.
+    return: converted: list of (i, value) tuples
+    """
     converted = []
 
     for i, row in enumerate(vector):
@@ -18,38 +28,98 @@ def convert_vector(vector):
 
     return converted
 
-# als matrix_B kann auch ein Vektor übergeben werden!
+
 def calculate_result(matrix_A, matrix_B):
+    """
+    Calculates the dot product of two matrices.
+    param: matrix_A: some matrix
+    param: matrix_B: some matrix or vector
+    return: result: dot product of matrix_A and matrix_B as np.array
+    """
     A = np.array(matrix_A)
     B = np.array(matrix_B)
-
     return np.dot(A, B)
-def write_input_file(matrix_list, vector_list):
-    with open("input.txt", 'w') as input_obj:
-        for row in matrix_list:
+
+def write_file(matrix, filename):
+    with open(filename, 'w') as file_obj:
+        for row in matrix:
             for column in row:
-                input_obj.write(str(column) + ' ')
-            input_obj.write("\n")
+                file_obj.write(str(column) + ' ')
+            file_obj.write("\n")
 
-        for row in vector_list:
-            for column in row:
-                input_obj.write(str(column) + ' ')
-            input_obj.write("\n")
+#def write_input_file(matrix_list, vector_list):
+#    with open("input.txt", 'w') as input_obj:
+#        for row in matrix_list:
+#            for column in row:
+#                input_obj.write(str(column) + ' ')
+#            input_obj.write("\n")
+#
+#        for row in vector_list:
+#            for column in row:
+#                input_obj.write(str(column) + ' ')
+#            input_obj.write("\n")
 
-def write_result_file(result):
-    with open("result.txt", "w") as result_obj:
-        result_obj.write(str(result))
 
+# def write_result_file(result):
+#    with open("result.txt", "w") as result_obj:
+#        result_obj.write(str(result))
+
+def create_scenario_mat_mat(scenario_name, size_a = (1000,1000), size_b=(1000,1000)):
+    """
+    param: scenario_name: name of the scenario
+    param: size_a: size of matrix A -> tuple (rows, columns)
+    param: size_b: size of matrix B -> tuple (rows, columns)
+    Creates all files for the matrix-matrix multiplication.
+    1st file: matrix_a_scenario_name.txt
+    2nd file: matrix_b_scenario_name.txt
+    3rd file: result_scenario_name.txt
+    """
+    #create matrix
+    matrix_a = np.random.randint(0, 3, size=size_a)
+    matrix_b = np.random.randint(0, 3, size=size_b)
+    #convert matrix
+    matrix_list_a = convert_matrix(matrix_a)
+    matrix_list_b = convert_matrix(matrix_b)
+    result_matrix_list = convert_matrix(calculate_result(matrix_a, matrix_b))
+    #write files
+    write_file(matrix_list_a, "matrix_a_" + scenario_name + ".txt")
+    write_file(matrix_list_b, "matrix_b_" + scenario_name + ".txt")
+    write_file(result_matrix_list, "result_" + scenario_name + ".txt")
+
+
+def create_scenario_mat_vec(scenario_name, size_a = (1000,1000), size_b=(1000,1)):
+    """
+    param: scenario_name: name of the scenario
+    param: size_a: size of matrix -> tuple (rows, columns)
+    param: size_b: size of vector -> tuple (rows, columns)
+    Creates all files for the matrix-vector multiplication.
+    1st file: matrix_scenario_name.txt
+    2nd file: vector_scenario_name.txt
+    3rd file: result_scenario_name.txt
+    """
+    #create matrix
+    matrix = np.random.randint(0, 3, size=size_a)
+    vector = np.random.randint(0, 3, size=size_b)
+    #convert matrix
+    matrix_list = convert_matrix(matrix)
+    vector_list = convert_vector(vector)
+    result_matrix_list = convert_vector(calculate_result(matrix, vector))
+    #write files
+    write_file(matrix_list, "matrix_" + scenario_name + ".txt")
+    write_file(vector_list, "vector_" + scenario_name + ".txt")
+    write_file(result_matrix_list, "result_" + scenario_name + ".txt")
+
+def clear_all_txt():
+    """
+    Deletes all txt files in the current directory.
+    """
+    import os
+    for file in os.listdir():
+        if file.endswith(".txt"):
+            os.remove(file)
 
 if __name__ == '__main__':
-    matrix = [[2, 2, 0], [2, -1, -3], [1, 0, 1]]
-    vector = [[3], [1], [0]]
 
-    matrix_result = convert_matrix(matrix)
-    vector_result = convert_vector(vector)
-
-    result = calculate_result(matrix, vector)
-
-    write_input_file(matrix_result, vector_result)
-    write_result_file(result)
-
+    # create_scenario_mat_mat("mat_mat_1000")
+    create_scenario_mat_vec("mat_vec_1000")
+    #clear_all_txt()
