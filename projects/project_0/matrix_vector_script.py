@@ -82,8 +82,8 @@ def create_scenario_mat_mat(scenario_name, size_a = (1000,1000), size_b=(1000,10
     matrix_list_b = convert_matrix(matrix_b)
     result_matrix_list = convert_matrix(calculate_result(matrix_a, matrix_b))
     #write files
-    write_file(matrix_list_a, "matrix_a_" + scenario_name + ".txt")
-    write_file(matrix_list_b, "matrix_b_" + scenario_name + ".txt")
+    input = matrix_list_a + matrix_list_b
+    write_file(matrix_list_a, "input_" + scenario_name + ".txt")
     write_file(result_matrix_list, "result_" + scenario_name + ".txt")
 
 
@@ -105,9 +105,10 @@ def create_scenario_mat_vec(scenario_name, size_a = (1000,1000), size_b=(1000,1)
     vector_list = convert_vector(vector)
     result_matrix_list = convert_vector(calculate_result(matrix, vector))
     #write files
-    write_file(matrix_list, "matrix_" + scenario_name + ".txt")
-    write_file(vector_list, "vector_" + scenario_name + ".txt")
+    input = matrix_list + vector_list
+    write_file(input, "input_" + scenario_name + ".txt")
     write_file(result_matrix_list, "result_" + scenario_name + ".txt")
+
 
 def clear_all_txt():
     """
@@ -120,6 +121,7 @@ def clear_all_txt():
 
 if __name__ == '__main__':
 
-    # create_scenario_mat_mat("mat_mat_1000")
-    create_scenario_mat_vec("mat_vec_1000")
-    #clear_all_txt()
+    clear_all_txt()
+    create_scenario_mat_vec("mat_vec_10", size_a=(10, 10), size_b=(10, 1))
+    create_scenario_mat_vec("mat_vec_100", size_a=(100, 100), size_b=(100, 1))
+    create_scenario_mat_vec("mat_vec_1000", size_a=(1000, 1000), size_b=(1000, 1))
