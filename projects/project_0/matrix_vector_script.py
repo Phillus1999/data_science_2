@@ -122,4 +122,4 @@ def clear_all_txt():
 if __name__ == '__main__':
 
     clear_all_txt()
-    create_scenario_mat_mat("1000x1000")
+    create_scenario_mat_mat("4x4", size_a=(4,4), size_b=(4,4))
