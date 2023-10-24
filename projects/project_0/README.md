@@ -22,3 +22,16 @@ Um matrixmultiplication.py aufzurufen, benötigen Sie folgenden Befehl (ohne "")
 "python3 matrixmultiplication.py input_100x100.txt > output.txt"
 
 input_100x100.txt kann abweichen, je nachdem wie das inputfile vom Generator kreiert wird.
+
+# Testzenario
+
+Um die Abgaben verschiedener Teams zu beurteilen, können wir mit dem Befehl
+
+"time [befehl]" die Zeit sehen, wie lange eine Matrixmultiplikation gedauert hat,
+und die Ausführungszeiten vergleichen.
+
+In unserem Fall also (ohne ""):
+
+"time python3 matrixmultiplication.py input_100x100.txt > output.txt"
+
+
