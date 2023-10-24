@@ -1,5 +1,5 @@
 import numpy as np
-
+from scipy.sparse import random
 
 def convert_matrix(matrix, name):
     """
@@ -46,8 +46,8 @@ def create_scenario(scenario_name, size_a=(100, 100), size_b=(100, 100)):
     2nd file: result_scenario_name.txt
     """
     # create matrix
-    matrix_a = np.random.randint(0, 3, size=size_a)
-    matrix_b = np.random.randint(0, 3, size=size_b)
+    matrix_a = random(size_a[0], size_a[1], density=0.01).toarray()
+    matrix_b = random(size_b[0], size_b[1], density=0.01).toarray()
     # convert matrix
     matrix_list_a = convert_matrix(matrix_a, "A")
     matrix_list_b = convert_matrix(matrix_b, "B")
@@ -70,4 +70,4 @@ def clear_all_txt():
 
 if __name__ == '__main__':
     clear_all_txt()
-    create_scenario("100x100")
+    create_scenario("1000x1000", (1000, 1000), (1000, 1000))
