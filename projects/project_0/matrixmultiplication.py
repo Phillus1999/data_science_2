@@ -13,52 +13,42 @@ class MatrixMultiplication(MRJob):
     def configure_args(self):
         """Additional configuration flag for the matrix dimensions"""
         super().configure_args()
-        self.add_passthru_arg('--dim', type=str, default='1000,1000',
+        self.add_passthru_arg('--dim', type=str, default='100,100',
                               help='Dimensions of the matrices as N,M')
 
     def mapper(self, key, line):
-        """
-        line = i(row) j(col) value mat_name
-        """
+        # set the dimensions of the matrices
         matrix_dimensions = self.options.dim.split(',')
         n, m = map(int, matrix_dimensions)
-        current_line = line.split()
-        if current_line[2] == "0.0":
+        # parse the input line
+        i, j, value, mat_name = line.split()
+        i, j, value = int(i), int(j), float(value)
+        # ignore zero values
+        if value == 0.0:
             pass
-        if current_line[3] == "A":
-            for j in range(0, m):
-                # we yield key = (i ,j) value = (i, j, value, "A")
-                yield (int(current_line[0]), j), (int(current_line[0]), int(current_line[1]), float(current_line[2]), "A")
-        if current_line[3] == "B":
-            for i in range(0, n):
-                # we yield key = (i ,j) value = (i, j, value, "B")
-                yield (i, int(current_line[1])), (int(current_line[0]), int(current_line[1]), float(current_line[2]), "B")
+        if mat_name == "A":
+            for col in range(m):
+                yield (i, col), ("A", j, value)
+        elif mat_name == "B":
+            for row in range(n):
+                yield (row, j), ("B", i, value)
 
     def reducer(self, key, values):
-        # key = (i, j), values = [(i, j, value, "A"), (i, j, value, "b")]
-        # sort the values for a and b
-        a = {}
-        b = {}
-        for value in values:
-            if value[3] == "A":
-                a[(value[0], value[1])] = value[2]
-            if value[3] == "B":
-                b[(value[0], value[1])] = value[2]
-        # now we have two dictionaries with the values of a and b
-        result = 0
-        for x in range(0, len(a)):
-            # bzw. C_i,j = sum(A_i,k * B_k,j)
-            value_a = a.get((key[0], x))
-            value_b = b.get((x, key[1]))
-            result = 0
-            if value_a is not None and value_b is not None:
-                result += value_a * value_b
+        a_values = dict()
+        b_values = dict()
 
+        for mat_name, idx, value in values:
+            if mat_name == "A":
+                a_values[idx] = value
+            else:
+                b_values[idx] = value
+
+        result = sum(a_values[k] * b_values.get(k, 0) for k in a_values.keys())
         yield key, result
 
 
 if __name__ == '__main__':
     """
-    python3 matrixmultiplication.py input_100x100.txt --runner=local --jobconf mapreduce.job.maps=100 --jobconf mapreduce.job.reduces=100 > output.txt
+    execute with: python3 matrixmultiplication.py input_100x100.txt > output.txt
     """
     MatrixMultiplication.run()

@@ -69,5 +69,6 @@ def clear_all_txt():
 
 
 if __name__ == '__main__':
+
     clear_all_txt()
-    create_scenario("1000x1000", (1000, 1000), (1000, 1000))
+    create_scenario("100x100")
