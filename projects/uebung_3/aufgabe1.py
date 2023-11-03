@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 
@@ -11,7 +12,6 @@ def make_subset(size=10, remove_old=False):
 
     # entferne die alten Daten, wenn remove_old=True (default=False)
     if remove_old:
-        import os
         os.remove('subset.txt')
 
     # lese die Daten ein und erstelle ein Sample der Größe size (default=10) mit zufälligen Einträgen.
