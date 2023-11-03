@@ -20,3 +20,7 @@ class ShinglesCount(MRJob):
         :return:
         """
         yield shingle, sum(counts)
+
+
+if __name__ == '__main__':
+    ShinglesCount.run()
