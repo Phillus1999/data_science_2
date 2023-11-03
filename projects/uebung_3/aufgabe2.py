@@ -9,7 +9,6 @@ class ShinglesCount(MRJob):
         :param line: Eine Zeile.
         :return: Generator der Shingles
         """
-        # Hier generieren Sie die k-Shingles
-        k = 3  # Setzen Sie k auf den gewünschten Shingle-Wert
+        k = 3  
         for i in range(len(line) - k + 1):
             yield line[i:i + k], 1
