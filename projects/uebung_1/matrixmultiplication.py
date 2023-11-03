@@ -46,9 +46,9 @@ class MatrixMultiplication(MRJob):
         result = sum(a_values[k] * b_values.get(k, 0) for k in a_values.keys())
         yield key, result
 
-
 if __name__ == '__main__':
     """
     execute with: python3 matrixmultiplication.py input_100x100.txt > output.txt
     """
     MatrixMultiplication.run()
+
