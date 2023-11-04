@@ -1,0 +1,4405 @@
+"ps "	2
+"ps."	4
+"pse"	1
+"psi"	1
+"pt "	3
+"pta"	1
+"pte"	3
+"pth"	2
+"pti"	27
+"pty"	1
+"pub"	8
+"pul"	1
+"pur"	3
+"pus"	1
+"put"	26
+"py "	2
+"py,"	1
+"py."	1
+"pyr"	2
+"qa-"	1
+"qua"	12
+"que"	159
+"qui"	31
+"qup"	1
+"r $"	5
+"r 4"	2
+"r :"	1
+"r ?"	2
+"r A"	1
+"r C"	3
+"r I"	5
+"r M"	4
+"r N"	1
+"r S"	8
+"r T"	1
+"r U"	1
+"r Z"	1
+"r a"	103
+"r b"	43
+"r c"	57
+"r d"	48
+"r e"	18
+"r f"	17
+"r g"	19
+"r h"	20
+"r i"	113
+"r j"	23
+"r k"	1
+"r l"	12
+"r m"	33
+"r n"	9
+"r o"	80
+"r p"	31
+"r q"	46
+"r r"	27
+"r s"	78
+"r t"	191
+"r u"	4
+"r v"	1
+"r w"	36
+"r y"	117
+"r's"	3
+"r, "	29
+"r-j"	1
+"r.i"	1
+"r/h"	1
+"r/m"	1
+"r/p"	2
+"r: "	2
+"rCh"	2
+"rJe"	1
+"r\" "	2
+"r\"."	2
+"r\u00e9s"	2
+"ra "	2
+"rac"	23
+"rad"	8
+"rag"	4
+"rai"	30
+"ral"	30
+"ram"	33
+"ran"	26
+"rap"	1
+"rar"	1
+"ras"	3
+"rat"	45
+"rau"	1
+"rav"	2
+"raz"	1
+"rbo"	1
+"rce"	8
+"rch"	15
+"rci"	3
+"rco"	5
+"rcu"	4
+"rd "	24
+"rd,"	2
+"rd."	5
+"rde"	11
+"rdi"	4
+"rdo"	1
+"rds"	3
+"rdw"	1
+"re "	909
+"re'"	101
+"re,"	16
+"re-"	4
+"re."	86
+"re:"	11
+"re?"	1
+"re\""	1
+"rea"	304
+"rec"	47
+"red"	41
+"ree"	60
+"ref"	7
+"reg"	1
+"rel"	16
+"rem"	13
+"ren"	43
+"rep"	10
+"req"	18
+"rer"	2
+"res"	81
+"ret"	35
+"reu"	1
+"rev"	10
+"rew"	11
+"rfe"	4
+"rfo"	5
+"rga"	1
+"rge"	16
+"rgo"	2
+"rgr"	1
+"rgu"	1
+"ria"	9
+"rib"	7
+"ric"	14
+"rid"	5
+"rie"	42
+"rif"	3
+"rig"	27
+"rik"	1
+"ril"	12
+"rim"	9
+"rin"	26
+"rio"	5
+"rip"	5
+"ris"	8
+"rit"	25
+"riv"	1
+"rk "	49
+"rk,"	7
+"rk."	20
+"rk?"	2
+"rkd"	2
+"rke"	8
+"rki"	4
+"rko"	1
+"rks"	14
+"rla"	4
+"rld"	2
+"rli"	10
+"rly"	16
+"rm "	15
+"rm."	3
+"rma"	14
+"rme"	1
+"rmi"	5
+"rmk"	1
+"rms"	1
+"rmu"	2
+"rn "	29
+"rn,"	1
+"rn."	3
+"rna"	7
+"rne"	11
+"rni"	4
+"rnm"	2
+"rns"	1
+"roa"	5
+"rob"	179
+"roc"	12
+"rod"	10
+"rof"	12
+"rog"	31
+"roi"	1
+"roj"	2
+"rok"	4
+"rol"	10
+"rom"	30
+"ron"	29
+"roo"	15
+"rop"	20
+"ros"	1
+"rot"	4
+"rou"	9
+"rov"	6
+"row"	6
+"roz"	1
+"rpA"	1
+"rpo"	6
+"rpr"	1
+"rqu"	1
+"rra"	2
+"rre"	9
+"rri"	12
+"rry"	58
+"rs "	48
+"rs,"	13
+"rs."	23
+"rs/"	1
+"rs:"	1
+"rsa"	5
+"rsb"	2
+"rse"	22
+"rsi"	5
+"rso"	22
+"rst"	67
+"rsu"	1
+"rt "	36
+"rt."	9
+"rt?"	3
+"rta"	23
+"rte"	2
+"rtf"	1
+"rth"	10
+"rti"	11
+"rtl"	1
+"rtm"	1
+"rtn"	1
+"rts"	3
+"rtu"	11
+"rty"	1
+"ruc"	2
+"rud"	2
+"rue"	4
+"rul"	9
+"rum"	1
+"run"	6
+"rus"	3
+"rut"	2
+"rva"	3
+"rve"	2
+"rvi"	31
+"rwo"	1
+"ry "	123
+"ry,"	9
+"ry."	63
+"ry:"	1
+"ryi"	1
+"ryo"	3
+"ryt"	20
+"s &"	1
+"s '"	2
+"s ("	1
+"s :"	1
+"s A"	2
+"s B"	1
+"s C"	2
+"s D"	1
+"s E"	1
+"s F"	1
+"s G"	2
+"s I"	48
+"s K"	1
+"s O"	1
+"s P"	7
+"s S"	2
+"s T"	3
+"s \""	16
+"s a"	334
+"s b"	37
+"s c"	17
+"s d"	59
+"g y"	61
+"g, "	30
+"g.\""	1
+"g/f"	1
+"gBy"	1
+"gag"	1
+"gai"	11
+"gal"	6
+"gan"	2
+"gar"	7
+"gat"	4
+"gav"	1
+"ge "	24
+"ge,"	3
+"ge."	8
+"ged"	1
+"gei"	7
+"gel"	2
+"gem"	1
+"gen"	45
+"ger"	14
+"ges"	33
+"get"	101
+"gga"	2
+"gge"	29
+"ggs"	1
+"gh "	15
+"gh,"	2
+"gh."	1
+"ghe"	3
+"ghl"	4
+"ghs"	2
+"ght"	81
+"gia"	1
+"gic"	3
+"gif"	1
+"gin"	6
+"giv"	20
+"gla"	3
+"gle"	6
+"gli"	6
+"glu"	4
+"gly"	4
+"gn."	2
+"gna"	1
+"gne"	1
+"gni"	1
+"gnm"	1
+"gno"	1
+"go "	37
+"go,"	1
+"go."	7
+"go/"	1
+"goa"	21
+"goi"	44
+"gon"	3
+"goo"	138
+"gor"	1
+"got"	5
+"gov"	2
+"gra"	45
+"gre"	54
+"gri"	2
+"gro"	3
+"gs "	104
+"gs,"	2
+"gs."	5
+"gs:"	4
+"gs?"	1
+"gth"	1
+"gua"	1
+"gue"	20
+"gui"	1
+"gul"	1
+"gur"	6
+"guy"	1
+"gy."	1
+"gym"	1
+"h 3"	1
+"h E"	1
+"h I"	4
+"h J"	6
+"h M"	1
+"h O"	1
+"h S"	4
+"h V"	1
+"h \""	1
+"h a"	30
+"h b"	4
+"h c"	11
+"h d"	19
+"h e"	4
+"h f"	1
+"h g"	1
+"h h"	5
+"h i"	62
+"h j"	2
+"h l"	11
+"h m"	3
+"h n"	2
+"h o"	9
+"h p"	4
+"h q"	10
+"h r"	3
+"h s"	20
+"h t"	71
+"h u"	5
+"h w"	5
+"h y"	30
+"h, "	4
+"h-b"	1
+"h: "	1
+"hD "	3
+"hMo"	1
+"hUp"	1
+"hab"	10
+"had"	77
+"hai"	3
+"hak"	1
+"hal"	1
+"ham"	1
+"han"	35
+"hap"	12
+"har"	34
+"has"	20
+"hat"	920
+"hau"	2
+"hav"	458
+"hay"	1
+"he "	1097
+"he'"	4
+"he,"	1
+"he-"	2
+"hea"	17
+"hec"	17
+"hed"	2
+"hee"	6
+"hef"	3
+"hei"	4
+"hel"	36
+"hem"	58
+"hen"	60
+"heo"	2
+"her"	566
+"hes"	21
+"het"	2
+"hew"	1
+"hey"	69
+"hib"	2
+"hic"	51
+"hid"	1
+"hie"	2
+"hig"	8
+"hil"	20
+"him"	25
+"hin"	766
+"t b"	74
+"t c"	74
+"t d"	341
+"t e"	20
+"t f"	43
+"t g"	28
+"t h"	203
+"t i"	432
+"t j"	3
+"t k"	87
+"t l"	31
+"t m"	74
+"t n"	134
+"t o"	172
+"t p"	60
+"t q"	7
+"t r"	74
+"t s"	148
+"t t"	850
+"t u"	34
+"t v"	17
+"t w"	199
+"t y"	580
+"t'l"	1
+"t's"	173
+"t) "	1
+"t, "	222
+"t,\""	1
+"t-b"	1
+"t-m"	1
+"t-s"	1
+"t-t"	1
+"t.."	4
+"t.\""	1
+"t.a"	1
+"t.c"	3
+"t/e"	1
+"t: "	4
+"t? "	8
+"tHo"	2
+"tOn"	1
+"tRa"	2
+"t\"."	9
+"ta "	2
+"tab"	4
+"tac"	9
+"tag"	5
+"tai"	20
+"tak"	23
+"tal"	13
+"tan"	54
+"tap"	2
+"tar"	17
+"tas"	8
+"tat"	17
+"tau"	2
+"tax"	14
+"tay"	3
+"tch"	11
+"tco"	1
+"tdo"	1
+"te "	50
+"te,"	4
+"te."	21
+"te?"	3
+"tea"	13
+"teb"	1
+"tec"	6
+"ted"	31
+"tee"	1
+"teg"	1
+"tei"	1
+"tel"	61
+"tem"	22
+"ten"	22
+"tep"	2
+"ter"	126
+"tes"	15
+"tev"	2
+"tex"	3
+"tfo"	1
+"th "	148
+"th,"	1
+"th."	43
+"th:"	1
+"th?"	3
+"tha"	354
+"the"	1315
+"u!!"	1
+"u'd"	5
+"u'l"	19
+"u'r"	104
+"u'v"	10
+"u, "	16
+"u. "	1
+"u.\""	2
+"uab"	1
+"ual"	31
+"uar"	5
+"uat"	56
+"ube"	1
+"ubj"	2
+"ubl"	8
+"ubs"	2
+"ubt"	3
+"ucc"	2
+"uce"	7
+"uch"	105
+"uci"	1
+"uck"	9
+"uct"	15
+"ude"	7
+"udg"	2
+"udi"	5
+"udo"	1
+"udy"	1
+"ue "	21
+"ue,"	4
+"ue."	25
+"uea"	1
+"uen"	2
+"ues"	169
+"uet"	1
+"uff"	14
+"uga"	1
+"uge"	4
+"ugg"	27
+"ugh"	19
+"uic"	6
+"uid"	5
+"uil"	3
+"uin"	2
+"uip"	2
+"uir"	12
+"uit"	14
+"ul "	4
+"ul."	3
+"ul:"	2
+"ula"	14
+"uld"	391
+"ule"	9
+"ull"	7
+"ult"	18
+"um "	1
+"um."	5
+"um\u00e9"	2
+"uma"	1
+"umb"	8
+"ume"	30
+"umi"	3
+"ums"	1
+"un "	3
+"un'"	1
+"un."	1
+"una"	10
+"unc"	6
+"und"	52
+"une"	2
+"ung"	1
+"uni"	15
+"unl"	7
+"unm"	2
+"unn"	1
+"unp"	3
+"uns"	1
+"unt"	37
+"unu"	4
+"uor"	1
+"up "	39
+"up,"	5
+"up."	7
+"upc"	1
+"upe"	14
+"upi"	1
+"upl"	33
+"upp"	2
+"ups"	1
+"ur "	404
+"ur."	4
+"ura"	7
+"urc"	3
+"urd"	1
+"ure"	110
+"urg"	1
+"uri"	5
+"urn"	30
+"uro"	2
+"urp"	2
+"urr"	3
+"urs"	24
+"urt"	2
+"ury"	5
+"us "	17
+"us."	23
+"us:"	1
+"usa"	2
+"usc"	1
+"use"	95
+"ush"	4
+"usi"	19
+"usl"	7
+"usp"	3
+"uss"	3
+"ust"	95
+"usu"	6
+"ut "	340
+"ut!"	2
+"ut,"	7
+"ut."	19
+"ut:"	6
+"ut?"	2
+"ut\""	2
+"uta"	1
+"utc"	3
+"ute"	7
+"uth"	5
+"uti"	22
+"utr"	1
+"utt"	5
+"utu"	2
+"uxu"	1
+"uy "	11
+"uy."	1
+"uyi"	1
+"uys"	1
+"vac"	1
+"vai"	4
+"val"	9
+"van"	1
+"var"	10
+"vat"	2
+"ve "	585
+"ve'"	2
+"ve,"	3
+"ve."	24
+"ve?"	2
+"ved"	5
+"veg"	2
+"vel"	10
+"ven"	45
+"ver"	147
+"ves"	7
+"vet"	2
+"vey"	1
+"vic"	4
+"vid"	4
+"vie"	36
+"vil"	2
+"vin"	21
+"vio"	12
+"vir"	6
+"vis"	59
+"vit"	2
+"voi"	5
+"vol"	4
+"vou"	1
+"w ("	1
+"w B"	1
+"w F"	1
+"w G"	1
+"w I"	6
+"w V"	1
+"w \""	1
+"w a"	16
+"w b"	6
+"w d"	8
+"w e"	17
+"w f"	3
+"w g"	2
+"w h"	1
+"w i"	53
+"w l"	4
+"w m"	19
+"w n"	2
+"w o"	5
+"w p"	7
+"w q"	1
+"w r"	1
+"w s"	13
+"w t"	128
+"w w"	71
+"w y"	47
+"w, "	40
+"w-u"	4
+"w.d"	1
+"w.f"	1
+"w.h"	1
+"w.k"	1
+"w.w"	2
+"w\" "	1
+"wad"	1
+"wag"	1
+"wai"	3
+"wak"	1
+"wal"	7
+"wan"	372
+"war"	19
+"was"	27
+"wat"	12
+"wav"	3
+"way"	80
+"wca"	1
+"wde"	1
+"we "	21
+"we'"	1
+"wea"	5
+"web"	6
+"wed"	7
+"wee"	6
+"wei"	4
+"wel"	29
+"wen"	1
+"wer"	282
+"wes"	1
+"wev"	8
+"wha"	518
+"thi"	1080
+"thm"	1
+"tho"	22
+"thr"	11
+"ths"	1
+"thu"	1
+"thw"	1
+"thy"	2
+"ti-"	2
+"tia"	6
+"tic"	30
+"tie"	5
+"tif"	3
+"tig"	1
+"til"	8
+"tim"	71
+"tin"	51
+"tio"	351
+"tip"	1
+"tir"	10
+"tis"	2
+"tit"	10
+"tiv"	19
+"tiz"	2
+"tle"	10
+"tly"	36
+"tme"	7
+"tna"	1
+"tne"	1
+"to "	1420
+"to,"	4
+"to."	23
+"to;"	1
+"tod"	2
+"toe"	1
+"tol"	2
+"tom"	2
+"ton"	6
+"too"	45
+"top"	16
+"tor"	34
+"tot"	1
+"tou"	2
+"tov"	1
+"tow"	1
+"tp:"	8
+"tra"	41
+"tre"	6
+"tri"	15
+"tro"	14
+"tru"	11
+"try"	64
+"ts "	45
+"ts,"	4
+"ts."	29
+"ts/"	2
+"ts:"	3
+"tse"	1
+"tso"	9
+"tsp"	1
+"tst"	1
+"tte"	51
+"tth"	1
+"tti"	14
+"ttl"	4
+"tto"	2
+"ttp"	8
+"tty"	19
+"tua"	67
+"tub"	1
+"tud"	5
+"tuf"	13
+"tun"	11
+"tur"	52
+"tus"	1
+"tut"	4
+"twa"	3
+"twe"	4
+"twi"	5
+"two"	49
+"ty "	36
+"ty,"	3
+"ty."	6
+"ty/"	1
+"tye"	2
+"tyl"	4
+"typ"	12
+"tze"	4
+"u  "	1
+"u -"	2
+"u C"	2
+"u D"	1
+"u P"	3
+"u a"	209
+"u b"	6
+"u c"	253
+"u d"	414
+"u e"	3
+"u f"	10
+"u g"	26
+"u h"	174
+"u i"	16
+"u j"	36
+"u k"	18
+"u l"	70
+"u m"	66
+"u n"	113
+"u o"	4
+"u p"	27
+"u r"	46
+"u s"	156
+"u t"	75
+"u u"	3
+"u w"	362
+"s e"	16
+"s f"	84
+"s g"	27
+"s h"	31
+"s i"	263
+"s j"	17
+"s k"	2
+"s l"	24
+"s m"	64
+"s n"	221
+"s o"	409
+"s p"	60
+"s q"	31
+"s r"	32
+"s s"	61
+"s t"	263
+"s u"	41
+"s v"	21
+"s w"	176
+"s y"	127
+"s, "	135
+"s-e"	1
+"s-i"	1
+"s. "	2
+"s.."	1
+"s.\""	1
+"s.c"	2
+"s/ "	1
+"s/d"	1
+"s/f"	1
+"s: "	22
+"s? "	4
+"s?\""	1
+"s\"."	3
+"sa "	8
+"sa,"	1
+"sa."	13
+"saf"	7
+"sag"	2
+"sai"	6
+"sal"	16
+"sam"	85
+"san"	2
+"sar"	7
+"sat"	5
+"sau"	7
+"sav"	2
+"saw"	1
+"say"	82
+"sbe"	2
+"sca"	7
+"sce"	1
+"sch"	7
+"sci"	2
+"scl"	1
+"sco"	1
+"scr"	12
+"scu"	3
+"se "	143
+"se,"	38
+"se."	22
+"se:"	8
+"se?"	1
+"sea"	17
+"sec"	4
+"sed"	44
+"see"	50
+"sef"	7
+"sel"	22
+"sem"	2
+"sen"	11
+"sep"	3
+"ser"	15
+"ses"	7
+"set"	10
+"seu"	1
+"sev"	7
+"sew"	1
+"sex"	1
+"sfu"	2
+"sgu"	1
+"sh "	9
+"sh,"	1
+"sh-"	1
+"sh."	9
+"shM"	1
+"sha"	8
+"she"	20
+"shi"	4
+"sho"	230
+"shr"	1
+"sib"	35
+"sic"	6
+"sid"	43
+"sie"	6
+"sig"	5
+"sim"	51
+"sin"	25
+"sio"	15
+"sis"	6
+"sit"	89
+"siv"	4
+"siz"	2
+"sk "	39
+"sk,"	6
+"sk."	5
+"sk/"	2
+"ska"	5
+"ske"	6
+"ski"	11
+"sla"	1
+"sle"	2
+"slo"	6
+"sly"	7
+"sm-"	1
+"sma"	1
+"smi"	1
+"sn'"	49
+"sna"	1
+"sni"	1
+"so "	38
+"so,"	5
+"so."	6
+"soc"	2
+"sod"	3
+"soe"	9
+"sof"	3
+"soi"	1
+"sol"	24
+"som"	68
+"son"	87
+"soo"	5
+"sop"	1
+"sor"	31
+"sou"	17
+"sp."	1
+"spa"	1
+"spe"	29
+"spi"	1
+"spl"	1
+"spo"	12
+"spr"	3
+"squ"	1
+"sre"	1
+"ss "	54
+"ss,"	4
+"ss."	9
+"ssa"	7
+"sse"	2
+"ssf"	2
+"ssi"	49
+"sso"	10
+"ssp"	2
+"ssu"	41
+"ssy"	1
+"st "	257
+"st,"	2
+"st-"	2
+"st."	15
+"st/"	1
+"sta"	70
+"std"	1
+"ste"	54
+"sti"	187
+"stl"	3
+"stm"	6
+"sto"	28
+"str"	21
+"sts"	1
+"stu"	20
+"sty"	4
+"sua"	6
+"sub"	3
+"suc"	26
+"sue"	34
+"suf"	1
+"sug"	28
+"sui"	2
+"sul"	11
+"sum"	25
+"sup"	16
+"sur"	62
+"sus"	5
+"swe"	275
+"swi"	4
+"sy "	4
+"syn"	2
+"sys"	5
+"t  "	1
+"t -"	1
+"t 1"	6
+"t 3"	7
+"t G"	2
+"t H"	3
+"t I"	73
+"t M"	2
+"t N"	3
+"t T"	2
+"t U"	1
+"t Y"	1
+"t Z"	1
+"t \""	1
+"t a"	346
+"hip"	5
+"hir"	3
+"his"	461
+"hly"	4
+"hm,"	1
+"hni"	6
+"ho "	4
+"ho,"	2
+"hob"	2
+"hoc"	1
+"hod"	1
+"hoi"	5
+"hol"	9
+"hom"	5
+"hon"	1
+"hoo"	7
+"hop"	3
+"hor"	17
+"hos"	6
+"hou"	233
+"how"	142
+"hpl"	1
+"hra"	2
+"hre"	9
+"hro"	3
+"hrs"	1
+"hs."	3
+"ht "	63
+"ht,"	3
+"ht-"	1
+"ht."	6
+"ht?"	1
+"htR"	2
+"hta"	1
+"hte"	1
+"hts"	3
+"htt"	8
+"hug"	4
+"hum"	1
+"hur"	1
+"hwh"	1
+"hy "	22
+"hy?"	1
+"hyd"	1
+"hyl"	1
+"hys"	1
+"i r"	1
+"i t"	5
+"i'v"	1
+"i-s"	2
+"ia "	3
+"ia,"	1
+"ia."	2
+"ia:"	1
+"iab"	7
+"ial"	15
+"ian"	7
+"iar"	1
+"iat"	7
+"ibe"	5
+"ibi"	8
+"ibl"	33
+"ibr"	1
+"ic "	16
+"ic."	2
+"ica"	29
+"ice"	21
+"ich"	46
+"ici"	16
+"ick"	25
+"icl"	2
+"icr"	3
+"ics"	4
+"ict"	10
+"icu"	11
+"id "	27
+"id'"	1
+"id,"	8
+"id."	10
+"ida"	3
+"ide"	162
+"idg"	4
+"idi"	10
+"idm"	1
+"idn"	5
+"idu"	1
+"idw"	1
+"ie "	20
+"ie,"	2
+"iec"	3
+"ied"	16
+"ief"	4
+"iel"	2
+"ien"	30
+"ier"	8
+"ies"	18
+"iet"	5
+"iev"	21
+"iew"	13
+"if "	142
+"ife"	4
+"iff"	35
+"ifi"	11
+"ift"	2
+"ify"	6
+"ig "	10
+"iga"	4
+"ige"	1
+"igg"	2
+"igh"	88
+"ign"	6
+"igu"	5
+"ik "	1
+"ike"	115
+"iki"	5
+"il "	11
+"il,"	1
+"il."	1
+"ila"	37
+"ilc"	1
+"ild"	14
+"ile"	15
+"ili"	14
+"ilk"	3
+"ill"	128
+"ilm"	3
+"ilo"	7
+"ily"	13
+"ilz"	1
+"im "	23
+"im."	5
+"ima"	11
+"imb"	1
+"ime"	73
+"imi"	33
+"imm"	3
+"imp"	52
+"imu"	5
+"in "	202
+"in,"	1
+"in-"	2
+"in."	21
+"in?"	1
+"inL"	6
+"ina"	13
+"inc"	13
+"ind"	93
+"ine"	66
+"inf"	7
+"ing"	655
+"ini"	38
+"ink"	477
+"inl"	3
+"inn"	1
+"ino"	1
+"ins"	34
+"int"	39
+"inu"	2
+"inv"	9
+"iny"	3
+"io "	1
+"io,"	1
+"io."	1
+"iod"	4
+"iol"	1
+"ion"	372
+"ior"	1
+"iou"	27
+"ip "	5
+"ip."	2
+"ipI"	1
+"ipe"	8
+"ipl"	3
+"ipm"	2
+"ipp"	2
+"ips"	2
+"ipt"	1
+"iqu"	8
+"ir "	10
+"ir."	1
+"ir\""	1
+"ira"	1
+"irc"	4
+"ird"	1
+"ire"	40
+"iri"	3
+"irl"	3
+"irm"	2
+"iro"	6
+"irs"	50
+"is "	1103
+"ot,"	12
+"ot."	31
+"ot?"	2
+"otO"	1
+"ot\""	8
+"ota"	2
+"ote"	5
+"oth"	103
+"oti"	5
+"otl"	2
+"ots"	2
+"ott"	1
+"otw"	1
+"oty"	2
+"ou "	2096
+"ou!"	1
+"ou'"	140
+"ou,"	16
+"ou."	100
+"ou:"	6
+"oub"	4
+"oug"	19
+"oul"	391
+"oun"	65
+"oup"	34
+"our"	436
+"ous"	37
+"out"	154
+"ove"	62
+"ovi"	22
+"ow "	345
+"ow,"	38
+"ow-"	4
+"ow."	61
+"ow:"	1
+"ow\""	1
+"owa"	4
+"owc"	1
+"owd"	1
+"owe"	14
+"owi"	7
+"owl"	9
+"own"	46
+"owo"	2
+"ows"	2
+"oy "	1
+"oye"	16
+"oym"	1
+"oze"	3
+"p I"	1
+"p a"	4
+"p b"	5
+"p c"	2
+"p d"	2
+"p f"	5
+"p h"	4
+"p i"	3
+"p l"	1
+"p o"	9
+"p t"	41
+"p y"	16
+"p, "	8
+"p.c"	1
+"p: "	1
+"p:/"	8
+"p; "	1
+"pAn"	1
+"pH "	1
+"pIt"	1
+"pac"	5
+"pag"	5
+"pai"	9
+"pal"	1
+"pan"	18
+"pap"	11
+"par"	28
+"pas"	5
+"pat"	6
+"pay"	42
+"pca"	1
+"pe "	35
+"pe."	3
+"pea"	7
+"pec"	23
+"ped"	4
+"pee"	2
+"pen"	439
+"peo"	12
+"per"	93
+"pet"	3
+"pex"	1
+"pfu"	1
+"ph "	1
+"phi"	3
+"pho"	1
+"phr"	2
+"phy"	2
+"pic"	9
+"pie"	2
+"pim"	1
+"pin"	12
+"pir"	2
+"pis"	1
+"pla"	48
+"ple"	69
+"pli"	10
+"plo"	18
+"plu"	1
+"ply"	35
+"pme"	2
+"po "	1
+"poi"	7
+"pol"	2
+"pon"	10
+"poo"	1
+"por"	30
+"pos"	64
+"pot"	5
+"pou"	2
+"pow"	1
+"pp "	1
+"ppe"	9
+"ppi"	3
+"ppl"	24
+"ppo"	3
+"ppr"	15
+"ppy"	3
+"pra"	7
+"pre"	49
+"pri"	14
+"pro"	262
+"Tit"	1
+"To "	10
+"Tot"	1
+"Toy"	1
+"Tra"	1
+"Tre"	2
+"Tri"	1
+"Try"	4
+"Tur"	2
+"Two"	1
+"U g"	1
+"U w"	1
+"U.S"	2
+"UK,"	2
+"UK."	1
+"UR "	1
+"US "	1
+"US,"	4
+"US."	3
+"USA"	1
+"Und"	1
+"Unf"	9
+"Unk"	1
+"Unl"	1
+"Uno"	2
+"Up "	2
+"Up;"	1
+"Use"	1
+"V a"	2
+"V f"	1
+"VAT"	1
+"VE "	3
+"VRB"	1
+"Val"	1
+"Vam"	1
+"Ver"	1
+"Vie"	1
+"Vin"	2
+"Vis"	3
+"Vol"	4
+"WAA"	1
+"Way"	2
+"We "	4
+"Wel"	3
+"Wha"	47
+"Whe"	7
+"Whi"	3
+"Why"	2
+"Wik"	3
+"Wor"	3
+"XX."	1
+"XXX"	1
+"Y d"	3
+"Y j"	1
+"Y t"	1
+"Y-s"	1
+"YOU"	2
+"Yes"	78
+"You"	446
+"Zen"	1
+"Zur"	1
+"\" I"	1
+"\" a"	1
+"\" o"	1
+"\" t"	2
+"\" w"	1
+"\" y"	1
+"\", "	5
+"\"Ea"	2
+"\"I "	1
+"\"I\""	1
+"\"No"	3
+"\"Pr"	8
+"\"Ta"	1
+"\"Wh"	1
+"\"Yo"	1
+"\"bi"	1
+"\"ca"	1
+"\"co"	1
+"\"do"	1
+"\"du"	1
+"\"fa"	1
+"\"ha"	1
+"\"it"	2
+"\"ju"	2
+"\"la"	1
+"\"ma"	1
+"\"no"	3
+"\"st"	1
+"\"su"	1
+"\"th"	1
+"\"wh"	2
+"\"ye"	2
+"\u00e9 ?"	1
+"\u00e9su"	2
+"\u2019t "	1
+"\u2019t."	1
+"a '"	1
+"a D"	1
+"a P"	4
+"a R"	2
+"a Y"	1
+"a \""	1
+"a a"	1
+"a b"	49
+"a c"	60
+"a d"	15
+"a f"	66
+"a g"	120
+"a h"	17
+"a i"	5
+"a j"	3
+"a k"	3
+"a l"	103
+"a m"	16
+"a n"	12
+"a o"	3
+"a p"	52
+"a q"	6
+"a r"	45
+"a s"	54
+"a t"	36
+"a u"	1
+"a v"	22
+"a w"	8
+"a y"	1
+"a, "	3
+"a-p"	1
+"a. "	2
+"aan"	1
+"abi"	13
+"abl"	102
+"abo"	107
+"abs"	3
+"aby"	1
+"aca"	3
+"acc"	11
+"ace"	42
+"ach"	20
+"aci"	2
+"ack"	13
+"acl"	2
+"acr"	1
+"act"	72
+"acu"	1
+"ad "	154
+"ad,"	5
+"ad-"	1
+"ad."	15
+"ad:"	5
+"ada"	4
+"add"	25
+"ade"	10
+"adh"	4
+"adi"	9
+"adj"	5
+"adl"	3
+"adm"	1
+"ado"	2
+"adu"	4
+"adv"	26
+"ady"	15
+"afe"	7
+"aff"	5
+"afr"	6
+"aft"	3
+"ag."	1
+"aga"	9
+"age"	42
+"agg"	1
+"agi"	3
+"agl"	1
+"ago"	3
+"agr"	39
+"ags"	2
+"agu"	2
+"aid"	18
+"aig"	4
+"ail"	25
+"aim"	3
+"ain"	51
+"air"	12
+"ais"	1
+"ait"	3
+"ak "	4
+"ak."	5
+"ak\""	1
+"aka"	1
+"ake"	101
+"aki"	25
+"al "	99
+"al,"	4
+"al."	13
+"ala"	8
+"alc"	1
+"ale"	6
+"alg"	1
+"ali"	24
+"alk"	8
+"all"	267
+"alm"	2
+"alo"	8
+"alr"	14
+"als"	32
+"alt"	17
+"alu"	4
+"alw"	20
+"aly"	1
+"am "	18
+"am,"	1
+"am."	28
+"am/"	1
+"am?"	2
+"ama"	4
+"ame"	99
+"amm"	6
+"amo"	4
+"amp"	7
+"ams"	1
+"an "	358
+"an'"	17
+"an,"	7
+"an."	20
+"an?"	2
+"ana"	12
+"anc"	20
+"and"	302
+"ane"	1
+"ang"	13
+"ani"	5
+"ank"	23
+"ann"	13
+"ano"	5
+"ans"	293
+"ant"	401
+"anu"	1
+"anx"	15
+"any"	152
+"ap "	2
+"ap."	2
+"ape"	17
+"aph"	1
+"app"	50
+"ar "	59
+"ar,"	3
+"ar."	7
+"ar?"	6
+"arC"	2
+"arJ"	1
+"ara"	10
+"arb"	1
+"arc"	15
+"ard"	35
+"are"	372
+"arg"	7
+"ari"	28
+"ark"	5
+"arl"	15
+"arm"	3
+"arn"	10
+"aro"	5
+"arp"	1
+"arq"	1
+"arr"	3
+"ars"	6
+"art"	38
+"arv"	3
+"ary"	1
+"as "	138
+" mi"	55
+" mm"	1
+" mo"	127
+" mu"	87
+" my"	40
+" na"	18
+" ne"	328
+" no"	501
+" nu"	6
+" ob"	7
+" oc"	2
+" of"	332
+" oi"	1
+" ok"	2
+" ol"	4
+" on"	614
+" op"	33
+" or"	23
+" ot"	43
+" ou"	57
+" ov"	10
+" ow"	30
+" pH"	1
+" pa"	96
+" pe"	46
+" ph"	7
+" pi"	11
+" pl"	44
+" po"	64
+" pr"	300
+" pu"	37
+" qu"	170
+" r\u00e9"	2
+" ra"	14
+" re"	392
+" ri"	33
+" ro"	23
+" ru"	15
+" sa"	201
+" sc"	21
+" se"	97
+" sh"	256
+" si"	121
+" sk"	2
+" sl"	8
+" sm"	1
+" sn"	2
+" so"	145
+" sp"	30
+" sq"	1
+" st"	114
+" su"	138
+" sw"	4
+" sy"	7
+" ta"	67
+" te"	71
+" th"	2582
+" ti"	54
+" to"	1509
+" tr"	72
+" tu"	13
+" tw"	55
+" ty"	12
+" ul"	4
+" un"	52
+" up"	46
+" us"	82
+" ut"	1
+" va"	17
+" ve"	53
+" vi"	29
+" wa"	475
+" we"	71
+" wh"	698
+" wi"	273
+" wo"	343
+" wr"	28
+" ye"	19
+" yo"	2327
+"$12"	1
+"$25"	1
+"$5."	3
+"% s"	3
+"& w"	1
+"'Ca"	1
+"'T "	1
+"'T."	3
+"'Vi"	1
+"'d "	33
+"'it"	2
+"'ll"	29
+"'m "	52
+"'re"	105
+"'s "	292
+"'s."	3
+"'t "	677
+"'t!"	1
+"'t,"	19
+"'t."	50
+"'ve"	53
+"(19"	5
+"(20"	1
+"(Bu"	3
+"(I "	1
+"(Th"	1
+"(or"	1
+") J"	1
+") T"	1
+") t"	1
+"), "	7
+", C"	1
+", G"	1
+", I"	84
+", T"	1
+", W"	1
+", \""	2
+", a"	86
+", b"	149
+", c"	2
+", d"	55
+", e"	5
+", f"	5
+", g"	11
+", h"	6
+", i"	60
+", j"	2
+", m"	3
+", n"	19
+", o"	10
+", p"	3
+", r"	3
+", s"	21
+", t"	145
+", u"	2
+", v"	2
+", w"	40
+", y"	156
+",\" "	1
+"- I"	3
+"- W"	1
+"- a"	1
+"- d"	4
+"- f"	1
+"-Bi"	1
+"-Ve"	1
+"-ag"	1
+"-ar"	1
+"-ba"	1
+"-bu"	1
+"-co"	1
+"-dr"	1
+"-ef"	2
+"-en"	1
+"-et"	1
+"-fi"	1
+"-in"	2
+"-io"	1
+"-ja"	1
+"-li"	1
+"-ma"	3
+"-mi"	1
+"-of"	1
+"-ps"	1
+"-re"	1
+"-so"	2
+"-sp"	1
+"-sw"	1
+"-th"	2
+"-ti"	1
+"-tr"	1
+"-up"	4
+"-us"	3
+"-wo"	1
+"-x-"	1
+". I"	1
+". Y"	4
+". h"	1
+". o"	1
+"., "	1
+".. "	3
+"..!"	1
+"..."	7
+".S."	2
+".ab"	1
+".ar"	1
+".be"	1
+".co"	13
+".do"	1
+".ds"	1
+".fl"	1
+".ho"	1
+".io"	1
+".ky"	1
+".wr"	2
+"/ w"	1
+"//c"	1
+"//e"	1
+"//w"	6
+"/Fl"	1
+"/ca"	1
+"/co"	1
+"/da"	1
+"/dd"	1
+"/di"	2
+"/en"	1
+"/ex"	1
+"/fa"	1
+"/fl"	1
+"/go"	1
+"/he"	1
+"/hi"	1
+"/im"	1
+"/mu"	1
+"/or"	2
+"/pa"	2
+"/pu"	1
+"/qa"	1
+"/re"	3
+"/to"	1
+"/ww"	6
+"/yy"	1
+"0 c"	1
+"0 y"	1
+"0% "	3
+"00%"	3
+"000"	2
+"00?"	1
+"00\""	1
+"012"	1
+"0\"."	1
+"1 i"	1
+"1 y"	1
+"1)."	1
+"100"	4
+"12)"	1
+"12."	1
+"12h"	1
+"13 "	3
+"14S"	1
+"18k"	1
+"199"	5
+"2 c"	4
+"2 o"	1
+"2 t"	1
+"2)."	5
+"2. "	4
+"200"	1
+"201"	1
+"25 "	1
+"2hr"	1
+"3 a"	1
+"3 i"	3
+"3) "	1
+"3D."	2
+"40 "	1
+"41 "	1
+"4SA"	1
+"5 a"	1
+"60 "	1
+"8k "	1
+"91)"	1
+"92)"	4
+"991"	1
+"992"	4
+":  "	3
+": N"	2
+": P"	1
+": U"	2
+": W"	1
+": Y"	10
+": \""	1
+": a"	1
+": d"	1
+": h"	2
+": i"	7
+": k"	1
+": m"	1
+": p"	1
+"://"	8
+"; I"	1
+"; t"	1
+"? N"	1
+"A c"	8
+"A f"	5
+"A i"	1
+"A l"	4
+"A p"	1
+"A s"	1
+"A, "	1
+"AAA"	3
+"AAY"	1
+"ABL"	3
+"AFA"	2
+"AIK"	1
+"AIR"	1
+"AJ."	1
+"AJ1"	1
+"AN "	2
+"ANN"	1
+"AT "	1
+"ATM"	1
+"AVE"	3
+"AY "	1
+"Abs"	1
+"Act"	3
+"Add"	1
+"Ade"	1
+"Aga"	2
+"Agr"	1
+"All"	14
+"Als"	7
+"Alt"	1
+"Ama"	1
+"And"	11
+"Ano"	3
+"App"	1
+"Ark"	1
+"As "	29
+"Ask"	1
+"At "	9
+"Ato"	1
+"Awa"	1
+"B2 "	1
+"BAB"	3
+"BLY"	3
+"BO."	1
+"Ban"	1
+"Bas"	2
+"Be "	1
+"Bec"	1
+"Ber"	6
+"Bil"	1
+"Bod"	2
+"Bus"	6
+"But"	26
+"Buy"	1
+"ByR"	1
+"C a"	1
+"CAN"	3
+"CV "	3
+"Cal"	1
+"Can"	16
+"Cau"	1
+"Cel"	1
+"Che"	3
+"Chi"	2
+"Cle"	3
+"Cod"	1
+"Com"	2
+"Con"	3
+"Coo"	5
+"Cou"	5
+"Cur"	1
+"D a"	3
+"D i"	2
+"D m"	1
+"D p"	1
+"DIY"	1
+"DON"	4
+"DQ'"	1
+"Day"	1
+"Dep"	31
+"Der"	1
+"Dha"	1
+"Did"	1
+"Do "	21
+"Doc"	1
+"Doe"	4
+"Don"	12
+"Dra"	1
+"Dwo"	1
+"E q"	3
+"E r"	1
+"E t"	3
+"ED "	3
+"EED"	3
+"EM."	1
+"ERP"	1
+"Eas"	2
+"Emb"	1
+"Eng"	4
+"Eur"	2
+"Eve"	2
+"Exp"	2
+"F s"	1
+"FAI"	2
+"FER"	1
+"FF "	1
+"FIN"	1
+"FOU"	1
+"Fin"	2
+"Fir"	5
+"Fis"	3
+"Fli"	1
+"Flu"	1
+"Foc"	2
+"Foo"	6
+"For"	2
+"Fra"	1
+"Fro"	8
+"G. "	1
+"GOw"	1
+"GTD"	1
+"Gee"	4
+"Gen"	1
+"Ger"	1
+"Get"	2
+"Go "	1
+"Goi"	1
+"Goo"	1
+"Gor"	2
+"Got"	2
+"Gym"	2
+"H o"	1
+"HAV"	3
+"HE "	3
+"HEM"	1
+"HII"	1
+"HIN"	1
+"HR'"	1
+"Har"	5
+"Hav"	11
+"Hea"	2
+"Heb"	1
+"Her"	10
+"Hom"	2
+"Hon"	1
+"Hop"	9
+"Hot"	1
+"How"	24
+"I A"	1
+"I a"	56
+"I b"	18
+"I c"	29
+"I d"	248
+"I e"	1
+"I f"	7
+"I g"	7
+"I h"	97
+"I j"	1
+"I k"	20
+"I l"	3
+"I m"	5
+"I n"	4
+"I p"	3
+"I r"	15
+"I s"	34
+"I t"	256
+"I u"	11
+"I w"	100
+"I'd"	27
+"I'l"	8
+"I'm"	52
+"I'v"	42
+"II."	1
+"IIT"	1
+"IK,"	1
+"INE"	1
+"INK"	1
+"IR "	1
+"IRA"	5
+"IRR"	1
+"IRS"	1
+"IS "	1
+"IT,"	1
+"IY "	1
+"I\"."	1
+"If "	226
+"If,"	5
+"In "	48
+"Inf"	7
+"Int"	7
+"Iro"	2
+"Is "	12
+"It "	294
+"It'"	70
+"It."	1
+"Ita"	1
+"J14"	1
+"Jef"	1
+"Jel"	1
+"Jok"	1
+"Jol"	5
+"Jus"	4
+"K, "	3
+"Kil"	1
+"Kno"	1
+"LY "	3
+"Lat"	1
+"Let"	1
+"Lin"	6
+"Loo"	4
+"MGO"	1
+"Mak"	3
+"Map"	1
+"Mar"	2
+"Mat"	1
+"Max"	1
+"May"	6
+"McG"	4
+"Mic"	3
+"Mik"	4
+"Moi"	1
+"Mon"	1
+"Mos"	5
+"Mot"	2
+"Ms "	1
+"Muc"	1
+"My "	19
+"N d"	1
+"N y"	1
+"N'T"	4
+"NE."	1
+"NEE"	3
+"NK."	1
+"NNO"	1
+"NO "	1
+"NO."	1
+"NOT"	2
+"Nat"	1
+"Nep"	1
+"No "	11
+"No,"	25
+"No."	1
+"No\""	3
+"Nop"	1
+"Not"	17
+"Now"	5
+"O d"	1
+"O.c"	1
+"OBA"	3
+"ON'"	4
+"OT "	2
+"OU "	2
+"OUR"	1
+"Obv"	3
+"Och"	1
+"Ode"	1
+"Of "	3
+"Off"	1
+"Ok "	1
+"Oma"	1
+"On "	4
+"On."	1
+"One"	3
+"Onl"	2
+"Or "	1
+"Oth"	4
+"Out"	2
+"Owe"	1
+"PA."	1
+"PL."	1
+"PRO"	3
+"Par"	1
+"Pat"	1
+"Pen"	3
+"Per"	4
+"PhD"	3
+"Phi"	1
+"Pla"	1
+"Poi"	1
+"Pol"	7
+"Pri"	2
+"Pro"	12
+"Pul"	2
+"Q'd"	1
+"R c"	1
+"R t"	1
+"R's"	1
+"RA "	1
+"RA,"	1
+"RA."	1
+"RA?"	2
+"RBO"	1
+"ROB"	3
+"RPA"	1
+"RR."	1
+"RS."	1
+"Ran"	1
+"Rat"	2
+"Rea"	1
+"Rec"	2
+"Reg"	1
+"Rel"	1
+"Rem"	2
+"Rev"	2
+"Rom"	2
+"Rot"	2
+"Rou"	1
+"S e"	1
+"S w"	1
+"S, "	4
+"SA."	1
+"SAJ"	2
+"SE "	1
+"SF."	1
+"Sag"	1
+"Say"	1
+"Sch"	1
+"Sci"	1
+"Sea"	1
+"See"	5
+"Sel"	1
+"Sha"	3
+"She"	1
+"Sho"	7
+"Sim"	1
+"Sin"	2
+"Ske"	1
+"Slo"	1
+"So "	38
+"So,"	3
+"Sol"	1
+"Som"	41
+"Sor"	1
+"Sou"	3
+"Spa"	3
+"Spl"	1
+"Spo"	1
+"Sta"	1
+"Sto"	1
+"Sur"	11
+"Swe"	2
+"Swi"	4
+"T d"	1
+"T i"	1
+"T n"	1
+"T t"	1
+"T, "	1
+"T-B"	1
+"TD "	1
+"THE"	4
+"THI"	1
+"TMs"	1
+"Tak"	12
+"Tal"	1
+"Tas"	1
+"Tel"	1
+"Th "	1
+"Tha"	25
+"The"	358
+"Thi"	131
+"lou"	2
+"low"	29
+"loy"	16
+"lp "	23
+"lp,"	1
+"lp."	5
+"lp:"	2
+"lpf"	1
+"lpi"	1
+"lps"	3
+"lre"	14
+"ls "	13
+"ls."	9
+"ls?"	4
+"lse"	2
+"lso"	21
+"lt "	8
+"lt,"	3
+"lt."	5
+"lte"	9
+"lth"	8
+"lti"	4
+"ltr"	2
+"lts"	3
+"ltu"	2
+"lty"	1
+"lua"	2
+"luc"	10
+"lud"	2
+"lue"	2
+"lui"	4
+"lum"	2
+"lun"	2
+"luo"	1
+"lus"	1
+"lut"	22
+"lux"	1
+"lve"	5
+"lvi"	1
+"lwa"	20
+"ly "	377
+"ly,"	21
+"ly-"	3
+"ly."	38
+"lyc"	1
+"lyi"	7
+"lys"	2
+"lyu"	1
+"lz "	1
+"m 1"	1
+"m 2"	1
+"m I"	1
+"m P"	2
+"m a"	55
+"m b"	3
+"m c"	5
+"m d"	5
+"m e"	1
+"m f"	3
+"m g"	8
+"m h"	3
+"m i"	30
+"m k"	2
+"m l"	2
+"m m"	4
+"m n"	23
+"m o"	10
+"m p"	5
+"m r"	1
+"m s"	3
+"m t"	26
+"m u"	1
+"m w"	39
+"m y"	7
+"m, "	15
+"m-i"	1
+"m/."	1
+"m/c"	1
+"m/d"	1
+"m/g"	1
+"m/p"	1
+"m/q"	1
+"m\u00e9 "	1
+"m\u00e9."	2
+"mac"	3
+"mad"	8
+"mag"	4
+"mai"	11
+"mak"	77
+"mal"	6
+"man"	37
+"map"	2
+"mar"	9
+"mas"	4
+"mat"	36
+"max"	5
+"may"	37
+"maz"	4
+"mb "	1
+"mb,"	1
+"mba"	2
+"mbb"	1
+"mbe"	10
+"mbi"	1
+"mbr"	1
+"me "	218
+"me,"	3
+"me."	15
+"mea"	23
+"med"	1
+"mee"	6
+"mem"	5
+"men"	87
+"meo"	6
+"mer"	4
+"mes"	15
+"met"	72
+"mew"	5
+"mi."	1
+"mia"	1
+"mic"	6
+"mid"	1
+"mig"	37
+"mil"	33
+"min"	25
+"mir"	1
+"mis"	9
+"mit"	2
+"miz"	1
+"mki"	1
+"mm/"	1
+"mm\u00e9"	1
+"mma"	5
+"mme"	27
+"mmi"	2
+"mmo"	13
+"mmu"	5
+"mod"	2
+"moi"	1
+"mol"	1
+"mom"	7
+"mon"	46
+"mor"	47
+"mos"	15
+"mot"	3
+"mou"	4
+"mov"	27
+"mp?"	1
+"mpa"	17
+"mpe"	18
+"mpi"	1
+"mpl"	51
+"mpo"	25
+"mpr"	4
+"mps"	1
+"mpt"	1
+"mpu"	1
+"ms "	8
+"ms,"	1
+"ms-"	1
+"ms."	3
+"mse"	1
+"mst"	2
+"muc"	80
+"mul"	2
+"mum"	5
+"mun"	5
+"mus"	8
+"my "	37
+"mys"	4
+"myt"	1
+"n ("	1
+"n -"	1
+"n ."	1
+"n B"	1
+"n C"	3
+"n E"	1
+"n F"	5
+"n G"	2
+"n H"	1
+"n I"	8
+"n O"	2
+"n S"	2
+"n T"	2
+"n U"	1
+"n V"	1
+"n W"	1
+"n X"	1
+"n \""	1
+"n a"	125
+"n b"	31
+"n c"	15
+"n d"	155
+"n e"	15
+"n f"	26
+"n g"	10
+"n h"	69
+"n i"	103
+"n j"	2
+"n l"	12
+"n m"	16
+"n n"	10
+"n o"	49
+"n p"	7
+"n q"	23
+"n r"	11
+"n s"	19
+"n t"	352
+"n u"	11
+"n v"	7
+"n w"	229
+"n y"	184
+"n'."	1
+"n's"	4
+"n't"	747
+"n, "	31
+"n-c"	1
+"n-f"	1
+"n-l"	1
+"n-t"	1
+"n-x"	1
+"n. "	1
+"n.a"	1
+"n.c"	1
+"n: "	2
+"nBu"	6
+"nLi"	6
+"n\" "	2
+"n\u2019t"	2
+"naa"	1
+"nab"	3
+"nac"	7
+"nad"	3
+"nag"	6
+"nal"	27
+"nam"	13
+"nan"	4
+"nap"	3
+"nar"	4
+"nat"	21
+"nce"	81
+"nch"	1
+"nci"	5
+"ncl"	4
+"nco"	7
+"ncr"	1
+"ncy"	23
+"nd "	425
+"nd,"	13
+"nd-"	2
+"nd."	3
+"nd/"	2
+"nd:"	5
+"nd?"	1
+"ndD"	1
+"nda"	5
+"nde"	38
+"ndi"	13
+"ndo"	6
+"ndr"	2
+"nds"	423
+"ndu"	2
+"ndw"	1
+"ne "	100
+"ne'"	1
+"ne,"	13
+"ne-"	1
+"ne."	30
+"ne?"	2
+"ne\""	1
+"nea"	5
+"nec"	10
+"ned"	21
+"nee"	262
+"nef"	1
+"neg"	2
+"nel"	1
+"nen"	2
+"ner"	33
+"nes"	19
+"net"	2
+"neu"	1
+"nev"	7
+"new"	11
+"nex"	43
+"ney"	33
+"nfe"	7
+"nfi"	6
+"nfl"	1
+"nfo"	16
+"nfu"	2
+"ng "	437
+"ng,"	30
+"ng."	90
+"ng/"	1
+"ng:"	4
+"ng?"	2
+"ngB"	1
+"nge"	14
+"ngh"	1
+"ngi"	3
+"ngl"	10
+"ngn"	1
+"ngs"	111
+"ngt"	1
+"nia"	1
+"nic"	5
+"nie"	7
+"nif"	3
+"nig"	1
+"nim"	2
+"nin"	11
+"nio"	7
+"nip"	1
+"niq"	6
+"nis"	3
+"nit"	19
+"niv"	7
+"niz"	1
+"njo"	1
+"nk "	469
+"nk,"	2
+"nk."	20
+"nki"	3
+"nkl"	1
+"nkn"	1
+"nks"	5
+"nle"	6
+"nli"	5
+"nly"	32
+"nme"	11
+"nne"	7
+"nno"	11
+"nny"	2
+"no "	91
+"no,"	3
+"no."	17
+"no\""	2
+"nof"	2
+"nom"	1
+"non"	5
+"nor"	5
+"not"	400
+"nou"	4
+"now"	278
+"npr"	3
+"nre"	2
+"ns "	59
+"ns,"	6
+"ns."	26
+"ns:"	16
+"ns?"	1
+"nsa"	1
+"nse"	11
+"nsh"	3
+"nsi"	46
+"nsl"	1
+"nso"	1
+"nst"	19
+"nsu"	10
+"nsw"	273
+"nt "	363
+"nt,"	10
+"nt."	70
+"nt:"	7
+"nt?"	2
+"nt\""	1
+"nta"	16
+"nte"	31
+"nth"	3
+"nti"	33
+"ntl"	7
+"nto"	5
+"ntr"	44
+"nts"	43
+"ntu"	3
+"nty"	1
+"nua"	1
+"num"	7
+"nus"	4
+"nut"	1
+"nve"	9
+"nvi"	6
+"nvo"	4
+"nwi"	1
+"nxi"	15
+"ny "	92
+"ny,"	2
+"ny."	34
+"ny?"	1
+"nya"	2
+"nyh"	2
+"nyl"	3
+"nym"	2
+"nyo"	1
+"nyt"	17
+"nyw"	3
+"nzo"	2
+"o :"	5
+"o A"	2
+"o D"	4
+"o E"	2
+"o I"	26
+"o R"	1
+"o T"	1
+"o V"	1
+"o W"	1
+"o \""	1
+"o a"	116
+"o b"	164
+"o c"	54
+"o d"	343
+"o e"	18
+"o f"	46
+"o g"	73
+"o h"	60
+"o i"	267
+"o j"	1
+"o k"	159
+"o l"	21
+"o m"	59
+"o n"	99
+"o o"	22
+"o p"	74
+"whe"	112
+"whi"	47
+"who"	9
+"why"	19
+"wic"	2
+"wid"	5
+"wik"	2
+"wil"	115
+"win"	13
+"wir"	3
+"wis"	1
+"wit"	155
+"wl "	1
+"wl/"	1
+"wle"	4
+"wly"	3
+"wn "	34
+"wn."	9
+"wn?"	1
+"wne"	1
+"wns"	1
+"wo "	50
+"wol"	1
+"won"	9
+"woo"	6
+"wor"	184
+"wou"	151
+"wri"	20
+"wro"	12
+"ws "	3
+"ws,"	3
+"ws."	2
+"wsp"	1
+"ww."	6
+"www"	6
+"x b"	1
+"x d"	1
+"x f"	1
+"x i"	3
+"x p"	1
+"x r"	5
+"x t"	1
+"x, "	2
+"x-i"	1
+"x.c"	1
+"xab"	1
+"xac"	25
+"xam"	3
+"xce"	2
+"xer"	3
+"xha"	2
+"xib"	1
+"xim"	5
+"xio"	15
+"xpe"	29
+"xpl"	10
+"xro"	1
+"xt "	1
+"xt,"	38
+"xt."	4
+"xte"	1
+"xtr"	4
+"xtu"	2
+"xur"	1
+"y ("	4
+"y 2"	4
+"y B"	6
+"y C"	3
+"y D"	1
+"y F"	2
+"y H"	2
+"y I"	11
+"y M"	1
+"y N"	9
+"y O"	2
+"y S"	2
+"y T"	1
+"y W"	2
+"y \""	7
+"y a"	116
+"y b"	18
+"y c"	43
+"y d"	129
+"y e"	9
+"y f"	34
+"y g"	29
+"y h"	27
+"y i"	76
+"y j"	7
+"y k"	8
+"y l"	5
+"y m"	35
+"y n"	36
+"y o"	43
+"y p"	27
+"y q"	1
+"y r"	19
+"y s"	38
+"y t"	154
+"y u"	8
+"y v"	11
+"y w"	77
+"y y"	67
+"y'r"	1
+"y's"	1
+"y, "	46
+"y-a"	1
+"y-e"	2
+"y. "	1
+"y.c"	1
+"y/h"	1
+"y/i"	1
+"y: "	1
+"y? "	1
+"yRo"	1
+"yan"	2
+"ybe"	9
+"ybr"	1
+"yce"	1
+"ych"	1
+"yda"	1
+"ydr"	1
+"ye "	2
+"yea"	7
+"yed"	1
+"yee"	3
+"yen"	1
+"yer"	13
+"yes"	11
+"yet"	3
+"yho"	2
+"yin"	14
+"yl."	3
+"yle"	5
+"ylo"	1
+"ym "	2
+"ym,"	1
+"ymb"	2
+"yme"	5
+"yms"	2
+"yno"	1
+"ynt"	1
+"yog"	1
+"yon"	4
+"you"	2329
+"ype"	12
+"yri"	2
+"ys "	34
+"ys,"	1
+"ys."	4
+"yse"	4
+"ysi"	2
+"yst"	5
+"yth"	38
+"yur"	1
+"ywa"	3
+"yy "	1
+"yyy"	2
+"z w"	1
+"zat"	1
+"ze "	8
+"zed"	3
+"zen"	5
+"zer"	4
+"zin"	2
+"zol"	2
+"zon"	4
+"zy "	2
+"o q"	7
+"o r"	92
+"o s"	102
+"o t"	260
+"o u"	22
+"o v"	4
+"o w"	119
+"o y"	139
+"o, "	58
+"o.)"	1
+"o/F"	1
+"o: "	16
+"o; "	1
+"o\","	4
+"o\"."	1
+"oac"	5
+"oal"	22
+"oam"	1
+"oan"	8
+"oar"	2
+"oau"	1
+"oax"	1
+"ob "	33
+"ob,"	4
+"ob."	6
+"oba"	69
+"obl"	113
+"obo"	2
+"obs"	2
+"obv"	3
+"oc "	2
+"oca"	7
+"occ"	2
+"oce"	12
+"oci"	2
+"ock"	3
+"oco"	1
+"ocs"	1
+"ocu"	12
+"od "	132
+"od,"	3
+"od."	19
+"od:"	2
+"oda"	5
+"odd"	1
+"ode"	8
+"odi"	1
+"ods"	1
+"odu"	10
+"ody"	3
+"oes"	35
+"oev"	9
+"of "	300
+"of,"	2
+"of."	6
+"of:"	3
+"of?"	1
+"ofe"	12
+"off"	32
+"oft"	3
+"og."	1
+"ogi"	1
+"ogl"	3
+"ogr"	31
+"ogs"	1
+"ogu"	1
+"oho"	1
+"ohy"	1
+"oic"	5
+"oid"	6
+"oil"	2
+"oin"	66
+"ois"	3
+"oje"	2
+"ok "	38
+"ok."	4
+"ok?"	1
+"oka"	1
+"oke"	9
+"oki"	73
+"okk"	1
+"oks"	10
+"ol "	7
+"ol,"	1
+"ol."	6
+"ola"	4
+"olc"	2
+"old"	15
+"ole"	10
+"oli"	5
+"oll"	17
+"ols"	5
+"olt"	9
+"olu"	21
+"olv"	5
+"oly"	1
+"om "	38
+"om,"	1
+"om."	9
+"om/"	4
+"oma"	3
+"omb"	1
+"ome"	136
+"omi"	6
+"omm"	44
+"omo"	2
+"omp"	28
+"oms"	1
+"on "	716
+"on!"	2
+"on'"	617
+"on,"	20
+"on-"	3
+"on."	130
+"on:"	6
+"on?"	3
+"on\""	1
+"ona"	26
+"onc"	9
+"ond"	12
+"one"	146
+"onf"	9
+"ong"	31
+"oni"	2
+"onl"	30
+"onm"	6
+"onn"	3
+"ono"	1
+"ons"	127
+"ont"	25
+"onv"	4
+"onw"	1
+"ony"	2
+"onz"	2
+"oo "	15
+"oo."	22
+"ood"	152
+"oof"	3
+"oog"	3
+"ook"	130
+"ool"	16
+"oom"	12
+"oon"	6
+"oop"	4
+"oor"	4
+"oot"	3
+"op "	17
+"op,"	2
+"ope"	22
+"oph"	1
+"opi"	6
+"opl"	12
+"opo"	9
+"opp"	3
+"opr"	5
+"opt"	26
+"opy"	3
+"or "	299
+"or'"	3
+"or,"	2
+"or."	50
+"or:"	2
+"or?"	2
+"or\""	1
+"ora"	4
+"orc"	6
+"ord"	13
+"ore"	55
+"org"	5
+"ori"	12
+"ork"	101
+"orl"	3
+"orm"	22
+"orn"	9
+"oro"	1
+"orp"	4
+"orr"	70
+"ors"	13
+"ort"	60
+"ory"	14
+"ose"	19
+"osi"	16
+"oso"	1
+"oss"	54
+"ost"	30
+"ot "	430
+"is!"	2
+"is,"	26
+"is."	69
+"is:"	27
+"is?"	26
+"isa"	27
+"isc"	4
+"ise"	25
+"ish"	20
+"isi"	4
+"isk"	5
+"ism"	2
+"isn"	26
+"iso"	24
+"isr"	1
+"iss"	37
+"ist"	27
+"it "	530
+"it'"	79
+"it,"	106
+"it."	212
+"it:"	3
+"it?"	16
+"ita"	1
+"itc"	4
+"ite"	41
+"ith"	152
+"iti"	42
+"itl"	5
+"ito"	7
+"its"	21
+"itt"	14
+"itu"	55
+"ity"	20
+"itz"	4
+"iva"	1
+"ive"	60
+"ivi"	5
+"iza"	1
+"ize"	11
+"jac"	1
+"jec"	4
+"job"	44
+"joi"	1
+"jou"	1
+"joy"	1
+"jud"	1
+"jun"	1
+"jus"	83
+"k -"	3
+"k 1"	1
+"k I"	3
+"k M"	1
+"k a"	32
+"k b"	2
+"k c"	5
+"k e"	1
+"k f"	35
+"k h"	5
+"k i"	158
+"k l"	3
+"k m"	1
+"k n"	3
+"k o"	27
+"k p"	3
+"k q"	1
+"k r"	2
+"k s"	1
+"k t"	161
+"k u"	2
+"k v"	1
+"k w"	19
+"k y"	169
+"k, "	15
+"k. "	1
+"k.c"	2
+"k/r"	2
+"k\" "	1
+"ka "	1
+"ka."	5
+"kay"	1
+"kbo"	2
+"kdo"	2
+"ke "	163
+"ke,"	3
+"ke."	9
+"ke\""	1
+"ked"	14
+"kee"	4
+"kel"	11
+"ken"	6
+"ker"	10
+"kes"	20
+"ket"	10
+"key"	17
+"ki?"	1
+"kid"	4
+"kil"	3
+"kin"	142
+"kip"	5
+"kit"	3
+"kke"	1
+"kle"	1
+"kly"	2
+"kne"	1
+"kni"	2
+"kno"	275
+"kou"	1
+"ks "	27
+"ks,"	3
+"ks."	3
+"ky:"	1
+"kyl"	1
+"l C"	1
+"l I"	3
+"l U"	2
+"l W"	1
+"l a"	49
+"l b"	33
+"l c"	9
+"l d"	19
+"l e"	4
+"l f"	12
+"l g"	10
+"l h"	29
+"l i"	37
+"l l"	5
+"l m"	5
+"l n"	23
+"l o"	27
+"l p"	10
+"l q"	1
+"l r"	4
+"l s"	13
+"l t"	37
+"l u"	4
+"l w"	21
+"l y"	18
+"l, "	18
+"l-t"	1
+"l.."	1
+"l/r"	1
+"l: "	1
+"la "	1
+"la."	4
+"lab"	4
+"lac"	35
+"lai"	4
+"lam"	1
+"lan"	16
+"lap"	1
+"lar"	46
+"las"	15
+"lat"	20
+"lau"	1
+"lav"	1
+"law"	11
+"lax"	1
+"lay"	4
+"laz"	1
+"lc,"	1
+"lca"	2
+"lco"	1
+"ld "	331
+"ld,"	4
+"ld."	35
+"ld:"	1
+"ld?"	1
+"lde"	3
+"ldi"	4
+"ldn"	43
+"ldr"	2
+"le "	141
+"le,"	14
+"le-"	1
+"le."	15
+"le:"	1
+"le?"	2
+"lea"	28
+"lec"	8
+"led"	17
+"lee"	2
+"leg"	7
+"lem"	110
+"len"	7
+"lep"	1
+"ler"	3
+"les"	23
+"let"	15
+"lev"	5
+"lex"	1
+"ley"	2
+"lf "	5
+"lf,"	4
+"lf-"	1
+"lf."	9
+"lgo"	1
+"lia"	3
+"lib"	1
+"lic"	11
+"lid"	11
+"lie"	27
+"lif"	8
+"lig"	10
+"lik"	111
+"lim"	3
+"lin"	37
+"lio"	1
+"lip"	1
+"liq"	2
+"lis"	14
+"lit"	20
+"liv"	14
+"liz"	6
+"lk "	3
+"lk."	4
+"lki"	4
+"ll "	237
+"ll,"	12
+"ll-"	1
+"ll."	63
+"lla"	2
+"lle"	14
+"lli"	8
+"llo"	18
+"lls"	3
+"llu"	1
+"lly"	166
+"lm "	2
+"lm."	1
+"lmo"	2
+"loa"	8
+"loc"	10
+"log"	2
+"lon"	12
+"loo"	101
+"lop"	2
+"lor"	16
+"los"	8
+"lot"	85
+"e g"	52
+"e h"	105
+"e i"	352
+"e j"	15
+"e k"	22
+"e l"	106
+"e m"	103
+"e n"	97
+"e o"	183
+"e p"	187
+"e q"	18
+"e r"	75
+"e s"	217
+"e t"	679
+"e u"	24
+"e v"	9
+"e w"	202
+"e y"	270
+"e'l"	1
+"e's"	109
+"e, "	117
+"e-V"	1
+"e-a"	1
+"e-e"	1
+"e-m"	1
+"e-o"	1
+"e-r"	1
+"e-u"	3
+"e-w"	1
+"e. "	3
+"e.."	3
+"e.b"	1
+"e.d"	1
+"e/t"	1
+"e: "	3
+"e\","	1
+"e\"."	2
+"ea "	12
+"ea,"	1
+"ea."	67
+"ea?"	1
+"eac"	10
+"ead"	99
+"eag"	1
+"eak"	16
+"eal"	155
+"eam"	4
+"ean"	19
+"eap"	1
+"ear"	51
+"eas"	72
+"eat"	30
+"eav"	10
+"eb "	2
+"eba"	1
+"ebo"	1
+"ebr"	1
+"ebs"	4
+"eca"	14
+"ece"	14
+"ech"	6
+"eci"	54
+"eck"	17
+"ecl"	2
+"eco"	18
+"ecr"	1
+"ect"	59
+"ecu"	1
+"ed "	404
+"ed'"	1
+"ed,"	11
+"ed."	50
+"ed/"	2
+"ed:"	2
+"eda"	1
+"edd"	1
+"ede"	3
+"edg"	6
+"edi"	16
+"edo"	1
+"eds"	5
+"edu"	2
+"ee "	96
+"ee'"	1
+"ee,"	3
+"ee."	3
+"eed"	268
+"eef"	1
+"eei"	2
+"eek"	1
+"eel"	9
+"eem"	7
+"een"	23
+"eep"	6
+"eer"	3
+"ees"	10
+"eet"	9
+"eez"	4
+"ef "	1
+"ef'"	2
+"ef."	2
+"efe"	8
+"eff"	5
+"efi"	18
+"efo"	5
+"efr"	1
+"efs"	3
+"efu"	7
+"ega"	11
+"ege"	1
+"egg"	2
+"egi"	2
+"egr"	3
+"egs"	1
+"egy"	1
+"ehi"	1
+"eig"	4
+"ein"	6
+"eir"	4
+"eis"	7
+"eit"	4
+"eiv"	1
+"eks"	1
+"el "	18
+"el."	4
+"ela"	6
+"eld"	2
+"ele"	8
+"elf"	19
+"eli"	24
+"ell"	63
+"elo"	1
+"elp"	36
+"els"	2
+"elv"	1
+"ely"	61
+"em "	90
+"em,"	11
+"em."	63
+"em:"	1
+"ema"	8
+"emb"	4
+"eme"	11
+"emi"	11
+"emo"	4
+"emp"	33
+"ems"	10
+"en "	122
+"en'"	22
+"en,"	2
+"en."	10
+"enB"	6
+"en\""	1
+"ena"	3
+"enc"	74
+"end"	471
+" dr"	9
+" du"	6
+" e-"	1
+" ea"	27
+" eb"	1
+" ed"	8
+" ef"	3
+" eg"	1
+" ei"	4
+" el"	6
+" em"	19
+" en"	36
+" ep"	1
+" eq"	5
+" es"	3
+" et"	1
+" ev"	50
+" ex"	75
+" fa"	56
+" fe"	67
+" fi"	137
+" fl"	13
+" fo"	333
+" fr"	39
+" fu"	16
+" ga"	2
+" ge"	121
+" gi"	22
+" gl"	8
+" go"	253
+" gr"	29
+" gu"	20
+" gy"	1
+" ha"	601
+" he"	111
+" hi"	41
+" ho"	151
+" ht"	6
+" hu"	5
+" i "	1
+" i'"	1
+" id"	82
+" if"	138
+" ig"	1
+" im"	33
+" in"	278
+" is"	852
+" it"	907
+" jo"	46
+" ju"	77
+" ke"	16
+" ki"	32
+" kn"	277
+" la"	29
+" le"	44
+" li"	148
+" lo"	218
+" lu"	11
+" ma"	189
+" me"	58
+"as,"	3
+"as."	1
+"ase"	93
+"asg"	1
+"ash"	1
+"asi"	8
+"ask"	65
+"aso"	61
+"ass"	14
+"ast"	32
+"asy"	3
+"at "	940
+"at'"	25
+"at,"	11
+"at-"	1
+"at."	37
+"at:"	1
+"at?"	12
+"atc"	4
+"ate"	91
+"ath"	18
+"ati"	107
+"ato"	4
+"ats"	15
+"att"	22
+"atu"	18
+"auc"	7
+"aud"	4
+"aum"	1
+"aun"	1
+"aur"	2
+"aus"	20
+"aut"	2
+"ava"	4
+"ave"	484
+"avi"	6
+"avo"	6
+"aw "	2
+"aw."	9
+"awa"	16
+"aws"	1
+"ax "	13
+"ax,"	1
+"ax."	1
+"axa"	1
+"axi"	5
+"axr"	1
+"ay "	191
+"ay,"	6
+"ay."	24
+"ay/"	1
+"ay:"	2
+"ay?"	3
+"ayb"	10
+"ayc"	1
+"ayd"	1
+"aye"	2
+"ayi"	4
+"aym"	4
+"ayo"	2
+"ays"	37
+"azo"	4
+"azy"	2
+"b -"	4
+"b b"	2
+"b h"	1
+"b i"	17
+"b o"	1
+"b t"	6
+"b y"	5
+"b, "	5
+"bab"	70
+"bac"	6
+"bad"	29
+"bag"	4
+"bak"	3
+"bal"	3
+"ban"	4
+"bar"	2
+"bas"	39
+"bay"	1
+"bbe"	1
+"be "	187
+"be,"	1
+"be-"	1
+"be."	25
+"be/"	1
+"be:"	1
+"be\""	1
+"bea"	2
+"bec"	15
+"bed"	11
+"bee"	17
+"bef"	5
+"beg"	3
+"beh"	1
+"bei"	3
+"bel"	23
+"ben"	3
+"ber"	10
+"bes"	52
+"bet"	36
+"bew"	1
+"big"	12
+"bil"	9
+"bin"	1
+"bit"	23
+"bje"	2
+"ble"	178
+"bli"	10
+"blo"	4
+"blu"	1
+"bly"	68
+"boa"	2
+"bod"	3
+"boh"	1
+"bon"	4
+"boo"	16
+"bor"	1
+"bos"	18
+"bot"	32
+"bou"	85
+"bov"	22
+"bow"	3
+"bra"	6
+"bre"	12
+"bri"	7
+"bro"	5
+"bru"	3
+"bs "	1
+"bs."	1
+"bsc"	1
+"bsi"	4
+"bso"	4
+"bst"	1
+"bt "	1
+"bt,"	1
+"bt:"	1
+"bud"	1
+"bui"	3
+"bur"	8
+"bus"	4
+"but"	174
+"buy"	12
+"bvi"	6
+"by "	20
+"by'"	1
+"c c"	2
+"c d"	1
+"c f"	1
+"c i"	1
+"c j"	1
+"c m"	1
+"c p"	2
+"c q"	1
+"c r"	1
+"c s"	1
+"c t"	2
+"c w"	4
+"c, "	1
+"c.,"	1
+"cGe"	4
+"cad"	2
+"cak"	1
+"cal"	40
+"cam"	4
+"can"	288
+"car"	16
+"cas"	50
+"cat"	16
+"cau"	17
+"cce"	8
+"cco"	4
+"ccu"	3
+"ce "	94
+"ce,"	7
+"ce."	46
+"ce:"	1
+"ced"	5
+"cee"	2
+"cei"	1
+"cel"	4
+"cem"	1
+"cen"	10
+"cep"	6
+"cer"	10
+"ces"	23
+"ch "	158
+"ch."	19
+"chU"	1
+"cha"	15
+"che"	33
+"chi"	30
+"chn"	6
+"cho"	14
+"chp"	1
+"cia"	17
+"cid"	34
+"cie"	3
+"cif"	4
+"cil"	5
+"cin"	2
+"cip"	6
+"cir"	4
+"cis"	8
+"cit"	10
+"ck "	34
+"ck."	13
+"ck:"	1
+"ckb"	2
+"cke"	11
+"ckl"	2
+"cks"	3
+"cky"	1
+"cla"	6
+"cle"	10
+"cli"	5
+"clo"	6
+"clu"	3
+"coa"	4
+"cod"	5
+"cof"	6
+"coh"	1
+"col"	5
+"com"	99
+"con"	82
+"coo"	10
+"cop"	4
+"cor"	12
+"cos"	3
+"cou"	105
+"cov"	16
+"cow"	2
+"cra"	4
+"cre"	15
+"cri"	8
+"cro"	4
+"cs,"	2
+"cs."	3
+"ct "	53
+"ct)"	1
+"ct,"	6
+"ct."	11
+"cta"	1
+"cte"	4
+"cti"	29
+"ctl"	24
+"cto"	3
+"ctr"	4
+"cts"	1
+"ctu"	22
+"cue"	1
+"cui"	3
+"cul"	14
+"cum"	8
+"cup"	2
+"cur"	6
+"cus"	8
+"cut"	6
+"cv."	1
+"cy "	23
+"cym"	2
+"d A"	2
+"d B"	1
+"d C"	5
+"d D"	1
+"d F"	2
+"d H"	1
+"d I"	18
+"d M"	4
+"d O"	2
+"d a"	149
+"d b"	65
+"d c"	15
+"d d"	76
+"d e"	30
+"d f"	27
+"d g"	28
+"d h"	22
+"d i"	151
+"d j"	8
+"d k"	1
+"d l"	24
+"d m"	29
+"d n"	28
+"d o"	72
+"d p"	20
+"d q"	7
+"d r"	13
+"d s"	126
+"d t"	395
+"d u"	9
+"d v"	1
+"d w"	139
+"d y"	77
+"d's"	2
+"d, "	46
+"d-m"	2
+"d-t"	1
+"d/d"	2
+"d/o"	2
+"d/y"	1
+"dDr"	1
+"da "	2
+"da."	3
+"dai"	2
+"dam"	1
+"dan"	2
+"dar"	3
+"das"	1
+"dat"	10
+"dav"	2
+"day"	27
+"dd "	18
+"dd/"	1
+"dd:"	2
+"dde"	2
+"ddi"	3
+"ddl"	1
+"ddr"	2
+"de "	42
+"de,"	1
+"de."	5
+"dea"	89
+"dec"	37
+"ded"	5
+"def"	18
+"deg"	3
+"del"	5
+"dem"	6
+"den"	20
+"dep"	391
+"der"	76
+"des"	14
+"det"	9
+"dex"	9
+"dge"	11
+"dgl"	1
+"dhe"	4
+"dia"	6
+"dib"	1
+"dic"	4
+"did"	12
+"die"	10
+"dif"	36
+"dig"	1
+"dim"	1
+"din"	28
+"dir"	12
+"dis"	12
+"dit"	18
+"dju"	5
+"dle"	1
+"dli"	3
+"dma"	1
+"dmo"	1
+"dn'"	46
+"dn\u2019"	2
+"do "	626
+"do,"	14
+"do."	88
+"do:"	38
+"do;"	1
+"do?"	7
+"doc"	9
+"doe"	30
+"dog"	1
+"doi"	13
+"dom"	2
+"don"	621
+"doo"	1
+"dop"	1
+"dou"	9
+"dow"	15
+"doz"	2
+"dra"	3
+"dre"	6
+"dri"	4
+"dro"	2
+"dry"	2
+"ds "	422
+"ds,"	3
+"ds."	6
+"ds\""	1
+"dsa"	1
+"dua"	4
+"duc"	13
+"due"	3
+"dum"	1
+"dur"	3
+"dut"	2
+"dvi"	26
+"dwa"	1
+"dwe"	1
+"dwi"	1
+"dy "	15
+"dy,"	2
+"dy."	2
+"e  "	3
+"e -"	1
+"e 1"	2
+"e 2"	1
+"e 3"	2
+"e 6"	1
+"e A"	1
+"e C"	3
+"e D"	2
+"e F"	4
+"e H"	2
+"e I"	17
+"e J"	1
+"e M"	2
+"e N"	1
+"e O"	1
+"e P"	3
+"e R"	2
+"e S"	1
+"e T"	4
+"e U"	10
+"e V"	1
+"e W"	1
+"e Y"	2
+"e \""	4
+"e a"	647
+"e b"	93
+"e c"	118
+"e d"	106
+"e e"	77
+"e f"	133
+"  a"	1
+"  d"	2
+"  m"	1
+"  t"	1
+" $1"	1
+" $2"	1
+" $5"	3
+" & "	1
+" 'V"	1
+" 'i"	2
+" (1"	5
+" (2"	1
+" (o"	1
+" - "	12
+" 1 "	1
+" 10"	4
+" 12"	1
+" 13"	3
+" 18"	1
+" 2 "	5
+" 20"	1
+" 3."	8
+" 3D"	2
+" 40"	1
+" 41"	1
+" 60"	1
+" : "	1
+" AT"	1
+" Ad"	1
+" Ag"	1
+" Am"	1
+" An"	2
+" Ar"	1
+" At"	1
+" Aw"	1
+" B."	1
+" B2"	1
+" Ba"	2
+" Be"	6
+" C "	1
+" CA"	3
+" CV"	3
+" Ca"	4
+" Ce"	1
+" Ch"	2
+" Cl"	2
+" Co"	6
+" Cu"	1
+" DI"	1
+" DO"	4
+" DQ"	1
+" Da"	1
+" De"	1
+" Dh"	1
+" Do"	1
+" Dw"	1
+" Em"	1
+" En"	1
+" Eu"	2
+" Ex"	2
+" FE"	1
+" FF"	1
+" FI"	1
+" FO"	1
+" Fi"	3
+" Fl"	1
+" Fo"	6
+" Fr"	1
+" G."	1
+" GT"	1
+" Ge"	1
+" Go"	5
+" Gy"	2
+" HA"	3
+" HI"	1
+" HR"	1
+" Ha"	3
+" He"	1
+" I "	272
+" I'"	41
+" II"	1
+" IR"	7
+" IS"	1
+" In"	9
+" Ir"	2
+" It"	5
+" Je"	1
+" Jo"	6
+" Ju"	1
+" Ki"	1
+" MG"	1
+" Ma"	5
+" Mc"	4
+" Mi"	4
+" Mo"	2
+" NE"	3
+" NO"	3
+" Na"	1
+" No"	10
+" Od"	1
+" Of"	1
+" Om"	1
+" On"	4
+" Ou"	2
+" PL"	1
+" PR"	3
+" Pe"	3
+" Ph"	4
+" Po"	7
+" Pu"	2
+" Ra"	1
+" Re"	2
+" Ro"	4
+" SA"	1
+" SE"	1
+" SF"	1
+" Sa"	1
+" Sc"	2
+" Sk"	1
+" So"	1
+" Sp"	5
+" Sw"	6
+" T-"	1
+" TH"	5
+" Ta"	1
+" Th"	7
+" Ti"	1
+" To"	1
+" Tr"	1
+" U."	2
+" UK"	3
+" US"	9
+" Un"	1
+" Up"	2
+" VA"	1
+" VR"	1
+" Va"	1
+" Vi"	2
+" WA"	1
+" Wa"	2
+" We"	1
+" Wh"	2
+" Wi"	3
+" XX"	1
+" Y-"	1
+" YO"	2
+" Ye"	9
+" Yo"	6
+" Ze"	1
+" Zu"	1
+" \"E"	2
+" \"I"	1
+" \"N"	3
+" \"P"	8
+" \"T"	1
+" \"W"	1
+" \"Y"	1
+" \"b"	1
+" \"c"	2
+" \"d"	2
+" \"f"	1
+" \"h"	1
+" \"i"	2
+" \"j"	2
+" \"l"	1
+" \"m"	1
+" \"n"	3
+" \"s"	2
+" \"t"	1
+" \"w"	2
+" \"y"	2
+" a "	677
+" ab"	125
+" ac"	32
+" ad"	61
+" af"	14
+" ag"	68
+" ai"	8
+" al"	145
+" am"	24
+" an"	733
+" ap"	38
+" ar"	344
+" as"	158
+" at"	89
+" au"	5
+" av"	10
+" aw"	16
+" ba"	88
+" be"	370
+" bi"	24
+" bl"	5
+" bo"	74
+" br"	29
+" bu"	201
+" by"	19
+" ca"	368
+" ce"	13
+" ch"	63
+" ci"	7
+" cl"	19
+" co"	300
+" cr"	13
+" cu"	13
+" cv"	1
+" cy"	2
+" da"	33
+" de"	483
+" di"	74
+" do"	1461
+"ene"	33
+"eng"	2
+"enj"	1
+"enn"	2
+"eno"	3
+"enr"	2
+"ens"	17
+"ent"	129
+"env"	6
+"eon"	6
+"eop"	12
+"eor"	2
+"ep "	4
+"ep."	2
+"epa"	11
+"epe"	418
+"epi"	3
+"epl"	1
+"epo"	3
+"epr"	1
+"ept"	9
+"equ"	23
+"er "	390
+"er,"	24
+"er-"	1
+"er."	89
+"er/"	4
+"er:"	30
+"er?"	5
+"er\""	2
+"era"	53
+"erc"	7
+"erd"	1
+"ere"	561
+"erf"	9
+"erg"	8
+"eri"	24
+"erl"	11
+"erm"	14
+"ern"	9
+"ero"	1
+"erp"	1
+"err"	5
+"ers"	116
+"ert"	13
+"erv"	33
+"erw"	1
+"ery"	72
+"es "	95
+"es!"	2
+"es,"	64
+"es-"	1
+"es."	35
+"es/"	1
+"es:"	7
+"es?"	3
+"es\""	2
+"esc"	7
+"ese"	39
+"esi"	12
+"esk"	1
+"esn"	23
+"esp"	10
+"ess"	73
+"est"	278
+"esu"	20
+"esw"	1
+"et "	129
+"et,"	4
+"et."	12
+"et:"	1
+"etH"	2
+"eta"	8
+"etc"	1
+"ete"	10
+"eth"	52
+"eti"	36
+"etn"	1
+"etr"	1
+"ets"	3
+"ett"	49
+"etu"	6
+"etw"	3
+"ety"	3
+"eud"	1
+"eus"	1
+"eut"	1
+"eva"	2
+"eve"	105
+"evi"	14
+"ew "	69
+"ew,"	2
+"ew."	7
+"ewa"	3
+"ewe"	3
+"ewh"	3
+"ewi"	1
+"ewo"	3
+"ewr"	2
+"ews"	6
+"ex,"	1
+"ex."	10
+"exa"	28
+"exc"	2
+"exe"	3
+"exh"	2
+"exi"	1
+"exp"	37
+"ext"	50
+"ey "	94
+"ey'"	1
+"ey,"	2
+"ey."	24
+"eyi"	1
+"eze"	2
+"ezi"	2
+"f E"	1
+"f G"	2
+"f I"	19
+"f T"	1
+"f \""	2
+"f a"	27
+"f b"	6
+"f c"	12
+"f d"	5
+"f f"	4
+"f g"	3
+"f h"	14
+"f i"	39
+"f j"	1
+"f l"	4
+"f m"	15
+"f n"	15
+"f o"	12
+"f p"	9
+"f q"	4
+"f r"	5
+"f s"	21
+"f t"	175
+"f v"	2
+"f w"	20
+"f y"	271
+"f's"	2
+"f, "	12
+"f-d"	1
+"f. "	1
+"f.c"	1
+"fac"	5
+"fai"	6
+"fan"	11
+"far"	20
+"fas"	13
+"fat"	3
+"fe "	2
+"fe,"	1
+"fe."	7
+"fec"	9
+"fee"	16
+"fen"	1
+"fer"	39
+"fes"	19
+"fet"	1
+"few"	56
+"ff "	12
+"ff,"	1
+"ff."	17
+"ff?"	1
+"ffe"	42
+"ffi"	13
+"ffo"	3
+"ffr"	2
+"ffs"	1
+"fic"	26
+"fid"	1
+"fie"	5
+"fig"	5
+"fil"	10
+"fin"	88
+"fir"	48
+"fit"	3
+"fla"	2
+"fle"	2
+"fli"	6
+"flo"	3
+"flu"	2
+"fly"	1
+"fo "	1
+"fo."	1
+"foc"	3
+"fol"	10
+"foo"	9
+"for"	334
+"fou"	5
+"fra"	8
+"fre"	12
+"fri"	7
+"fro"	21
+"fs "	3
+"fse"	1
+"ft,"	1
+"ft."	1
+"fte"	4
+"ftw"	2
+"ful"	14
+"fun"	3
+"fur"	5
+"fus"	5
+"fut"	1
+"fy "	6
+"g I"	5
+"g M"	1
+"g R"	2
+"g \""	2
+"g a"	34
+"g b"	1
+"g c"	2
+"g d"	4
+"g e"	1
+"g f"	91
+"g g"	1
+"g h"	19
+"g i"	37
+"g k"	1
+"g l"	5
+"g m"	3
+"g n"	2
+"g o"	7
+"g p"	11
+"g q"	3
+"g r"	3
+"g s"	17
+"g t"	114
+"g u"	3
+"g v"	1
+"g w"	16

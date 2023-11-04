@@ -9,9 +9,13 @@ class ShinglesCount(MRJob):
         :param line: Eine Zeile.
         :return: Generator der Shingles
         """
+        elements = line.strip().split('\t')
+        texts = elements[0:2]
         k = 3
-        for i in range(len(line) - k + 1):
-            yield line[i:i + k], 1
+        for text in texts:
+            # erstelle die Shingles
+            for i in range(len(text) - k + 1):
+                yield text[i:i + k], 1
 
     def reducer(self, shingle, counts):
         """

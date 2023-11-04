@@ -2,17 +2,13 @@ import os
 import pandas as pd
 
 
-def make_subset(size=10, remove_old=False):
+def make_subset(size=10):
     """
     Erstellt einen Teildatensatz mit 10 Instanzen und speichert ihn als subset.txt datei ab.
     :param size: Größe des Teildatensatzes
     :param remove_old: True, wenn die alte Datei gelöscht werden soll
     :return: None
     """
-
-    # entferne die alten Daten, wenn remove_old=True (default=False)
-    if remove_old:
-        os.remove('subset.txt')
 
     # lese die Daten ein und erstelle ein Sample der Größe size (default=10) mit zufälligen Einträgen.
     column_names = ['Text String 1', 'Text String 2', 'Metadata 1', 'Metadata 2']
@@ -22,7 +18,7 @@ def make_subset(size=10, remove_old=False):
     sample = df.sample(n=size)
 
     # speichere die Daten als txt Datei ab. (separator ist ein Leerzeichen)
-    sample.to_csv('subset.txt', sep=' ', index=False, header=False)
+    sample.to_csv('subset.txt', sep='\t', index=False, header=False)
 
 
 def get_k_shingles(filepath, k=3):
@@ -39,7 +35,7 @@ def get_k_shingles(filepath, k=3):
         text = file.read()
 
     # entferne alle Zeilenumbrüche
-    lines = text.split('\n')
+    lines = text.replace('\t', '').split('\n')
     for line in lines:
         # erstelle die Shingles
         for i in range(len(line) - k + 1):
@@ -47,6 +43,8 @@ def get_k_shingles(filepath, k=3):
 
 
 if __name__ == '__main__':
+    # erstelle den Teildatensatz
+    make_subset(size=10)
     shingles = get_k_shingles('subset.txt', k=3)
     for shingle in shingles:
         print(shingle)
