@@ -1,5 +1,17 @@
 from mrjob.job import MRJob
 
+"""
+Da die Texte die wird im Datensatz betrachten, relativ klein sind, betrachten wir Character anstatt Strings (Wörter)
+als Shingles. 
+
+Deshalb reicht die Länge k=3 völlig aus.
+Wir nehmen kein K=2, weil, wenn es zuviele "kleine" Shingles gibt, werden Ähnlichkeiten angeommen, die es gar nicht gibt.
+
+Die Whitespaces werden mit betrachtet, da sie nicht in der Analyse relevant sind, weil sie bei der Bestimmung der Ähnlichkeit
+keine Rolle spielen. 
+
+"""
+
 
 class ShinglesCount(MRJob):
 
