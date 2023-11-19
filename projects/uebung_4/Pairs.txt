@@ -1,0 +1,1228 @@
+["This answer actually has two parts:", "If it's the second, I have no idea how to help you."]	0.025
+["This answer is based on experience I did not researched for references.", "If you don't ask for what you want, you will not likely get it."]	0.05357142857142857
+["This cannot be answered in general.", "How you do that is up to you."]	0.017543859649122806
+["This cannot be answered in general.", "I think there isn't a general answer."]	0.21818181818181817
+["This depends highly on the genre.", "I think it is depends on the program."]	0.3
+["This depends highly on the genre.", "It's not up to her any more what you do."]	0.0
+["This depends highly on the genre.", "This depends on the country."]	0.425
+["This depends highly on the genre.", "This depends on where you are."]	0.3111111111111111
+["This depends highly on the genre.", "This depends on your environment."]	0.2653061224489796
+["This depends on exactly what equpiment you're using.", "It depends on what exactly you're doing."]	0.5172413793103449
+["This depends on exactly what equpiment you're using.", "This depends on what exactly you're applying for."]	0.515625
+["This depends on exactly what equpiment you're using.", "You're on the right path."]	0.08955223880597014
+["This depends on the country.", "I think it is depends on the program."]	0.36363636363636365
+["This depends on the country.", "This depends on where you are."]	0.35
+["This depends on the country.", "This depends on your environment."]	0.32558139534883723
+["This depends on the country.", "What would the lumber-jack need to be like to make a good story out of this idea?"]	0.05319148936170213
+["This depends on the equipment that you are using.", "other: \"can you show me how to do this?\""]	0.07894736842105263
+["This depends on the particular index, of course.", "Does this answer your questions?"]	0.05555555555555555
+["This depends on the particular index, of course.", "I agree with the other comments."]	0.056338028169014086
+["This depends on what exactly you're applying for.", "I am in a similar situation."]	0.0
+["This depends on what exactly you're applying for.", "It depends on what exactly you're doing."]	0.5740740740740741
+["This depends on where you are.", "This depends on your environment."]	0.37209302325581395
+["This doesn't answer your question, but:", "There are numerous ways."]	0.0
+["This gives you the opportunity to make your case that you really do have expertise in XXX.", "Is it that you can't or that you don't want to do it? "]	0.12149532710280374
+["This information is not true.", "It does not sound at all normal to me."]	0.10909090909090909
+["This is a bad idea.", "I think it's a bad idea."]	0.4074074074074074
+["This is a bad idea.", "I'm thinking it's a bad idea. "]	0.3333333333333333
+["This is a bad idea.", "This is a really bad idea."]	0.625
+["This is a bad idea.", "This would be a bad idea."]	0.5
+["This is a big problem.", "I had this same problem."]	0.28125
+["This is a big problem.", "I have had this problem."]	0.2903225806451613
+["This is a big problem.", "You really shouldn't have a problem."]	0.17777777777777778
+["This is a difficult issue to deal with.", "I have the exact same problem."]	0.016129032258064516
+["This is a difficult issue to deal with.", "Patents are the way to go if you have to make money from a smart idea in the academia."]	0.0660377358490566
+["This is a difficult one.", "Or I have been."]	0.0
+["This is a difficult one.", "The number one thing that I would advise you to expect is the unexpected."]	0.04938271604938271
+["This is a difficult one.", "This is a great one... "]	0.36666666666666664
+["This is a difficult one.", "Yes, there is a reason to not do what you propose."]	0.06153846153846154
+["This is a good one.", "As for how to drain them, it depends on the type of vegetable."]	0.013888888888888888
+["This is a good one.", "It's a good idea."]	0.2916666666666667
+["This is a good one.", "Not a good idea."]	0.25
+["This is a good one.", "This is a good start."]	0.5454545454545454
+["This is a good one.", "This is a good thing."]	0.5454545454545454
+["This is a good question.", "It's a good question."]	0.6666666666666666
+["This is a good question.", "This is a really good question."]	0.6896551724137931
+["This is a good question.", "This is not a good idea."]	0.3548387096774194
+["This is a good start.", "It's a good idea."]	0.2692307692307692
+["This is a good start.", "Not a good idea."]	0.23076923076923078
+["This is a good start.", "This is a good thing."]	0.5
+["This is a good thing.", "3 is really the hardest to respond to; I'm not sure I have a good response."]	0.136986301369863
+["This is a good thing.", "Point is: know what you want and don't be afraid to ask for it."]	0.02631578947368421
+["It depends on the employer.", "It depends on the fine print."]	0.4444444444444444
+["It depends on the employer.", "It depends on the instrument."]	0.4444444444444444
+["It depends on the employer.", "It depends on the reason."]	0.5
+["It depends on the employer.", "It depends on what they are evaluating, and how."]	0.26785714285714285
+["It depends on the employer.", "It depends on what they are."]	0.3783783783783784
+["It depends on the employer.", "It depends on you."]	0.41379310344827586
+["It depends on the employer.", "It very much depends on the program."]	0.3409090909090909
+["It depends on the employer.", "You don't need to oil it."]	0.0
+["It depends on the fine print.", "It depends on the instrument."]	0.4594594594594595
+["It depends on the fine print.", "It depends on the reason."]	0.47058823529411764
+["It depends on the instrument.", "I think it depends on the dish."]	0.375
+["It depends on the instrument.", "I think it depends on your broker."]	0.2553191489361702
+["It depends on the instrument.", "I think it really depends on your recipe."]	0.2037037037037037
+["It depends on the instrument.", "It depends on the reason."]	0.47058823529411764
+["It depends on the instrument.", "It very much depends on the program."]	0.32608695652173914
+["It depends on the instrument.", "Regarding the first question, you might want to check Maxroam."]	0.03571428571428571
+["It depends on the reason.", "I think it depends on the dish."]	0.4166666666666667
+["It depends on the reason.", "It depends on the show in question."]	0.4358974358974359
+["It depends on the reason.", "It depends on what they are evaluating, and how."]	0.2545454545454545
+["It depends on the reason.", "It depends on what they are."]	0.4
+["It depends on the reason.", "It depends on where you are in the world."]	0.35555555555555557
+["It depends on the reason.", "It depends on you."]	0.4444444444444444
+["It depends on the reason.", "It highly depends on the discipline."]	0.35714285714285715
+["It depends on the reason.", "It very much depends on the grant in question."]	0.3137254901960784
+["It depends on the room temperature where you live.", "If that is the case then you cannot bury it."]	0.0759493670886076
+["It depends on the room temperature where you live.", "Yes, although you probably want to chop it up."]	0.03409090909090909
+["It depends on the sauce and the result you want.", "It depends on where you live and what your situation is."]	0.273972602739726
+["It depends on the show in question.", "It depends on what they are."]	0.3111111111111111
+["It depends on the show in question.", "It depends on you."]	0.32432432432432434
+["It depends on the show in question.", "It likely depends on what shape you want to store them in."]	0.20270270270270271
+["It depends on the show in question.", "It very much depends on the grant in question."]	0.5098039215686274
+["It depends on what and where you are going to do.", "Depends on where you are."]	0.44680851063829785
+["It depends on what and where you are going to do.", "In other words, it depends on where you go, when you do there and how."]	0.33766233766233766
+["It depends on what and where you are going to do.", "It depends on what you are reading."]	0.4716981132075472
+["It depends on what and where you are going to do.", "It depends on what you want to be able to do."]	0.4098360655737705
+["It depends on what and where you are going to do.", "It depends on what you want to do next, and where you want to do it."]	0.5238095238095238
+["It depends on what and where you are going to do.", "It shows you know what you want and you have a good reason to be interested in the school."]	0.1574074074074074
+["It depends on what and where you are going to do.", "It's just how long you dry them."]	0.056338028169014086
+["It depends on what and where you are going to do.", "The answer depends on where you are."]	0.43636363636363634
+["It depends on what exactly you're doing.", "It might alter the way you perform."]	0.05970149253731343
+["It depends on what they are evaluating, and how.", "If what you are looking for is much higher, they get the picture."]	0.13829787234042554
+["It depends on what they are evaluating, and how.", "It depends on what they are."]	0.5319148936170213
+["It depends on what they are evaluating, and how.", "It depends on where you are in the world."]	0.2923076923076923
+["It depends on what they are evaluating, and how.", "It depends on you."]	0.24
+["It depends on what they are evaluating, and how.", "You are right on the mark."]	0.1111111111111111
+["It depends on what they are.", "Depends on what your goal is."]	0.325
+["It depends on what they are.", "Depends on where you are."]	0.3611111111111111
+["It depends on what they are.", "It depends on what you are reading."]	0.475
+["It depends on what they are.", "It depends on where you are in the world."]	0.391304347826087
+["It depends on what they are.", "It depends on you."]	0.4
+["It depends on what you are reading.", "Depends on the place where you apply for."]	0.2413793103448276
+["It depends on what you are reading.", "Depends on what your goal is."]	0.36363636363636365
+["It depends on what you are reading.", "Depends on where you are."]	0.4358974358974359
+["It depends on what you are reading.", "It depends on where you are in the world."]	0.42
+["It depends on what you are reading.", "It depends on you."]	0.4
+["It depends on what you are reading.", "It really depends on what you are looking for."]	0.54
+["It depends on what you are reading.", "It really depends on your audience and setting."]	0.2786885245901639
+["It depends on what you are reading.", "It really depends on your usage."]	0.3125
+["It depends on what you are reading.", "That depends on which country you are in."]	0.44
+["It depends on what you are reading.", "That depends on who you ask."]	0.475
+["It depends on what you are reading.", "The answer depends on where you are."]	0.3958333333333333
+["It depends on what you mean by \"sufficient\".", "You will have absolutely no issues."]	0.013513513513513514
+["It depends on what you want to achieve.", "It depends on what you want to be able to do."]	0.5918367346938775
+["It depends on what you want to achieve.", "It depends on what you want to do next, and where you want to do it."]	0.4915254237288136
+["It depends on what you want to achieve.", "It depends on what you want to have in your tank."]	0.5471698113207547
+["This would be a bad idea.", "I believe the movie you are looking for is Embrace Of The Vampire"]	0.024096385542168676
+["This would be a bad idea.", "I think it's a bad idea."]	0.2857142857142857
+["To directly answer your question: if you like the results with your ratio, it's reasonable.", "Does this answer your questions?"]	0.21978021978021978
+["To directly answer your question: if you like the results with your ratio, it's reasonable.", "If you don't finish, you just don't get the snack. "]	0.06086956521739131
+["To do this you need to learn about what you are investing in.", "It rather depends on which country you're in."]	0.07692307692307693
+["To give this an answer:", "It is almost as if you are sleeping, but you are not."]	0.03225806451612903
+["To give this an answer:", "Short answer It varies."]	0.1388888888888889
+["To my knowledge, there's no time requirement.", "There is also a Youtube-Version of the film."]	0.04938271604938271
+["To the best of my knowledge, there's no firm date requirement.", "If they don't fire you, you are now working hours that you like."]	0.0660377358490566
+["Totally an opinion here but I have to agree with MGOwen's answer above.", "Because this question is unanswered."]	0.08602150537634409
+["Treat it like an investment account.", "Tell her, if she doesn't want to be, then she's not."]	0.012345679012345678
+["Treat it like an investment account.", "Treat it like you would ammunition."]	0.21818181818181817
+["Try something with the following format: mm/dd/yyyy ", "Does this answer your questions?"]	0.02702702702702703
+["Try something with the following format: mm/dd/yyyy ", "Does this page answer your question?"]	0.02564102564102564
+["Turn off the main breaker.", "I think it's just a habit."]	0.02127659574468085
+["Two options I can think of:", "All of the answers above are good."]	0.037037037037037035
+["Two options I can think of:", "It highly depends on the discipline."]	0.03508771929824561
+["Under perfect conditions this is not true.", "I don't think it really matters exactly what happened."]	0.034482758620689655
+["Unfortunately that's how it is.", "For me it looks quite simple:"]	0.037037037037037035
+["Unfortunately, this question cannot be answered in its full generality.", "If you do not have one that is fine, no one would expect you to have written much."]	0.03787878787878788
+["Unfortunately, this question cannot be answered in its full generality.", "Most of the time that's what you want for a good dish."]	0.017241379310344827
+["Use an arrangement that makes sense to you.", "I think it depends on your broker."]	0.043478260869565216
+["Use an arrangement that makes sense to you.", "Short answer is yes."]	0.017543859649122806
+["Use an arrangement that makes sense to you.", "You need to read a lot to know what you like and what you don't."]	0.10975609756097561
+["Voltron is the name of the show you're looking for", "How should I proceed about this?"]	0.056338028169014086
+["Voltron is the name of the show you're looking for", "How this will perform will depend a lot on the temperature of the room it is in."]	0.1414141414141414
+["Voltron is the name of the show you're looking for", "I'd say it depends on the ultimate outcome you want?"]	0.09195402298850575
+["Voltron is the name of the show you're looking for", "No, I don't think you should contact the editor."]	0.08536585365853659
+["We had the same problem and it turned our to be due to the temperature changes in the fridge.", "Find what you like to read."]	0.0392156862745098
+["We had the same problem and it turned our to be due to the temperature changes in the fridge.", "That's roughly along the lines of what I'd do anyways."]	0.03937007874015748
+["Well, I wouldn't put it on my cv.", "I wouldn't put this job on my resume."]	0.375
+["Well, there is always the possibility.", "I agree with the other answers."]	0.06896551724137931
+["Well, there is always the possibility.", "I disagree with the other answers."]	0.06557377049180328
+["What I do is this:", "How do I do that? "]	0.25
+["What I mean by this is that you could be seeing the new normal.", "I believe the movie you are looking for is Embrace Of The Vampire"]	0.102803738317757
+["What are you goals?", "Do you have any goals?"]	0.27586206896551724
+["What do you want us to say?", "I don't think you should quit."]	0.08163265306122448
+["What do you want us to say?", "If you do want to help but want to be paid."]	0.22916666666666666
+["What do you want us to say?", "There is always time to do what you want to do."]	0.29411764705882354
+["What is your paper for?", "I think the answer that we don't know."]	0.057692307692307696
+["What kind of floors are above?", "English is really widespread, so that would be your best bet."]	0.024390243902439025
+["What kind of floors are above?", "I have the exact same issue."]	0.0
+["What kind of floors are above?", "What kind of form is it?"]	0.3157894736842105
+["What kind of form is it?", "A couple of good reasons."]	0.046511627906976744
+["What kind of form is it?", "What kind of homework is it?"]	0.5
+["What kind of form is it?", "What kind of insulation is it?"]	0.47058823529411764
+["What kind of form is it?", "What kind of stone is it?"]	0.5517241379310345
+["What kind of homework is it?", "A couple of good reasons."]	0.0425531914893617
+["What kind of homework is it?", "What kind of stone is it?"]	0.48484848484848486
+["What kind of homework is it?", "What kind of work is it that you want to do?"]	0.41304347826086957
+["What kind of homework is it?", "What sort of brush is it?"]	0.2564102564102564
+["What kind of insulation is it?", "But really, it depends on how you plan to use it."]	0.027777777777777776
+["What kind of insulation is it?", "I'm not aware of any studies either way, but it seems unlikely."]	0.03488372093023256
+["What kind of insulation is it?", "What kind of stone is it?"]	0.45714285714285713
+["What kind of stone is it?", "What sort of brush is it?"]	0.2777777777777778
+["What makes you say that?", "I had the same issue and it turned out to be air in the system."]	0.02702702702702703
+["What makes you say that?", "In the first case, I think it is quite common, as people come and go."]	0.012048192771084338
+["What should I do about this? ", "A couple of good reasons."]	0.0
+["What should I do about this? ", "How should I proceed about this?"]	0.46153846153846156
+["What should you do?", "How do you do that?"]	0.23076923076923078
+["What should you do?", "So, CAN you do this?"]	0.16666666666666666
+["What sort of brush is it?", "Depends on your time scale, but generally, I don't think it would work."]	0.011111111111111112
+["What sort of brush is it?", "I have the same problem."]	0.0
+["What sort of brush is it?", "I think I would just ignore it."]	0.0196078431372549
+["What sort of brush is it?", "The HarpAndDragon website should be able to help you."]	0.0
+["What would the lumber-jack need to be like to make a good story out of this idea?", "You have to decide how much you want to demand, and what unmet demands you can live with."]	0.050724637681159424
+["What you can do:", "When you return to the problem, you are able to take a logical approach to it."]	0.039473684210526314
+["What you can do:", "You can do it."]	0.3684210526315789
+["What you should do is up to you.", "How you do that is up to you."]	0.4722222222222222
+["What you should do is up to you.", "It depends on your local corporate culture."]	0.029850746268656716
+["What you should do is up to you.", "It's really up to you."]	0.23076923076923078
+["What you should do is up to you.", "It's up to you what you want to do next."]	0.3333333333333333
+["What you want to say is that you read a lot.", "It is the way you walk."]	0.21739130434782608
+["What you want to say is that you read a lot.", "Take a look at creative nonfiction."]	0.078125
+["What you want to say is that you read a lot.", "What do you want us to say?"]	0.38636363636363635
+["When buying a car, don't think of it as investment but rather as a luxury.", "Some situations require you to use the thumb, but I don't think this is the case."]	0.14049586776859505
+["When buying a car, don't think of it as investment but rather as a luxury.", "The best way to do this is to use IRR."]	0.052083333333333336
+["When you return to the problem, you are able to take a logical approach to it.", "All the answers above are all correct."]	0.08888888888888889
+["When you return to the problem, you are able to take a logical approach to it.", "I would say that in a situation like this, communication is paramount."]	0.04065040650406504
+["You are not a runner.", "Focus on one thing at a time so you don't waste time switching between task."]	0.0375
+["You are on the right path.", "You're on the right path."]	0.7407407407407407
+["You are the one asking for reassignment and will get what is available if there is something.", "It really depends on your usage."]	0.02702702702702703
+["You burn more Calories digesting protein than you do carbohydrates and fat.", "I don't think it was a burger but rather a cupcake."]	0.05405405405405406
+["You can buy it on amazon for $5.", "Have you already seen this?"]	0.018867924528301886
+["You can call and ask, but you are unlikely to get anything useful.", "If you don't want to do Android, it shouldn't be on your resume."]	0.04424778761061947
+["You can call and ask, but you are unlikely to get anything useful.", "The solution has two parts."]	0.0
+["You can do it, but you might not be a professor.", "Apply to the one you think you want, and also describe that you're interested in the other."]	0.05217391304347826
+["You can do it, too.", "You can use it, too."]	0.5909090909090909
+["You can marinate, or brine it, but you don't need to.", "Not at all true."]	0.0
+["You can still use it for practice.", "To directly answer your question: if you like the results with your ratio, it's reasonable."]	0.02727272727272727
+["You can try SplashMoney.", "I don't know of a program."]	0.0
+["You can try manager.io.", "In most cases the purpose of a credit check is to see if there is evidence of character problems."]	0.009615384615384616
+["You can use garlic powder and leave it out.", "Again depending on your needs, you will have to pick what is best for you. "]	0.028037383177570093
+["You can use it, too.", "A few other reasons, which are less glamorous:"]	0.0
+["You can use it, too.", "Find out what he would need to see from you to accept you on to the team."]	0.02531645569620253
+["You could probably do it, but it wouldn't be very effective.", "Maybe everyone knew about this, and she was the only one who didn\u2019t."]	0.045454545454545456
+["You could probably get a tour agency to do it for you but it would cost you.", "I've had good luck with the Iron Gym Pull Up bar."]	0.0
+["You could try BerlinLinienBus.", "All of the answers to date are good."]	0.0
+["You could try TripIt.", "If you're inclined to say \"no\", you must have good reasons."]	0.027777777777777776
+["You could try something like chicken thighs.", "That said, I'm guessing the answer is \"no\"."]	0.0379746835443038
+["You definitely don't have to.", "If you don't have enough budget then, we'll, you should."]	0.18181818181818182
+["You do not have to do it and there is no need to do it.", "It's not the size of the cup, it's the amount of coffee in it."]	0.1111111111111111
+["You do not need to say \"You are wrong.\"", "To my knowledge, there's no time requirement."]	0.012987012987012988
+["You do not need to say \"You are wrong.\"", "What does your contract say?"]	0.05172413793103448
+["You do not need to worry.", "But you don't need to really."]	0.28205128205128205
+["You do not tell if you were required to be at that meeting, but I assume so.", "Really it's up to you."]	0.04597701149425287
+["You do not tell if you were required to be at that meeting, but I assume so.", "Your performance may be great, but it means nothing if you are not in the office."]	0.16666666666666666
+["You don't HAVE to make that mistake, so DON'T.", "I think it depends on the deadline the offering school gave you."]	0.02040816326530612
+["You don't have a problem.", "I don't see why that should be a problem."]	0.32608695652173914
+["You don't have a problem.", "I don't see why this could be a problem."]	0.32608695652173914
+["You don't have a problem.", "In most cases the purpose of a credit check is to see if there is evidence of character problems."]	0.07
+["You don't have a problem.", "No, it won't be a problem."]	0.38235294117647056
+["You don't have a problem.", "You really shouldn't have a problem."]	0.5
+["You don't have to be happy about.", "Th answer to you problem is that you dont actually know what you're getting in ."]	0.06382978723404255
+["You don't have to configure anything.", "I had this problem too."]	0.05660377358490566
+["You don't have to configure anything.", "I have had this problem."]	0.09803921568627451
+["You don't have to configure anything.", "You don't have to do anything to season it."]	0.46
+["You don't have to configure anything.", "You don't have to prepay."]	0.38095238095238093
+["You don't have to configure anything.", "You don't have to worry."]	0.3902439024390244
+["You don't have to do anything to season it.", "There are a few reasons that paint wrinkles."]	0.04
+["You don't have to know.", "Other than that you don't have a tax issue."]	0.25
+["You don't have to know.", "You say you do not know what to write."]	0.19148936170212766
+["You don't have to know.", "if you don't know when or how to clean it."]	0.25
+["You don't have to leave to see what others will pay you.", "To my knowledge, there's no time requirement."]	0.022222222222222223
+["You don't have to prepay.", "I had this problem too."]	0.07317073170731707
+["You don't have to prepay.", "I have had this problem."]	0.1282051282051282
+["You don't have to prepay.", "It's all in her head."]	0.0
+["You don't have to prepay.", "You don't have to worry."]	0.5517241379310345
+["You don't have to prepay.", "You should, but you don't have to."]	0.38461538461538464
+["You don't have to worry.", "I had this problem too."]	0.04878048780487805
+["You don't have to worry.", "I have had this problem."]	0.10256410256410256
+["You don't have to worry.", "You should, but you don't have to."]	0.39473684210526316
+["You don't need a program, you need people already doing it to join with.", "How I should pay the due amount? "]	0.021739130434782608
+["You don't need any visa.", "But you don't need to really."]	0.32432432432432434
+["You don't need any visa.", "What I do is this:"]	0.02702702702702703
+["You don't need any visa.", "You do not need to worry."]	0.25
+["You don't need any visa.", "You don't need to oil it."]	0.40625
+["You don't need any visa.", "You don't need to prove it."]	0.38235294117647056
+["You don't need sauce at all.", "The more detail you have, the harder it is to dismiss your estimate as inaccurate."]	0.020202020202020204
+["You don't need to oil it.", "But if you don't want to quit, the above are your options, as I see it."]	0.14102564102564102
+["You don't need to oil it.", "But you don't need to really."]	0.42857142857142855
+["You don't need to oil it.", "Relax, you don't need to do anything."]	0.35714285714285715
+["You don't need to oil it.", "You don't need to prove it."]	0.6
+["Why don't you just lock it to something?", "Unfortunately, there isn't much you can do."]	0.0821917808219178
+["Work into it slowly.", "If you haven't, you should."]	0.0
+["Work into it slowly.", "So I'd take the time to decision stats with a grain of salt."]	0.0136986301369863
+["Yes it is common!", "), but it is not."]	0.20833333333333334
+["Yes it is common!", "It is his job to see that you have what you need to do your job."]	0.04918032786885246
+["Yes it is common!", "It is up to you."]	0.11538461538461539
+["Yes it is common!", "No it is not."]	0.23809523809523808
+["Yes it is common!", "No, it is not true."]	0.18518518518518517
+["Yes, although they can be a bit sour.", "I can think of a couple of options off the top of my head:"]	0.0759493670886076
+["Yes, although they can be a bit sour.", "The more detail you have, the harder it is to dismiss your estimate as inaccurate."]	0.047619047619047616
+["Yes, although you probably want to chop it up.", "If it's on the same ticket, it's not your problem."]	0.07317073170731707
+["Yes, it can be done.", "Could it be Ark?"]	0.14285714285714285
+["Yes, it can be done.", "Maybe it doesn't."]	0.13793103448275862
+["Yes, it is a real issue.", "Yes, there is a reason for it."]	0.2894736842105263
+["Yes, it is hard to publish in a peer reviewed journal.", "My recommendation is not to say anything, and do the best you can."]	0.045454545454545456
+["Yes, that is the supply line.", "It's possible for two airlines to share the same code, under some circumstances."]	0.07368421052631578
+["Yes, there is a chemical difference.", "I am not sure this is the right site for the question."]	0.06756756756756757
+["Yes, there is a chemical difference.", "No it can't."]	0.0
+["Yes, there is a chemical difference.", "This is the tip I find most useful:"]	0.06557377049180328
+["Yes, there is a reason for it.", "I Agree with Jefromi."]	0.0
+["Yes, there is at least one to my knowledge.", "So my proposed answer is \"yes\"."]	0.07692307692307693
+["Yes, there is at least one to my knowledge.", "The more you do it, the faster you will be."]	0.0684931506849315
+["Yes, you can do that.", "How should you do that?"]	0.2903225806451613
+["Yes, you can do that.", "The answer will depend of course on what you're looking for in a vacation."]	0.03409090909090909
+["Yes, you can receive phone signals.", "Depends on your time scale, but generally, I don't think it would work."]	0.030612244897959183
+["Yes, you can receive phone signals.", "It really depends on what you are looking for."]	0.0547945205479452
+["Yes, you can use it.", "\"I used to do it a lot,\" I explained, \"when I was a kid."]	0.04477611940298507
+["Yes, you have to do both.", "Don't rewrite unless you have to."]	0.22727272727272727
+["Yes, you have to file a tax return in Canada.", "I found some link that might be of help to you:"]	0.047619047619047616
+["Yes, you need to file a tax return.", "(This is a possible explanation, but I'm not crazy about it."]	0.022988505747126436
+["Yes, you should create a portfolio site to showcase what you can do and what you've done.", "It's also a matter of taste."]	0.020833333333333332
+["Yes, you should create a portfolio site to showcase what you can do and what you've done.", "This should help, it's not precisely exact, but you can probably figure it out from here."]	0.1
+["Yes, you should make a r\u00e9sum\u00e9.", "How many do you need to do?"]	0.08333333333333333
+["Yes, you should make a r\u00e9sum\u00e9.", "If it's on the same ticket, it's not your problem."]	0.02857142857142857
+["Yes, you should make a r\u00e9sum\u00e9.", "If you focus on what you want to do, you'll find an employer that needs that."]	0.0449438202247191
+["Yes... on all the above.", "It really depends on your usage."]	0.061224489795918366
+["Yes... on all the above.", "Short and quick answer: definitely the Romans were NOT the first."]	0.039473684210526314
+["Yes... on all the above.", "The answer to this and all such similar questions is in two stages:"]	0.07692307692307693
+["You PROBABLY don't have any chance at the moment.", "Short answer is yes."]	0.015873015873015872
+["You PROBABLY don't have any chance at the moment.", "So my proposed answer is \"yes\"."]	0.013513513513513514
+["You also imply you may not be paid if they cannot place you with a client.", "I am in a similar situation, and I believe you are correct."]	0.07017543859649122
+["You also imply you may not be paid if they cannot place you with a client.", "If you're going to go for well done, you might want to consider a braise."]	0.03937007874015748
+["You answered your own question.", "Does this answer your questions?"]	0.37209302325581395
+["You answered your own question.", "Does this page answer your question?"]	0.3404255319148936
+["You answered your own question.", "First, I'll answer your question."]	0.3953488372093023
+["You answered your own question.", "I think you already answered your own question."]	0.6363636363636364
+["You answered your own question.", "I think you answered your own question."]	0.7777777777777778
+["You answered your own question.", "I would say, unless you know it is safe for cats assume it to be poisonous."]	0.03125
+["You answered your own question.", "I'll answer this question:"]	0.2926829268292683
+["You answered your own question.", "Short answer It varies."]	0.1111111111111111
+["You answered your own question.", "The answer to both questions is: Yes."]	0.23076923076923078
+["You answered your own question.", "The short answer is :"]	0.11627906976744186
+["You answered your own question.", "The simple answer is no."]	0.10869565217391304
+["You answered your own question.", "You have answered your own question."]	0.8
+["You answered your own question.", "You've answered your own question already."]	0.6046511627906976
+["You are making this too complicated.", "Have you ever seen a strong vegan?"]	0.03125
+["You are making this too complicated.", "You guys are making this all WAAAAAY too complicated."]	0.64
+["This is a great one... ", "But I don't think you'll find that in a restaurant."]	0.030303030303030304
+["This is a hard one.", "You check how important it is for you and your boss that you go to the seminar."]	0.024390243902439025
+["This is a hard one.", "if you don't know when or how to clean it."]	0.0
+["This is a part answer to your question", "I think there are a couple of things that might help."]	0.01282051282051282
+["This is a problem that the professor has to deal with.", "The more you do it, the faster you will be."]	0.04938271604938271
+["This is a problem that the professor has to deal with.", "There are a few adjustments you can try:"]	0.012048192771084338
+["This is a really bad idea.", "I think it's a bad idea."]	0.2857142857142857
+["This is a really bad idea.", "This would be a bad idea."]	0.35294117647058826
+["This is a really good question.", "It's a good question."]	0.46875
+["This is a really good question.", "It's a really good read."]	0.4117647058823529
+["This is a really good question.", "This is not a good idea."]	0.2564102564102564
+["This is a very unusual request.", "Do you have a team/company wiki?"]	0.017543859649122806
+["This is a very unusual request.", "If you can get your hands on a file, you could modify a screw to be self-drilling."]	0.01
+["This is an older question, but I thought I'd give my 2 cents:", "As soon as possible."]	0.0
+["This is becoming more common in the UK, but I'd hang fire as it works two ways.", "If you really want to learn it, it will take time and work."]	0.07563025210084033
+["This is how I suspect the circuit is wired, but you'll have to investigate to be sure.", "I had the same problem as you."]	0.07142857142857142
+["This is how you should understand what a resume is & what a cover letter is:", "I don't know the whole algorithm, but I found the formula you'd need to derive it."]	0.06153846153846154
+["This is not a direct answer to your question.", "A lot of good answers already."]	0.09523809523809523
+["This is not a direct answer to your question.", "Don't tell him you're recommending him if you aren't going to."]	0.045454545454545456
+["This is not a good idea.", "But it is not a good idea."]	0.6923076923076923
+["This is not a good idea.", "I do not think it's a good idea."]	0.3783783783783784
+["This is not a good idea.", "I think this is not such a good idea."]	0.5588235294117647
+["This is not a good idea.", "It is not a good idea."]	0.782608695652174
+["This is not a good idea.", "It's not a good idea."]	0.6666666666666666
+["This is not a good idea.", "Of course this is a good idea."]	0.45454545454545453
+["This is not a good idea.", "You need to add this to your resume because it is the only position you have had."]	0.034482758620689655
+["This is not something strange.", "I think the  movie you are looking for is Bandidas."]	0.08695652173913043
+["This is not the answer you want but I have to get it out of my chest.", "Cooking depends on the type of sauce you're cooking."]	0.0784313725490196
+["This is not uncommon in a water heater.", "So, I think you don't need to explicitly state the code copyright in the paper."]	0.039603960396039604
+["This is only a good thing if it motivates you to do the things to get better.", "I was recently in a similar situation."]	0.02
+["This is probably not a good idea but I will suggest it anyhow.", "You should go to him the first day you don't have work not the tenth."]	0.04310344827586207
+["This is probably not a good idea but I will suggest it anyhow.", "You've answered your own question already."]	0.020833333333333332
+["This is the same question you asked a couple of days ago.", "You're thinking about it the wrong way."]	0.03488372093023256
+["This is the tip I find most useful:", "I've done this in a similar situation."]	0.08064516129032258
+["This is very important.", "I think it's fine to ask this question."]	0.03773584905660377
+["This is very important.", "Not a real answer to your question, but maybe it helps."]	0.0
+["This is what I'd do:", "I've got an answer:"]	0.0
+["This is what you are wanting.", "I've had good luck with SweetHome 3D."]	0.0
+["This isn't a bad thing, but you do need to be aware of the choices you make.", "Buy a new piece to fit."]	0.046511627906976744
+["This question has been asked before. I don't think I can improve on that answer.", "I would suggest Markdown."]	0.010416666666666666
+["This question has been asked before. I don't think I can improve on that answer.", "If you put in the work, then you have every right to mention that you did the work."]	0.09523809523809523
+["This really depends on your twins.", "It really depends on your audience and setting."]	0.4
+["This really depends on your twins.", "It really depends on your usage."]	0.55
+["This sounds a bit unusual.", "I don't know the whole algorithm, but I found the formula you'd need to derive it."]	0.020618556701030927
+["This sounds a bit unusual.", "I don't understand why there should be a problem."]	0.05970149253731343
+["This sounds a bit unusual.", "It is a very low sound?"]	0.18421052631578946
+["This sounds a bit unusual.", "That's not a lot of depth."]	0.021739130434782608
+["This varies by institution.", "I think there isn't a general answer."]	0.0
+["This very much depends on your institution and your professor.", "I don't think there's any reason other than historical chance."]	0.028037383177570093
+["This will heavily depend on the specific country you are talking about.", "I wouldn't put this job on my resume."]	0.050505050505050504
+["It depends on what you want to achieve.", "It depends on what you want to say/imply."]	0.6170212765957447
+["It depends on what you want to achieve.", "It depends on you."]	0.358974358974359
+["It depends on what you want to achieve.", "It depends on your local corporate culture."]	0.21875
+["It depends on what you want to be able to do.", "It depends on what you want to do next, and where you want to do it."]	0.5081967213114754
+["It depends on what you want to be able to do.", "It depends on you."]	0.32558139534883723
+["It depends on what you want to be able to do.", "It likely depends on what shape you want to store them in."]	0.4057971014492754
+["It depends on what you want to be able to do.", "Sometimes the problem is in what you are avoiding to do."]	0.20253164556962025
+["It depends on what you want to do next, and where you want to do it.", "It depends on what you want to have in your tank."]	0.43283582089552236
+["It depends on what you want to have in your tank.", "It simply, and obviously, depends on what you want to spend your money on."]	0.379746835443038
+["It depends on what you want to have in your tank.", "So I would say that that is in fact a myth."]	0.06493506493506493
+["It depends on what you want, really.", "The movie you are looking for is probably Infested."]	0.0375
+["It depends on what you're going for, really.", "I guess it depends on what you're going to do."]	0.5087719298245614
+["It depends on what you're going for, really.", "It depends on you."]	0.3181818181818182
+["It depends on what you're going for, really.", "It highly depends on the discipline."]	0.16923076923076924
+["It depends on what you're going for, really.", "It really depends on your usage."]	0.3333333333333333
+["It depends on where you are in the world.", "Depends on where you are."]	0.525
+["It depends on where you are in the world.", "I guess it really depends on your own beliefs and situation."]	0.14285714285714285
+["It depends on where you are in the world.", "That depends on which country you are in."]	0.4
+["It depends on where you are in the world.", "That depends on who you ask."]	0.3617021276595745
+["It depends on where you are in the world.", "The answer depends on where you are."]	0.5
+["It depends on where you live and what your situation is.", "Depends on what your goal is."]	0.3508771929824561
+["It depends on where you live and what your situation is.", "I guess it depends on what you're going to do."]	0.2702702702702703
+["It depends on where you live and what your situation is.", "I have worked on a project similar to this."]	0.05813953488372093
+["It depends on where you live and what your situation is.", "If not, don't do that and spend that time with something you like to do."]	0.13
+["It depends on where you live and what your situation is.", "It is possible, but I'm not aware of any evidence for it."]	0.039603960396039604
+["It depends on you.", "Depends on the place where you apply for."]	0.2222222222222222
+["It depends on you.", "Depends on what your goal is."]	0.30303030303030304
+["It depends on you.", "Depends on where you are."]	0.3448275862068966
+["It depends on you.", "I guess it depends on what you're going to do."]	0.2765957446808511
+["It depends on you.", "I think it depends on the dish."]	0.3333333333333333
+["It depends on you.", "I think it really depends on your recipe."]	0.3170731707317073
+["It depends on you.", "I wouldn't worry too much about your results not matching the picture."]	0.024691358024691357
+["It depends on you.", "It depends on your local corporate culture."]	0.35714285714285715
+["It depends on you.", "It highly depends on the discipline."]	0.28205128205128205
+["It depends on you.", "It really depends on your usage."]	0.4375
+["It depends on you.", "That depends on which country you are in."]	0.30952380952380953
+["It depends on you.", "That depends on who you ask."]	0.4482758620689655
+["It depends on your company.", "It depends on your country."]	0.6129032258064516
+["It depends on your company.", "There is no code telling you that you cannot do this."]	0.058823529411764705
+["It depends on your country.", "There is no code telling you that you cannot do this."]	0.058823529411764705
+["It depends on your local corporate culture.", "I had this same situation."]	0.0
+["It depends on your local corporate culture.", "There are brackets for this type of thing:"]	0.0
+["It depends what you want to do with them.", "But the solution to the problem is that you don't need to."]	0.15384615384615385
+["It depends what you want to do with them.", "i think it depends what you want:"]	0.4583333333333333
+["It highly depends on the discipline.", "Depends a little on your field."]	0.125
+["It highly depends on the discipline.", "I guess it depends on what you're going to do."]	0.14705882352941177
+["It highly depends on the discipline.", "It really depends on the hostel you book."]	0.30357142857142855
+["It highly depends on the discipline.", "It really depends on your usage."]	0.2549019607843137
+["It is a very low sound?", "I don't see why there should be an issue."]	0.01694915254237288
+["It is his job to see that you have what you need to do your job.", "There are a few things you can do: "]	0.06666666666666667
+["It is more deciding what you should do and what you should get others to do.", "If you can't play it or test it out, do not buy."]	0.07446808510638298
+["It is not a good idea.", "But it is not a good idea."]	0.7916666666666666
+["It is not a good idea.", "I do not think it's a good idea."]	0.3888888888888889
+["It is not a good idea.", "I think this is not such a good idea."]	0.4857142857142857
+["It is not a good idea.", "It's not a good idea."]	0.6956521739130435
+["There are a few things you can do to thicken your sauce:", "There are a few things you can do: "]	0.5918367346938775
+["There are a few things you can do: ", "I would recommend you to do three things about this:"]	0.14705882352941177
+["There are a few things you can do: ", "There are quite a few things you would need to do;"]	0.4528301886792453
+["There are a few things you need to consider:", "There are quite a few things you would need to do;"]	0.5357142857142857
+["There are brackets for this type of thing:", "From what I understand this is what you can do :"]	0.05405405405405406
+["There are brackets for this type of thing:", "If you find a publisher of such works, that's the place to start."]	0.05319148936170213
+["There are brackets for this type of thing:", "You're using the wrong type of screws."]	0.16393442622950818
+["There are lots of ways to do this.", "I don't see any problem with the grammar of this."]	0.11594202898550725
+["There are many synonyms to but.", "Concentration - focus on one thing at a time so as to do each task better and faster."]	0.02857142857142857
+["There are many ways to structure an introduction.", "I'd say it primarily depends on two things:"]	0.0
+["There are numerous ways.", "I think it is okay to ask the question."]	0.0
+["There are numerous ways.", "Patents are the way to go if you have to make money from a smart idea in the academia."]	0.06451612903225806
+["There are only three options:", "The answer to your question is not really."]	0.06557377049180328
+["There are quite a few things you would need to do;", "I wouldn't do it, particularly on the first day."]	0.07058823529411765
+["There are quite a few things you would need to do;", "The answer depends on where you are."]	0.14285714285714285
+["There are three options:", "It's all about conventions."]	0.06976744186046512
+["There are three options:", "There are two obstacles:"]	0.23529411764705882
+["There are three options:", "There are two options here:"]	0.4827586206896552
+["There are two obstacles:", "Seems to work pretty well, although I've mostly used it for cutting."]	0.0
+["There are two obstacles:", "There are two options for you - "]	0.3157894736842105
+["There are two obstacles:", "There are two options here:"]	0.3870967741935484
+["There are two obstacles:", "There are two possible causes for this:"]	0.2391304347826087
+["There are two options for you - ", "I think the answer that we don't know."]	0.016129032258064516
+["There are two options for you - ", "If the code base that you have to deal with is no good, they know about that."]	0.043010752688172046
+["There are two options for you - ", "Maybe this can work for you."]	0.14583333333333334
+["There are two options for you - ", "There are two options here:"]	0.59375
+["There are two options for you - ", "There are two possible causes for this:"]	0.3
+["There are two options for you - ", "You need to decide what you want to learn first."]	0.043478260869565216
+["There are two options here:", "There are two possible causes for this:"]	0.23404255319148937
+["There are two reasons that I can think of off the top of my head.", "I can think of a couple of options off the top of my head:"]	0.4520547945205479
+["There are two reasons that I can think of off the top of my head.", "Off the top of my head I can think of three options:"]	0.44285714285714284
+["There are two things to consider:", "A couple things to consider:"]	0.5277777777777778
+["There are two things to consider:", "Here are the obvious things:"]	0.2857142857142857
+["There are two things to consider:", "I think there are two important things to consider:"]	0.6086956521739131
+["There are two things to consider:", "I think there are two things you need to consider."]	0.5869565217391305
+["There are two things to consider:", "No, I don't think it's possible to do that."]	0.11290322580645161
+["There are two things you need to look at to get an answer.", "I read a lot of papers and some books about."]	0.03333333333333333
+["There is always things to do, even if you think there is not.", "I think it really depends on how much you take out of your Nationwide account each month."]	0.08196721311475409
+["There is no answer.", "I've got an answer:"]	0.17857142857142858
+["There is no answer.", "My recommendation is not to say anything, and do the best you can."]	0.06666666666666667
+["There is no correct answer.", "First, I'll answer your question."]	0.09803921568627451
+["There is no correct answer.", "Partly depends on where you are going."]	0.05263157894736842
+["There is no maximum.", "http://www.kyleswitchplates.com/push-button-light-switches/ will get you what you are looking for "]	0.009523809523809525
+["There is no name for it that I'm aware of.", "I do not think there is any difference."]	0.15625
+["There is no reason not to do them on the same day.", "Not a good idea."]	0.017543859649122806
+["There is no reason to worry.", "Yes, there is a reason to not do what you propose."]	0.2982456140350877
+["There is no such index.", "If you want to improve your skills in something, identify it."]	0.012987012987012988
+["There is no test that can tell you if it is sealed or not.", "The sooner you do it the easier it will be."]	0.1125
+["There is no way to win it.", "If you decide to work 12hrs/day but get tired, then you'll need to factor in rest time."]	0.05154639175257732
+["There is nothing new in what you describe.", "I don't think anyone is giving you the answer you're looking for."]	0.12790697674418605
+["There is nothing new in what you describe.", "I think it depends on the piece and on what it's for."]	0.10126582278481013
+["There is nothing wrong in dressing formal.", "The heavier you can lift, the better your technique has to be to do it."]	0.010416666666666666
+["There isn't anything you need to do about this.", "If it's the second, I have no idea how to help you."]	0.056818181818181816
+["There really isn't any downside that I'm aware of.", "See Wikipedia for average weather stats."]	0.011904761904761904
+["There's a couple practical things that can help.", "It depends on the employer."]	0.014492753623188406
+["There's a couple practical things that can help.", "It very much depends on the program."]	0.039473684210526314
+["There's also what the string is made of.", "It depends on the age of your child:"]	0.07462686567164178
+["There's also what the string is made of.", "There are two obstacles:"]	0.05357142857142857
+["There's also what the string is made of.", "This really depends on your twins."]	0.014492753623188406
+["There's no VAT in the US.", "The movie you are looking for is probably Infested."]	0.02857142857142857
+["There's no standard formula.", "You might want to check out the rasgueado technique."]	0.0
+["There's nothing that you can do or not do to change that other person's wages.", "I would not recommend gluing it."]	0.05555555555555555
+["They are very similar, but not the same.", "I think there isn't a general answer."]	0.043478260869565216
+["They just don't want you to know it.", "How many do you need to do?"]	0.13725490196078433
+["They really don't need to know.", "A lot of good answers already."]	0.017857142857142856
+["They really don't need to know.", "If you have the authority to do it yourself, then do it today."]	0.039473684210526314
+["They really don't need to know.", "You don't need to know everything."]	0.38636363636363635
+["Think of it this way.", "What kind of work is it that you want to do?"]	0.16
+["I had this problem too.", "I've had this same problem."]	0.4375
+["I had this problem with one cat.", "I think you've pretty much answered your own question."]	0.03896103896103896
+["I had this problem with one cat.", "If you're inclined to say \"no\", you must have good reasons."]	0.024096385542168676
+["I had this problem with one cat.", "You've pretty much answered your own question."]	0.0136986301369863
+["I had this same problem.", "I have had the same problem."]	0.6206896551724138
+["I had this same problem.", "I have had this problem."]	0.5925925925925926
+["I had this same problem.", "I have the same problem."]	0.5172413793103449
+["I had this same problem.", "I'm not a fan of the test kits."]	0.02
+["I had this same problem.", "I've had the same problem once."]	0.45714285714285713
+["I had this same problem.", "I've had this same problem."]	0.8076923076923077
+["I have been in a similar situation.", "I'm going to be blunt, here: You don't."]	0.029850746268656716
+["I have exactly the same problem.", "I have the exact same issue."]	0.4358974358974359
+["I have exactly the same problem.", "I have the exact same problem."]	0.7575757575757576
+["I have had the same problem.", "I have had this problem."]	0.5862068965517241
+["I have had the same problem.", "I have just had the same problem."]	0.7741935483870968
+["I have had the same problem.", "I have the same problem."]	0.8076923076923077
+["I have had the same problem.", "I've had the same problem once."]	0.6363636363636364
+["I have had the same problem.", "I've had this same problem."]	0.6129032258064516
+["I have had the same problem.", "The problem is that you're using a lid."]	0.16981132075471697
+["I have had this problem.", "I have just had the same problem."]	0.45714285714285713
+["I have had this problem.", "I have the same problem."]	0.43333333333333335
+["I have had this problem.", "I've had the same problem once."]	0.35135135135135137
+["I have had this problem.", "I've had this same problem."]	0.5862068965517241
+["I have just had the same problem.", "I have the same problem."]	0.6774193548387096
+["I have just had the same problem.", "I've had the same problem once."]	0.5128205128205128
+["I agree with the other answers.", "I disagree with the other answers."]	0.7878787878787878
+["I agree with the other posters.", "I agree with the others."]	0.75
+["I agree with the other posters.", "I disagree with the other answers."]	0.5128205128205128
+["I agree with the other posters.", "In most cases the purpose of a credit check is to see if there is evidence of character problems."]	0.10891089108910891
+["I agree with the others.", "I disagree with the other answers."]	0.5757575757575758
+["I am 13 and in this situation.", "I had this same situation."]	0.3684210526315789
+["I am in a similar situation, and I believe you are correct.", "I'll have that report ready for you by the end of the day "]	0.04950495049504951
+["I am in a similar situation.", "Depends on the legal environment where you are."]	0.0
+["I am in a similar situation.", "I had a similar situation."]	0.6
+["I am in a similar situation.", "No you don't need to do anything special."]	0.0
+["I am not sure this is the right site for the question.", "I believe the name of the movie you are looking for is Poltergeist 3."]	0.1
+["I believe this is the episode you are looking for.", "I don't know about direct, but you could do it in two legs."]	0.030612244897959183
+["I believe you would be DQ'd if you were to use it.", "I was in a similar situation."]	0.0
+["I believe you would be DQ'd if you were to use it.", "If you have the authority to do it yourself, then do it today."]	0.10714285714285714
+["I can think of a couple of options off the top of my head:", "I would look at this: U.S."]	0.027777777777777776
+["I can think of a couple of options off the top of my head:", "If she doesn't like it, she can find something for you to do."]	0.07142857142857142
+["I can think of a couple of options off the top of my head:", "Off the top of my head I can think of three options:"]	0.6101694915254238
+["I cannot think of a great reason why you would want to do this.", "My guess is that your child will do fine."]	0.09090909090909091
+["I cannot think of a great reason why you would want to do this.", "You need to learn to use Components in SketchUp; they do exactly what you want."]	0.11965811965811966
+["I did this one time as well.", "The short answer is: it should not."]	0.0
+["I did this one time as well.", "is it this one?"]	0.22580645161290322
+["I do not know the difference.", "I do not think there is any difference."]	0.4418604651162791
+["I do not know the difference.", "If you forget to mention something, you'll need to spot a chance to work it in later."]	0.0196078431372549
+["I do not think it's a good idea.", "But it is not a good idea."]	0.39473684210526316
+["I do not think it's a good idea.", "I don't think there's a good reason for it."]	0.32075471698113206
+["I do not think it's a good idea.", "I think this is not such a good idea."]	0.4418604651162791
+["I do not think it's a good idea.", "If you don't follow-up, then you are someone that will say one thing and not do it."]	0.0967741935483871
+["I do not think it's a good idea.", "It's not a good idea."]	0.48484848484848486
+["I do not think it's a good idea.", "No, it's not a good thing."]	0.42105263157894735
+["I do not think there is any difference.", "I do not think there's any appreciable difference."]	0.5882352941176471
+["I do this as well.", "Point is: know what you want and don't be afraid to ask for it."]	0.02702702702702703
+["I do this as well.", "Some of the things I do:"]	0.12121212121212122
+["I do this as well.", "Some of the things you can do to help are: "]	0.09803921568627451
+["I do this with lots of foods that are hard to separate after freezing.", "It's actually just a minor third."]	0.031578947368421054
+["I do this with lots of foods that are hard to separate after freezing.", "My answer to your question is \"Probably Not\"."]	0.03773584905660377
+["I don't know about direct, but you could do it in two legs.", "If you decide to work 12hrs/day but get tired, then you'll need to factor in rest time."]	0.072
+["I don't know of a program.", "Do you want to know the answer?"]	0.08163265306122448
+["I don't know of a program.", "I don't know of a residential use."]	0.4
+["I don't know that I'd do this myself.", "I think you can get away with thinset here."]	0.029411764705882353
+["I don't know that I'd do this myself.", "I would call it a custard, I think, if not only for want of a better word."]	0.020202020202020204
+["I don't know the credentials of this site, so take it with a grain of salt.", "If this isn't the case, then take with a grain of salt."]	0.4117647058823529
+["I don't know where you live, but in the UK, they legally have to be.", "A similar question to this was asked over the last couple of weeks."]	0.04918032786885246
+["I don't know where you would buy it but it would be really easy to pour it.", "Off the top of my head I can think of three options:"]	0.009345794392523364
+["I don't see any problem with the grammar of this.", "Most of the time that's what you want for a good dish."]	0.06741573033707865
+["I don't see any starch on the list.", "The problem is that you're using a lid."]	0.04477611940298507
+["I don't see that there's anything wrong.", "As you can see in this simple example there is a lot of information."]	0.11627906976744186
+["I don't see why should there be such a right.", "I don't see why there should be an issue."]	0.5185185185185185
+["I don't see why that should be a problem.", "I don't see why this could be a problem."]	0.7272727272727273
+["I don't see why that should be a problem.", "I don't understand why there should be a problem."]	0.5454545454545454
+["I don't see why this could be a problem.", "I don't understand why there should be a problem."]	0.46551724137931033
+["I don't see why this could be a problem.", "If nothing happens, you need to sit down and think about what you want to do next."]	0.038461538461538464
+["I don't think anyone is giving you the answer you're looking for.", "Partly depends on where you are going."]	0.05747126436781609
+["I don't think it is inappropriate.", "Don't worry too much about music theory yet."]	0.058823529411764705
+["I don't think it makes much difference.", "I don't think there are any benefits."]	0.23214285714285715
+["I don't think it really matters exactly what happened.", "If you really want to learn it, it will take time and work."]	0.10309278350515463
+["I don't think it was a burger but rather a cupcake.", "From personal experience, it depends on the child."]	0.0449438202247191
+["I don't think it's going to be critical but when in doubt: PL.", "Personally when I was in a similar situation I sent the couple a card and a gift."]	0.07317073170731707
+["I don't think telling your boss you're not reading the email is a good strategy.", "I'd say something along the lines of \"why?"]	0.09803921568627451
+["I don't think that there's any.", "But I don't think you'll find that in a restaurant."]	0.2542372881355932
+["I don't think there are any benefits.", "I'd like to suggest Google Docs."]	0.0
+["I don't think there is a general accepted definition.", "I don't think you can make him get a job if he doesn't want to."]	0.15053763440860216
+["I don't think there is a general accepted definition.", "It sounds like you're feeding him before his nap."]	0.021505376344086023
+["I don't think there is a single answer here.", "I don't think there is a single definition."]	0.58
+["I don't think there is a single answer here.", "I've looked for them."]	0.03571428571428571
+["I don't think there is a single definition.", "I've looked for them."]	0.03508771929824561
+["I don't think there is an answer for this.", "Short answer It varies."]	0.11764705882352941
+["I don't think there is an answer for this.", "The hard answer is a straight no."]	0.15517241379310345
+["I don't think there is an answer for this.", "The short answer is :"]	0.1702127659574468
+["I don't think there is any other solution that the one you are adopting.", "I have been in a similar situation."]	0.03296703296703297
+["I don't think there is any truth in that saying.", "3 is really the hardest to respond to; I'm not sure I have a good response."]	0.07920792079207921
+["I don't think there is any truth in that saying.", "I don't think there's much truth in this claim."]	0.43333333333333335
+["I don't think there's a good reason for it.", "I don't think you'd want to use salt for a couple of reasons:"]	0.2727272727272727
+["I don't think there's a good reason for it.", "I think there's a good solution to this."]	0.36363636363636365
+["I don't think there's any one universal norm here.", "I've got an answer:"]	0.016666666666666666
+["I don't think there's any reason other than historical chance.", "Start them as early as possible."]	0.0375
+["I don't think there's much you can do here.", "I don't think there's much you can do."]	0.868421052631579
+["I don't think there's much you can do.", "I don't think you can."]	0.5
+["I don't think this will work very well.", "Take a look at creative nonfiction."]	0.0
+["I don't think this will work very well.", "You need to decide what you want to learn first."]	0.012987012987012988
+["I don't think this will work very well.", "You pretty much answered your own question."]	0.0
+["I don't think twice about leaving a dutch oven in the stove overnight, at a low temperature.", "The answer was a no."]	0.03
+["I don't think you need double-entry bookkeeping.", "In the first case, I think you don't need it."]	0.2608695652173913
+["I don't think you need double-entry bookkeeping.", "It's really up to you."]	0.031746031746031744
+["I don't think you should be concerned.", "I don't think you should."]	0.5945945945945946
+["I don't think you should be concerned.", "I think you should do both."]	0.38636363636363635
+["I don't think you should be concerned.", "If they are not willing to give me a solid answer I ask them to call back later."]	0.009174311926605505
+["I don't think you should be conveying this, but rise to the opportunity instead.", "If you have papers."]	0.033707865168539325
+["I don't think you should use a software.", "If you want to do it you should do it completely."]	0.18461538461538463
+["I don't think you should.", "I think you should do both."]	0.5
+["I don't understand why there should be a problem.", "Thanks for all the suggestions."]	0.0410958904109589
+["I don't understand why there should be a problem.", "Thanks for the suggestions."]	0.043478260869565216
+["I found some link that might be of help to you:", "If you have a high leptin sensitivity you probably need to eat a lot more than you do now."]	0.07692307692307693
+["I guess it depends on what you're going to do.", "Let them know that it is ok to come to you any time they have questions in the future."]	0.102803738317757
+["I guess it really depends on your own beliefs and situation.", "Most of all, you need to decide what you want out of a salary and go from there."]	0.05785123966942149
+["I had the same issue.", "The best way to save on clothes is up to you."]	0.07142857142857142
+["I had the same problem as you.", "I had the same problem."]	0.6896551724137931
+["I had the same problem as you.", "I had this problem too."]	0.3611111111111111
+["I had the same problem as you.", "I had this same problem."]	0.5151515151515151
+["I had the same problem as you.", "I have had the same problem."]	0.6060606060606061
+["I had the same problem as you.", "I have just had the same problem."]	0.5263157894736842
+["I had the same problem as you.", "I have the same problem."]	0.5151515151515151
+["I had the same problem as you.", "I've had the same problem once."]	0.5405405405405406
+["I had the same problem as you.", "I've had this same problem."]	0.43243243243243246
+["I had the same problem as you.", "If you want to improve your skills in something, identify it."]	0.036585365853658534
+["I had the same problem as you.", "That is your problem, not your supervisor's."]	0.15789473684210525
+["I had the same problem as you.", "Your problem is not your supervisors."]	0.17307692307692307
+["I had the same problem.", "I had this problem too."]	0.4
+["I had the same problem.", "I had this same problem."]	0.72
+["I had the same problem.", "I have had the same problem."]	0.84
+["I had the same problem.", "I have just had the same problem."]	0.7
+["I had the same problem.", "I have the same problem."]	0.72
+["I had the same problem.", "I've had the same problem once."]	0.6129032258064516
+["I had the same problem.", "I've had this same problem."]	0.5862068965517241
+["I had the same problem.", "The problem is that you're using a lid."]	0.1836734693877551
+["I had the same situation.", "I had this same situation."]	0.7692307692307693
+["I had this problem too.", "I had this same problem."]	0.5357142857142857
+["I had this problem too.", "I have had this problem."]	0.6153846153846154
+["It's not a good idea.", "I think this is not such a good idea."]	0.4166666666666667
+["It's not ideal but will probably work.", "Can you do it?"]	0.0
+["It's not the size of the cup, it's the amount of coffee in it.", "I'm of the same mind as SF."]	0.1044776119402985
+["It's pretty much up to you.", "If you know your stuff, then you don't have to argue that you learn fast."]	0.04878048780487805
+["It's pretty much up to you.", "It's really up to you."]	0.36363636363636365
+["It's really up to you.", "I'm assuming that the soil is frozen."]	0.0
+["It's really up to you.", "In the first case, I think you don't need it."]	0.03333333333333333
+["Looks like cedar, that is a good wood to use.", "Do you have a team/company wiki?"]	0.014285714285714285
+["Make sure that you get your money.", "I'll have that report ready for you by the end of the day "]	0.11267605633802817
+["Maybe it doesn't.", "Could it be Ark?"]	0.11538461538461539
+["Maybe this can work for you.", "Maybe this could work for you."]	0.6875
+["Most of the time that's what you want for a good dish.", "I think you have to find the balance that works for you."]	0.15294117647058825
+["Much of it has to do with marketing.", "And the good thing is, that when you will have your own children you can cancel the subscription."]	0.02727272727272727
+["My guess is that you don't have real cheese in your sandwich.", "I think there are two important things to consider:"]	0.020202020202020204
+["My guess is that your child will do fine.", "I think you should do both."]	0.10344827586206896
+["My opinion is that I don't think you should force the issue.", "I'm a fan of http://www.writersbeat.com myself."]	0.0
+["My recommendation is not to say anything, and do the best you can.", "Other than that it won't make a difference which one you pick."]	0.04310344827586207
+["No it does not affect your ratings.", "You want to show progression in responsibilities on your resume, and it looks like you have that."]	0.07079646017699115
+["No it is not.", "), but it is not."]	0.5625
+["No it is not.", "No, it is not true."]	0.4
+["No it was not a hallucination.", "No, it's not a good thing."]	0.15555555555555556
+["No it was not a hallucination.", "The hard answer is a straight no."]	0.05357142857142857
+["No you are not.", "You will have absolutely no issues."]	0.045454545454545456
+["No, it is not true.", "), but it is not."]	0.34782608695652173
+["No, it's not a good thing.", "But it is not a good idea."]	0.34285714285714286
+["No, it's not a good thing.", "It's not a good idea."]	0.43333333333333335
+["No, it's not a good thing.", "That being said it is definitely up to you to make the most of your situation."]	0.03225806451612903
+["No, you do not NEED a bread machine.", "I'll answer this question:"]	0.0
+["No, you don't need a transit visa.", "The HarpAndDragon website should be able to help you."]	0.0375
+["No, you will not need special paperwork or to collect your bags.", "But it is different for everyone, so you will have to find that out yourself."]	0.11016949152542373
+["Nope that will not work.", "Do you have any flexibility with your hours at work?"]	0.0967741935483871
+["Not a direct answer to the question, but something to consider.", "Don't worry too much about music theory yet."]	0.0425531914893617
+["Not a good idea.", "It's a good idea."]	0.6111111111111112
+["Not a real answer to your question, but maybe it helps.", "Problem is, the system doesn't account for people who could care less about money, or title."]	0.029411764705882353
+["Not a real answer to your question, but maybe it helps.", "The movie you're looking for is most probably Daybreakers."]	0.038461538461538464
+["Not much you can do besides:", "Recently, I have had a very similar situation occur."]	0.0
+["Now you don't have to be perfect on every answer.", "If you want to improve your skills in something, identify it."]	0.061224489795918366
+["Of course this is a good idea.", "But it is not a good idea."]	0.35135135135135137
+["Of course this is a good idea.", "It's not a good idea."]	0.3142857142857143
+["Of course you can store them in the fridge.", "You're probably going to have to read various blogs to get all the information you want."]	0.08035714285714286
+["Off the top of my head I can think of three options:", "I would look at this: U.S."]	0.029850746268656716
+["One tool that can help you to control the frequency of your strokes is a tempo trainer.", "The best thing to do is to overcome the fussiness."]	0.08928571428571429
+["One, I'm not sure where I am.", "All of the answers above are good."]	0.017857142857142856
+["One, I'm not sure where I am.", "Probably not a good idea."]	0.06521739130434782
+["Partly depends on where you are going.", "But I think really the only choice you have is to be the best person you can be."]	0.07291666666666667
+["Personally, I would bring it up directly.", "I wouldn't bring it up."]	0.3333333333333333
+["Point is: know what you want and don't be afraid to ask for it.", "In other words, it depends on where you go, when you do there and how."]	0.09259259259259259
+["Point is: know what you want and don't be afraid to ask for it.", "The alcohol is not added, but is a result of the fermentation process."]	0.03305785123966942
+["Really it's up to you.", "It's really up to you."]	0.6
+["Relax, you don't need to do anything.", "But you don't need to really."]	0.38636363636363635
+["Relax, you don't need to do anything.", "Can they do this?"]	0.06666666666666667
+["Relax, you don't need to do anything.", "She shouldn't take to you like that and do these things you're right."]	0.16049382716049382
+["Seal all the edges like your life depends on it.", "If you are a beginner and want to stain it, I would suggest you go with solid wood."]	0.04310344827586207
+["Seal all the edges like your life depends on it.", "Just turn the breaker off."]	0.045454545454545456
+["See Wikipedia for average weather stats.", "All of the answers above are good."]	0.014705882352941176
+["Self defense is legal as far as I know.", "That's roughly along the lines of what I'd do anyways."]	0.0
+["She shouldn't take to you like that and do these things you're right.", "I've always had luck with VRBO.com."]	0.0
+["She shouldn't take to you like that and do these things you're right.", "The answer you are looking for is in the name of the building."]	0.08490566037735849
+["Short Zen answer would be:", "I think there isn't a general answer."]	0.09433962264150944
+["Short Zen answer would be:", "I'll answer this question:"]	0.14285714285714285
+["Short Zen answer would be:", "If you can get your hands on a file, you could modify a screw to be self-drilling."]	0.05434782608695652
+["Short Zen answer would be:", "It's probably just a broken switch."]	0.017857142857142856
+["Short Zen answer would be:", "Short answer It varies."]	0.2857142857142857
+["Short Zen answer would be:", "The short answer is: it should not."]	0.27906976744186046
+["Short answer It varies.", "I think there isn't a general answer."]	0.12244897959183673
+["Short answer It varies.", "I'll answer this question:"]	0.15384615384615385
+["Short answer It varies.", "The hard answer is a straight no."]	0.13043478260869565
+["Short answer It varies.", "The short answer is :"]	0.3333333333333333
+["Short answer It varies.", "The simple answer is no."]	0.16216216216216217
+["Short answer is yes.", "So my proposed answer is \"yes\"."]	0.2702702702702703
+["Short answer moisture and salts.", "I'm afraid I don't have an answer to the salt question."]	0.14084507042253522
+["So I'd take the time to decision stats with a grain of salt.", "I would say yes, but don't expect miracles."]	0.010416666666666666
+["So actually it didn't matter.", "The best thing you can do is find something else interesting to do while you wait on hold."]	0.019801980198019802
+["So don't fret it if you can't, but try to work it in.", "I've always had luck with VRBO.com."]	0.0
+["So if you do know the address, it's best to put it down.", "It's all in how you ask the question."]	0.12987012987012986
+["So think it in this way.", "But really, it depends on how you plan to use it."]	0.047619047619047616
+["So think it in this way.", "You should do both."]	0.0
+["Some of the things I do:", "Some of the things you can do to help are: "]	0.38636363636363635
+["Some of what you can do:", "In my mind it's a case of \"do what you like\"."]	0.22641509433962265
+["Some things you might consider:", "The meat is definitely worth saving."]	0.016129032258064516
+["Something like this is useful:  ", "First of all, ask yourself if you really want to work for the company in the long run."]	0.019230769230769232
+["Sometime if you really want it you might need to pay an agency to get the place for you.", "Depends a bit on your furnace."]	0.038834951456310676
+["Sorry, I don't know the answer to your question.", "First, I'll answer your question."]	0.3508771929824561
+["Stop, go to a veterinarian.", "You need to spend a lot of time and do so frequently."]	0.04225352112676056
+["Sure, you have advisors, but they can only guess what is going to be.", "All of the answers to date are good."]	0.06382978723404255
+["Take a look at these:", "I would look at this: U.S."]	0.2647058823529412
+["Take a look at these:", "Take a look at this: "]	0.6521739130434783
+["Take a look at these:", "just take a look at the tail..!"]	0.4838709677419355
+["Take a look at this: ", "I would look at this: U.S."]	0.43333333333333335
+["Take a look at this: ", "just take a look at the tail..!"]	0.4375
+["Take them to a professional.", "Let them know that it is ok to come to you any time they have questions in the future."]	0.08695652173913043
+["Thanks for all the suggestions.", "Thanks for the suggestions."]	0.8
+["That depends on the school and the kid.", "Depends on the program and FF status."]	0.2777777777777778
+["That depends on which country you are in.", "That depends on who you ask."]	0.4444444444444444
+["That depends on which country you are in.", "The answer depends on where you are."]	0.35185185185185186
+["That depends on who you ask.", "Depends on the place where you apply for."]	0.25
+["That depends on who you ask.", "Depends on what your goal is."]	0.358974358974359
+["That depends on who you ask.", "Depends on where you are."]	0.4
+["That depends on who you ask.", "The answer depends on where you are."]	0.36363636363636365
+["That is the most \"fair\" way to do it.", "The best way to learn is to do it."]	0.3541666666666667
+["That is your problem, not your supervisor's.", "Your problem is not your supervisors."]	0.6136363636363636
+["That said, I'm guessing the answer is \"no\".", "The answer to your question is Gotye \"Easy Way Out\""]	0.13924050632911392
+["That's not a lot of depth.", "is it this one?"]	0.0
+["That's what I believe.", "It's all in her head."]	0.05714285714285714
+["That's what it did cost.", "A couple of good reasons."]	0.023255813953488372
+["That's what it did cost.", "I think you're looking for Awaken (2012)."]	0.0
+["The above answers are all correct.", "All the answers above are all correct."]	0.8529411764705882
+["You don't need to oil it.", "You have no need to do anything."]	0.23255813953488372
+["You don't need to prepare in any special way for such interview.", "I would suggest that you try ClearCheckbook."]	0.019801980198019802
+["You don't need to prove it.", "But you don't need to really."]	0.40540540540540543
+["You don't need to prove it.", "Relax, you don't need to do anything."]	0.3409090909090909
+["You don't need to prove it.", "What I do is this:"]	0.025
+["You don't need to prove it.", "You have no need to do anything."]	0.25
+["You don't want jobs you're not a good fit for.", "If you have a high leptin sensitivity you probably need to eat a lot more than you do now."]	0.08695652173913043
+["You don't, it will not work.", "Nope that will not work."]	0.3939393939393939
+["You got it right.", "You've got it right."]	0.65
+["You guys are making this all WAAAAAY too complicated.", "There are two options for you - "]	0.0547945205479452
+["You have a lot of answers already, but I'd like to add Curries as another solutions.", "So I would say that that is in fact a myth."]	0.008695652173913044
+["You have a problem.", "Do you have a car?"]	0.32
+["You have answered your own question.", "Does this page answer your question?"]	0.3333333333333333
+["You have answered your own question.", "First, I'll answer your question."]	0.3541666666666667
+["You have answered your own question.", "I agree with SAJ14SAJ."]	0.0
+["You have answered your own question.", "I think you already answered your own question."]	0.54
+["You have answered your own question.", "I think you answered your own question."]	0.6428571428571429
+["You have answered your own question.", "I would say, unless you know it is safe for cats assume it to be poisonous."]	0.0297029702970297
+["You have answered your own question.", "Short answer It varies."]	0.1
+["You have answered your own question.", "Sorry, I don't know the answer to your question."]	0.2903225806451613
+["You have answered your own question.", "The answer to both questions is: Yes."]	0.23214285714285715
+["You have answered your own question.", "The short answer is :"]	0.10416666666666667
+["You have answered your own question.", "The simple answer is no."]	0.12
+["You have answered your own question.", "You've answered your own question already."]	0.6086956521739131
+["You have no need to do anything.", "How many do you need to do?"]	0.2857142857142857
+["You have no need to do anything.", "I don't think you need double-entry bookkeeping."]	0.15384615384615385
+["You have no need to do anything.", "Relax, you don't need to do anything."]	0.45454545454545453
+["You have to decide what you want to get out of this.", "I am not sure this question would have made much sense to the Romans themselves."]	0.10185185185185185
+["You have to do what is right for you.", "If it's just for home use and your own enjoyment, then you can do what you want."]	0.14893617021276595
+["You have to find out what works for you.", "Hope this is what you are looking for."]	0.16129032258064516
+["You have to know what you want to do.", "But you don't need to really."]	0.1346153846153846
+["You have to know what you want to do.", "It depends what you want to do with them."]	0.33962264150943394
+["You indicate in your comments that your hamster does not have hay.", "The sooner you do it the easier it will be."]	0.06818181818181818
+["You know that isn't my reason. ", "You don't have to know."]	0.16279069767441862
+["You know that isn't my reason. ", "You say you do not know what to write."]	0.14285714285714285
+["You know that isn't my reason. ", "if you don't know when or how to clean it."]	0.13333333333333333
+["You may be able to, but I wouldn't recommend it.", "Regarding the first question, you might want to check Maxroam."]	0.02912621359223301
+["You may be able to, but I wouldn't recommend it.", "This varies by institution."]	0.0
+["You may deserve every dime of the money you ask for but that's not the point.", "Slope the ground away from the house, forget the paint."]	0.09523809523809523
+["You may need to step in and mentor him on how to do something.", "It's probably just a broken switch."]	0.0
+["You may need to step in and mentor him on how to do something.", "Short Zen answer would be:"]	0.02531645569620253
+["You may want to bring a phrase book to help you with greetings and simple phrases.", "It is more deciding what you should do and what you should get others to do."]	0.08403361344537816
+["You may want to find a partner to write with.", "Totally an opinion here but I have to agree with MGOwen's answer above."]	0.06862745098039216
+["You might have to try a variety before you find one that clicks with him.", "Can you do this?"]	0.0641025641025641
+["You might have to try a variety before you find one that clicks with him.", "The short answer is: it should not."]	0.0
+["You might have to try a variety before you find one that clicks with him.", "You don't HAVE to make that mistake, so DON'T."]	0.09803921568627451
+["You might have to try a variety before you find one that clicks with him.", "You want to show progression in responsibilities on your resume, and it looks like you have that."]	0.12949640287769784
+["You need to ask your boss what you need to do to get the promotion you want.", "If all of the money needs to be liquid, T-Bills from a broker are the way to go."]	0.09166666666666666
+["You need to decide what you want to learn first.", "First, you need to decide what type of squat you want to do:"]	0.5245901639344263
+["You need to decide what you want to learn first.", "I think you know what a check is even if you don't use them, right?"]	0.07216494845360824
+["You need to do whatever you most want to improve on first.", "It's just worn out and not safe."]	0.024691358024691357
+["You pretty much answered your own question.", "I think you've pretty much answered your own question."]	0.7169811320754716
+["You pretty much answered your own question.", "You've pretty much answered your own question."]	0.8478260869565217
+["You say you do not know what to write.", "In fact, depending on the law of your country, they may even be required to do so."]	0.0660377358490566
+["You say you do not know what to write.", "if you don't know when or how to clean it."]	0.23333333333333334
+["You should do what it says.", "It's a good question."]	0.0
+["You should go with 3.", "The heavier you can lift, the better your technique has to be to do it."]	0.01282051282051282
+["You should listen to your boss, because you're not paid to tell the boss what to do.", "AFAIK, you don't even need the glue, though I'd probably use it myself."]	0.09302325581395349
+["You should never do it.", "I think you should do both."]	0.2777777777777778
+["You should never do it.", "I would say it depends."]	0.10526315789473684
+["You should never do it.", "It's not a spectator sport."]	0.0
+["You should prime it first.", "Just off the top of my head, I thought of:"]	0.01694915254237288
+["You should, but you don't have to.", "I think the  movie you are looking for is Bandidas."]	0.039473684210526314
+["You should, but you don't have to.", "It's actually just a minor third."]	0.0
+["You shouldn't need to let everyone know.", "It sounds like you just undercooked them."]	0.0410958904109589
+["You want to show progression in responsibilities on your resume, and it looks like you have that.", "The more you have, the less likely you will be upside down."]	0.128
+["You want to start in the room that is the largest to make sure you have the straightest start.", "If she doesn't like it, she can find something for you to do."]	0.058333333333333334
+["You will want to clean the area first.", "I would not do this for exactly the reasons you've asked about:  "]	0.053763440860215055
+["You've pretty much answered your own question.", "I think you've pretty much answered your own question."]	0.8431372549019608
+["Your best bet is research.", "In addition to the other answers:"]	0.0
+["Your problem is probably the temperature of the chocolate.", "(This is a possible explanation, but I'm not crazy about it."]	0.02912621359223301
+["my fridge had exactly the same problem and it turned out to be a failing relay.", "I've done this many dozens of times."]	0.009259259259259259
+["what would be a good way to do this? ", "If they don't already know, what credibility do you have to tell them."]	0.1
+["you have a couple of options:", "Much of it has to do with marketing."]	0.05172413793103448
+["The above answers are all correct.", "All the answers above are great."]	0.475
+["The above answers are all correct.", "If you just want to do it to promote your books, it probably won't work."]	0.0
+["The above are all good points.", "Also, are you sure you know what you want to write about?"]	0.08955223880597014
+["The alcohol is not added, but is a result of the fermentation process.", "I think the number one thing you can do is plan your internships appropriately."]	0.0546875
+["The answer depends on where you are.", "Depends on the legal environment where you are."]	0.38596491228070173
+["The answer depends on where you are.", "Depends on where you are."]	0.6285714285714286
+["The answer to both of your questions is yes.", "If you don't want to do Android, it shouldn't be on your resume."]	0.07608695652173914
+["The answer to both of your questions is yes.", "The answer to that question is yes."]	0.5
+["The answer to both questions is: Yes.", "I'll answer this question:"]	0.3111111111111111
+["The answer to both questions is: Yes.", "The answer to your question is not really."]	0.36363636363636365
+["The answer to that question is yes.", "I would say that the answer is yes."]	0.3829787234042553
+["The answer to that question is yes.", "If the answer to any of these questions is yes, a PhD may be worthwhile for you."]	0.2891566265060241
+["The answer to that question is yes.", "The answer to this is yes: avoid meat-based broth."]	0.3114754098360656
+["The answer to this is yes: avoid meat-based broth.", "I would say that the answer is yes."]	0.2153846153846154
+["The answer to your question is Gotye \"Easy Way Out\"", "The answer to your question is not really."]	0.48333333333333334
+["The answer to your question is not really.", "Because this question is unanswered."]	0.25862068965517243
+["The answer to your question is not really.", "Does this answer your questions?"]	0.37254901960784315
+["The answer to your question is not really.", "Does this page answer your question?"]	0.37037037037037035
+["The answer you are looking for is in the name of the building.", "But don't worry, it can come back fast."]	0.022222222222222223
+["The best way to do this is to use IRR.", "In addition to the other answers:"]	0.08620689655172414
+["The best way to do this is to use IRR.", "The best way to learn is to do it."]	0.46511627906976744
+["The best way to save on clothes is up to you.", "I think you will find it hard to do."]	0.056338028169014086
+["The bigger it is, the more you want to do it.", "If you decide to work 12hrs/day but get tired, then you'll need to factor in rest time."]	0.09090909090909091
+["The first thing to do is, of course, close them.", "From what I understand this is what you can do :"]	0.075
+["The fridge is not a good wine cellar.", "If you still want to make your own bread, you may want to purchase a bread-maker."]	0.010638297872340425
+["The hard answer is a straight no.", "The short answer is :"]	0.28205128205128205
+["The key is you have to find something that works for you, and your goals.", "But really, it depends on how you plan to use it."]	0.04672897196261682
+["The more practice you do the better you will be at it.", "It will become easier the more you do it."]	0.3870967741935484
+["The more you do it, the faster you will be.", "The more you sweat, the faster you will burn calories and fat."]	0.4603174603174603
+["The more you do this, the easier it gets.", "It's a good idea to do both."]	0.03278688524590164
+["The movie you are looking for is probably Infested.", "I think this depends on what level you are teaching at."]	0.11235955056179775
+["The short and clear answer is: it is absolutely not safe.", "I'm a huge fan of the vintage glass bowl/reamer combination."]	0.018518518518518517
+["The short answer is :", "The short answer is no, you don't need it."]	0.43902439024390244
+["The short answer is :", "The short answer is: it should not."]	0.5151515151515151
+["The short answer is :", "The simple answer is no."]	0.41379310344827586
+["The simple answer is no.", "I think this is a simple answer."]	0.4
+["The simple answer is yes!", "I would say that the answer is yes."]	0.34146341463414637
+["The simple answer is yes!", "It's up to you what you want to do next."]	0.0
+["The top few possible reasons are:", "There are two possible causes for this:"]	0.21818181818181817
+["The two things you can do to really help here are:", "There are a couple things you can do:"]	0.43636363636363634
+["The two things you can do to really help here are:", "There are two options here:"]	0.23636363636363636
+["The way you have it is fine.", "If you can get your hands on a file, you could modify a screw to be self-drilling."]	0.05319148936170213
+["The way you have it is fine.", "You should alternate strength training and HIIT, better not do them on the same day."]	0.0196078431372549
+["The wiring you show will work.", "If he is getting in the way of your work, then bring it up to you boss."]	0.14285714285714285
+["Then decide if you really want to get involved and how you want to approach it.", "You need to decide what you want to learn first."]	0.1956521739130435
+["There are a couple things you can do which will help:", "The HarpAndDragon website should be able to help you."]	0.0989010989010989
+["There are a couple things you can do:", "It's definitely just a matter of preference."]	0.0273972602739726
+["There are a couple things you can do:", "There are a couple things you can try."]	0.8108108108108109
+["There are a couple things you can try.", "The problem is that you're using a lid."]	0.109375
+["There are a few things I don't understand:", "A couple of good reasons."]	0.0
+["There are a few things I don't understand:", "I believe the name of the movie you are looking for is Poltergeist 3."]	0.05154639175257732
+["There are a few things I don't understand:", "I'd say something along the lines of \"why?"]	0.0547945205479452
+["There are a few things I think you should do.", "There are a few things you can do to thicken your sauce:"]	0.3709677419354839
+["There are a few things I think you should do.", "There are a few things you can do: "]	0.5
+["There are a few things you can do to thicken your sauce:", "I don't know where you would buy it but it would be really easy to pour it."]	0.1111111111111111
+["It is not a good idea.", "Of course this is a good idea."]	0.38235294117647056
+["It is possible to cover it with shredded newspaper, but I don't think you'd want to.", "As far as I know no active fan is required by code in laundry rooms."]	0.04316546762589928
+["It is possible to cover it with shredded newspaper, but I don't think you'd want to.", "The solution has two parts."]	0.0
+["It is possible to cover it with shredded newspaper, but I don't think you'd want to.", "There is no answer."]	0.021052631578947368
+["It is possible, but I'm not aware of any evidence for it.", "I can think of two suggestions:"]	0.024390243902439025
+["It is possible, but I'm not aware of any evidence for it.", "There is no reason not to do them on the same day."]	0.06451612903225806
+["It is the way you walk.", "As far as I know there is no such law."]	0.07692307692307693
+["It is the way you walk.", "I think it's impossible to give a definitive answer to that question."]	0.0125
+["It is the way you walk.", "The way you have it is fine."]	0.35294117647058826
+["It is up to you whether you want to do that.", "It's up to you what you want to do next."]	0.44680851063829785
+["It is up to you.", "), but it is not."]	0.12
+["It is up to you.", "No it is not."]	0.13636363636363635
+["It is up to you.", "Some of what you can do:"]	0.058823529411764705
+["It is very important to understand the culture of the place you work.", "I would suggest that the answer is that it isn't common."]	0.07920792079207921
+["It likely depends on what shape you want to store them in.", "The goal of course is to get the temperature down as quickly as possible."]	0.06896551724137931
+["It makes absolutely NO difference.", "I had the same issue."]	0.0
+["It makes absolutely NO difference.", "It'll depend on the coach."]	0.0
+["It may not be clearly understood by the child as a teaching tool, but it is.", "You need to do whatever you most want to improve on first."]	0.01652892561983471
+["It might alter the way you perform.", "It's all about diet and exercise."]	0.03225806451612903
+["It might alter the way you perform.", "That said, I'm guessing the answer is \"no\"."]	0.05714285714285714
+["It probably depends on the location and how much room you have to work with.", "How do I do that? "]	0.023529411764705882
+["It probably depends on the location and how much room you have to work with.", "The answer to the question in the title of your post is, \"it depends.\""]	0.16101694915254236
+["It really depends on how much time you have to prepare.", "I don't think you should be concerned."]	0.03488372093023256
+["It really depends on how much time you have to prepare.", "It really depends on how much you play."]	0.5254237288135594
+["It really depends on how much time you have to prepare.", "You need to ask your boss what you need to do to get the promotion you want."]	0.0673076923076923
+["It really depends on how the employer documents it.", "Does this answer your questions?"]	0.025974025974025976
+["It really depends on how the employer documents it.", "If you don't follow-up, then you are someone that will say one thing and not do it."]	0.05217391304347826
+["It really depends on the hostel you book.", "I am sure this is more phylosophical and ethical question than it seems."]	0.030612244897959183
+["It really depends on the hostel you book.", "I want to guarentee you that you'll have a really rough time if you get giardia."]	0.09803921568627451
+["It really depends on the hostel you book.", "One, I'm not sure where I am."]	0.0
+["It really depends on the school and the program.", "It very much depends on the program."]	0.42592592592592593
+["It really depends on the school and the program.", "That depends on the school and the kid."]	0.5098039215686274
+["It really depends on what you are looking for.", "Depends on what your goal is."]	0.2909090909090909
+["It really depends on what you are looking for.", "Depends on where you are."]	0.34
+["It really depends on what you are looking for.", "It really depends on your audience and setting."]	0.3283582089552239
+["It really depends on what you are looking for.", "It really depends on your usage."]	0.39622641509433965
+["It really depends on what you are looking for.", "That depends on who you ask."]	0.34615384615384615
+["It really depends on your audience and setting.", "Depends on what your goal is."]	0.2
+["It really depends on your audience and setting.", "Depends on where you are."]	0.1724137931034483
+["It really depends on your audience and setting.", "I think it really depends on your recipe."]	0.38333333333333336
+["It really depends on your audience and setting.", "It really depends on your usage."]	0.47058823529411764
+["It really depends on your audience and setting.", "That depends on who you ask."]	0.2033898305084746
+["It really depends on your usage.", "Depends on what your goal is."]	0.26666666666666666
+["It really depends on your usage.", "Depends on where you are."]	0.23255813953488372
+["It really depends on your usage.", "I guess it depends on what you're going to do."]	0.1935483870967742
+["It really depends on your usage.", "I think it really depends on your recipe."]	0.5111111111111111
+["It really depends on your usage.", "That depends on who you ask."]	0.2727272727272727
+["It really isn't your problem how they are going to find a qualified person to do the job.", "If you have the ability, you can rearrange songs yourself."]	0.072
+["It seems to work.", "I don't know where you live, but in the UK, they legally have to be."]	0.025974025974025976
+["It seems to work.", "There are many synonyms to but."]	0.10256410256410256
+["It simply, and obviously, depends on what you want to spend your money on.", "Depends on what your goal is."]	0.2465753424657534
+["It simply, and obviously, depends on what you want to spend your money on.", "If you mean what I think you mean, then Hebrew is noted for this."]	0.07339449541284404
+["It totally depends what you are doing with it.", "Make sure that you collect references on your way out."]	0.08045977011494253
+["It varies by the situation.", "If you are depressed enough that you don't feel you have friends, find a counselor."]	0.02040816326530612
+["It very much depends on the grant in question.", "It very much depends on the program."]	0.5294117647058824
+["It very much depends on the program.", "Depends on the program and FF status."]	0.38
+["It will get better.", "In the end, there is nothing you can do if he's not willing to cooperate."]	0.05194805194805195
+["It's a good question.", "If you consistently maintain a caloric deficit, you will lose it."]	0.012987012987012988
+["It's a good question.", "It's a really good read."]	0.3
+["It's a good question.", "It's not a good idea."]	0.3103448275862069
+["It's a really good read.", "It's not a good idea."]	0.25806451612903225
+["It's acceptable to tailor your CV for each job you apply for.", "Could it be The Cell from 2000?"]	0.0
+["It's all about adhesion.", "It's all about conventions."]	0.42424242424242425
+["It's also a matter of taste.", "I'm of the same mind as SF."]	0.0625
+["It's also a matter of taste.", "It's mostly a matter of taste."]	0.5882352941176471
+["It's also a matter of taste.", "It's not the size of the cup, it's the amount of coffee in it."]	0.08695652173913043
+["It's definitely just a matter of preference.", "It's really a matter of preference."]	0.5306122448979592
+["It's just a general guideline, don't worry about it too much.", "If you know something the market doesn't that's going to be good for price, hold."]	0.064
+["It's just how long you dry them.", "It's probably just a broken switch."]	0.125
+["It's much better to ask.", "Computer Science This really depends on the institution and the group."]	0.023809523809523808
+["It's not a good idea.", "But it is not a good idea."]	0.6153846153846154
+["I think there's a good solution to this.", "I would avoid freezing them as it will change the texture."]	0.023255813953488372
+["I think there's a good solution to this.", "If you want to improve your skills in something, identify it."]	0.05747126436781609
+["I think this is a simple answer.", "If you don't follow-up, then you are someone that will say one thing and not do it."]	0.042105263157894736
+["I think you already answered your own question.", "I think you answered your own question."]	0.813953488372093
+["I think you answered your own question.", "I'll answer this question:"]	0.3111111111111111
+["I think you have to find the balance that works for you.", "A couple of good reasons."]	0.0
+["I think you really have to ask yourself if its worth it, the risk/reward.", "Another thing to look at is your footware."]	0.10526315789473684
+["I think you should do both.", "As far as I know, there is no legal standard for a check."]	0.01282051282051282
+["I think you're looking for Awaken (2012).", "If you find a publisher of such works, that's the place to start."]	0.030612244897959183
+["I told her that he did, if she wanted to believe in him.", "A contact is valuable to you if you think that he could be helpful to you down the line."]	0.11818181818181818
+["I was in a similar situation.", "I was recently in a similar situation."]	0.6944444444444444
+["I won't try to describe it, but here's how I would go about it:", "If, however, you don't think that you can do the job - don't apply."]	0.05714285714285714
+["I would avoid freezing them as it will change the texture.", "I would avoid putting it in the dough as it will change the texture."]	0.5915492957746479
+["I would look at this way: ", "I would look at this: U.S."]	0.6
+["I would say it is impossible to know, so don't risk it.", "A lot of good answers already."]	0.0
+["I would suggest dumbbell flys instead.", "As far as I know, there are no ATMs that require a chip card."]	0.0
+["I would suggest that you not violate FERPA.", "If you don't finish, you just don't get the snack. "]	0.07894736842105263
+["I'd say something along the lines of \"why?", "As you can see here, you can do it with a chef's knife."]	0.0
+["I'll answer this question:", "Because this question is unanswered."]	0.3902439024390244
+["I'm not sure I get the situation:", "A few things I learned:"]	0.04
+["I've had one for several months.", "If you don't want to work with them on graduation, then cooperate fully with their request."]	0.028037383177570093
+["I've had the same problem once.", "I've had this same problem."]	0.5882352941176471
+["If it's the second, I have no idea how to help you.", "First of all I'd like to clarify a few things:"]	0.0449438202247191
+["If the environment is such that it is inappropriate, you can always take it off.", "First and most likely, it is simply historical."]	0.05504587155963303
+["If the property is good, go for it.", "As far as I know there is no such law."]	0.0625
+["If they don't, don't force it.", "As far as I know, there are no ATMs that require a chip card."]	0.025974025974025976
+["If this is new, I would do this:", "If you haven't, you should."]	0.06666666666666667
+["If you are relatively new to the organization, performance reviews may not be done in the first year.", "I would say that it is something to avoid."]	0.031496062992125984
+["If you do, if you skip a session, you won't need to adjust your food intake.", "I would personally beware of the Motley Fool."]	0.009345794392523364
+["If you have too much to do, you turn it down.", "In all probability, you should be able to board the flight."]	0.07954545454545454
+["If you haven't done your homework, you shouldn't be in the meeting.", "If you're inclined to say \"no\", you must have good reasons."]	0.10784313725490197
+["If you haven't done your homework, you shouldn't be in the meeting.", "In that case, you should have pretty strong control over what you want to do."]	0.14414414414414414
+["In this case I think it's best to first ask for permission to ask.", "It shows you know what you want and you have a good reason to be interested in the school."]	0.0625
+["Interesting question but ultimately the answer is no.", "If you don't have enough budget then, we'll, you should."]	0.030927835051546393
+["Interesting question but ultimately the answer is no.", "You don't want jobs you're not a good fit for."]	0.010869565217391304
+["Is it that you can't or that you don't want to do it? ", "Also it is useful to keep the consistency in your story."]	0.09411764705882353
+["Is it the easiest pan to use?", "What should I do about this? "]	0.038461538461538464
+["Is this a scam?", "I don't know if that will work, but it certainly isn't the traditional method."]	0.011764705882352941
+["Is this a scam?", "I've cooked this several times."]	0.10526315789473684
+["Is this the kind of person you want to do business with?", "Going in to a interview it is important to ask questions that make people THINK."]	0.07692307692307693
+["Is this the kind of person you want to do business with?", "It is possible to cover it with shredded newspaper, but I don't think you'd want to."]	0.15789473684210525
+["Is this the kind of thing you're looking for ?", "Get a lot of sleep."]	0.058823529411764705
+["Is this what you are looking for?", "You can drop them a line with the correct answers, of course."]	0.023529411764705882
+["It all depends on context.", "It all depends on you!!"]	0.5517241379310345
+["It all depends on context.", "It all depends on your goal."]	0.47058823529411764
+["It all depends on context.", "It depends on funding."]	0.3333333333333333
+["It all depends on context.", "It depends on the employer."]	0.2894736842105263
+["It all depends on context.", "It depends on the reason."]	0.3055555555555556
+["It all depends on context.", "It depends on what they are."]	0.28205128205128205
+["It all depends on context.", "It depends on what you want to achieve."]	0.22
+["It all depends on context.", "It depends on you."]	0.3793103448275862
+["It all depends on context.", "It depends on your local corporate culture."]	0.22641509433962265
+["Here is a simple answer:", "The simple answer is no."]	0.4666666666666667
+["Here's the issue as I see it.", "You work on it slowly."]	0.022222222222222223
+["Honestly I don't think they had sex.", "Start them as early as possible."]	0.07017543859649122
+["Hope this is what you are looking for.", "I think you will find it hard to do."]	0.078125
+["How do you do that?", "So, CAN you do this?"]	0.32
+["How lonely it is!", "I am not entirely sure this is the right place to answer those questions."]	0.0379746835443038
+["How lonely it is!", "I'd put it this way:"]	0.1
+["How lonely it is!", "No it is not."]	0.18181818181818182
+["How much tax do I have to pay? ", "The solution has two parts."]	0.058823529411764705
+["How should I proceed about this?", "The best information I was able to find the answer is: NO."]	0.036585365853658534
+["How you do that is up to you.", "It's really up to you."]	0.25
+["How you do that is up to you.", "So I don't think you need to put it on the cover."]	0.12698412698412698
+["I Agree with Jefromi.", "You should go with 3."]	0.11764705882352941
+["I agree with Jolenealaska.", "I agree with SAJ14SAJ."]	0.34375
+["I agree with Jolenealaska.", "I agree with everything Reven said."]	0.24444444444444444
+["I agree with Jolenealaska.", "Take a look at creative nonfiction."]	0.0
+["I agree with SAJ14SAJ.", "I agree with everything Reven said."]	0.275
+["I agree with everything Matthew G. has said.", "I agree with everything Reven said."]	0.5416666666666666
+["I agree with phil above.", "I agree with the above."]	0.5925925925925926
+["I agree with the above.", "All the answers above are great."]	0.21951219512195122
+["I agree with the above.", "If this is what you mean by parquet, I don't suggest it."]	0.0136986301369863
+["I agree with the earlier answers.", "Most likely it is shiplap."]	0.0
+["I agree with the other answers here.", "I agree with the other answers."]	0.8181818181818182
+["I agree with the other answers here.", "I agree with the other posters."]	0.5384615384615384
+["I agree with the other answers here.", "I agree with the others."]	0.6060606060606061
+["I agree with the other answers here.", "I disagree with the other answers."]	0.6578947368421053
+["I agree with the other answers.", "I agree with the other posters."]	0.6470588235294118
+["I agree with the other answers.", "I agree with the others."]	0.75
+["I have just had the same problem.", "I've had this same problem."]	0.4864864864864865
+["I have just had the same problem.", "The problem is that you're using a lid."]	0.15517241379310345
+["I have never done this.", "Of course this is a good idea."]	0.09090909090909091
+["I have the exact same issue.", "I have the exact same problem."]	0.5882352941176471
+["I have the exact same problem.", "If you still want to make your own bread, you may want to purchase a bread-maker."]	0.0
+["I have the same problem.", "I've had the same problem once."]	0.5
+["I have the same problem.", "I've had this same problem."]	0.46875
+["I have the same problem.", "The problem is that you're using a lid."]	0.18
+["I have this problem, too.", "I had this problem too."]	0.5714285714285714
+["I have this problem, too.", "I have had the same problem."]	0.3333333333333333
+["I have this problem, too.", "I have had this problem."]	0.5714285714285714
+["I have this problem, too.", "I have just had the same problem."]	0.2926829268292683
+["I have this problem, too.", "I have the same problem."]	0.40625
+["I have three recommendations for you:", "If they don't, don't force it."]	0.05357142857142857
+["I have three recommendations for you:", "It's just how long you dry them."]	0.04838709677419355
+["I have three recommendations for you:", "Seems to work pretty well, although I've mostly used it for cutting."]	0.041237113402061855
+["I have to add a few things to Randomman's answer:", "If you don't ask for what you want, you will not likely get it."]	0.0
+["I have to ask, why would you want to add water?", "If they request to know why you want a copy, you want it for your personal records."]	0.14432989690721648
+["I have to ask, why would you want to add water?", "No, being a graduate student in a PhD program is a full-time job."]	0.020202020202020204
+["I have two suggestions for you:", "I have few suggestions for you:"]	0.7058823529411765
+["I have worked on a project similar to this.", "I have worked on a project that was like this."]	0.5272727272727272
+["I just had the same problem.", "As soon as possible."]	0.023255813953488372
+["I just had the same problem.", "I had the same problem as you."]	0.5428571428571428
+["I just had the same problem.", "I had the same problem."]	0.7407407407407407
+["I just had the same problem.", "I had this problem too."]	0.3055555555555556
+["I just had the same problem.", "I had this same problem."]	0.5483870967741935
+["I just had the same problem.", "I have had the same problem."]	0.6451612903225806
+["I just had the same problem.", "I have just had the same problem."]	0.8064516129032258
+["I just had the same problem.", "I have the same problem."]	0.5483870967741935
+["I just had the same problem.", "I've had the same problem once."]	0.5277777777777778
+["I just had the same problem.", "I've had this same problem."]	0.5
+["I just had the same problem.", "The problem is that you're using a lid."]	0.16666666666666666
+["I know this is difficult, but it's the only thing that will make things better.", "My guess is that you don't have real cheese in your sandwich."]	0.06837606837606838
+["I must ask you, are you sure this is what you want to do?", "Have you already seen this?"]	0.10606060606060606
+["I never use it.", "I had this problem with one cat."]	0.0
+["I never worry about this.", "I don't think you have much to worry about."]	0.2549019607843137
+["I read a lot of non-fiction books and i read it only once.", "Generally speaking, the slope of anything involving a house should be away from the house."]	0.041666666666666664
+["I read a lot of non-fiction books and i read it only once.", "I don't think there's necessarily a connection issue."]	0.06521739130434782
+["I read a lot of non-fiction books and i read it only once.", "The first thing you're going to want to do is read and read a lot."]	0.13186813186813187
+["I read a lot of non-fiction books and i read it only once.", "You've answered your own question already."]	0.07228915662650602
+["I read a lot of papers and some books about.", "You will have to make some adjustments, but don't let that stop you."]	0.038834951456310676
+["I really don't know about will it help you, but here is what I do:", "Your performance may be great, but it means nothing if you are not in the office."]	0.07936507936507936
+["I remained under the banyan tree, exhausted by my daily ritual of dragooning the men every two hours. ", "I have never used extruders, but I make a lot of tagliatelle using my pasta roller."]	0.0736196319018405
+["I remained under the banyan tree, exhausted by my daily ritual of dragooning the men every two hours. ", "I remained under the banyan tree, exhausted by my daily ritual of herding the cats every two hours. "]	0.7592592592592593
+["I remained under the banyan tree, exhausted by my daily ritual of herding the cats every two hours. ", "I have never used extruders, but I make a lot of tagliatelle using my pasta roller."]	0.07453416149068323
+["I remained under the banyan tree, exhausted by my daily ritual of herding the cats every two hours. ", "I would say a chef's knife, for sure."]	0.0078125
+["I remained under the banyan tree, exhausted by my daily ritual of herding the cats every two hours. ", "Moisture-release is not a result of the cooking process but of the quality of the chicken."]	0.06329113924050633
+["I run the risk of appearing anti-social and unproductive. ", "by doing so I run the risk of appearing anti-social and unproductive "]	0.803030303030303
+["I spend a lot of time in France and in the midwest US.", "I would say you can do it, but it wouldn't be advised."]	0.010526315789473684
+["I suggest you to take a look at rememberthemilk.com.", "As low as you can get away with."]	0.05263157894736842
+["I suggest you to take a look at rememberthemilk.com.", "I've had this problem while working in a pubs."]	0.010752688172043012
+["I suggest you'd do like you would with a dog.", "I don't think telling your boss you're not reading the email is a good strategy."]	0.046296296296296294
+["I suggest you'd do like you would with a dog.", "I don't think this will work very well."]	0.041666666666666664
+["I suspect it is to speed up boarding.", "I have the same situation and have traveled extensively."]	0.01282051282051282
+["I think I would just ignore it.", "I don't think you should."]	0.15555555555555556
+["I think I would just ignore it.", "I think you should do both."]	0.2
+["I think it depends on the deadline the offering school gave you.", "I think it depends on the dish."]	0.39344262295081966
+["I think it depends on the dish.", "I think it depends on your broker."]	0.5
+["I think it depends on the dish.", "I think it really depends on your recipe."]	0.40425531914893614
+["I think it depends on the dish.", "It very much depends on the program."]	0.2916666666666667
+["I think it depends on what kind of job you are looking for.", "Body shape has a lot to do with it."]	0.022988505747126436
+["I think it depends on what kind of job you are looking for.", "Something like this is useful:  "]	0.06329113924050633
+["I think it depends on your broker.", "I think it is depends on the program."]	0.40425531914893614
+["I think it depends on your broker.", "I think it really depends on your recipe."]	0.5217391304347826
+["I think it depends on your broker.", "I won't try to describe it, but here's how I would go about it:"]	0.022988505747126436
+["I think it is depends on the program.", "But you don't need to really."]	0.0
+["I think it really depends on your recipe.", "See Wikipedia for average weather stats."]	0.013333333333333334
+["I think it will be useful", "try to write all the things down you need to do, that will definitely be a help."]	0.12048192771084337
+["I think it would.", "AFAIR this didn\u2019t happen in the book."]	0.0425531914893617
+["I think it would.", "Another thing to look at is your footware."]	0.057692307692307696
+["I think it would.", "Did you overcook it?"]	0.06451612903225806
+["I think it's a bad idea.", "I'm thinking it's a bad idea. "]	0.6129032258064516
+["I think it's a bad idea.", "You will not be able to collect your bags, as there is no airside baggage claim in Oman."]	0.029411764705882353
+["I think it's impossible to give a definitive answer to that question.", "Moisture-release is not a result of the cooking process but of the quality of the chicken."]	0.022727272727272728
+["I think it's just a habit.", "Because this question is unanswered."]	0.03636363636363636
+["I think it's unprofessional to ask for a one off payment.", "Most of the work you will need to do for this is during the day."]	0.07692307692307693
+["I think it's unprofessional to ask for a one off payment.", "Only if you know (or have reason to suspect) that not doing so would be a detriment."]	0.06201550387596899
+["I think partially the answer depends on what you type.", "I think the answer that we don't know."]	0.25
+["I think the answer that we don't know.", "I think, the answer is yet: We don't know."]	0.5208333333333334
+["I think there are two important things to consider:", "A couple things to consider:"]	0.38
+["I think there are two important things to consider:", "I think there are two things you need to consider."]	0.5535714285714286
+["I think there isn't a general answer.", "I'll answer this question:"]	0.16
+["A few things to think about:", "As low as you can get away with."]	0.0
+["All of the answers above are good.", "All of the answers to date are good."]	0.6410256410256411
+["All of the answers above are good.", "All of the previous answers are good."]	0.625
+["All of the answers to date are good.", "All of the previous answers are good."]	0.5581395348837209
+["All the answers above are all correct.", "All the answers above are great."]	0.5897435897435898
+["All the answers above are all correct.", "If you just want to do it to promote your books, it probably won't work."]	0.0
+["All the answers above are great.", "If you just want to do it to promote your books, it probably won't work."]	0.0
+["And if you're holding in a Roth IRA, you get that tax free.", "In that case, you should have pretty strong control over what you want to do."]	0.08849557522123894
+["Body shape has a lot to do with it.", "If, as you have indicated, you don't want to plan."]	0.08333333333333333
+["But it is different for everyone, so you will have to find that out yourself.", "If you have papers."]	0.08641975308641975
+["But it is not a good idea.", "I think this is not such a good idea."]	0.4473684210526316
+["But, my bet is that you are not going to be successful.", "I would say a chef's knife, for sure."]	0.011627906976744186
+["Can they do this?", "Can you do this?"]	0.47368421052631576
+["Can you do it?", "Can you do this?"]	0.5294117647058824
+["ClearJel is a product you may want to look at.", "I'm assuming that the soil is frozen."]	0.05405405405405406
+["Cooking depends on the type of sauce you're cooking.", "As far as I know there is no such law."]	0.0379746835443038
+["Could it be The Cell from 2000?", "I think the answer depends widely on where you are looking."]	0.012048192771084338
+["Depends on the legal environment where you are.", "Depends on where you are."]	0.4782608695652174
+["Depends on the place where you apply for.", "Depends on where you are."]	0.4418604651162791
+["Depends on what your goal is.", "Depends on where you are."]	0.35135135135135137
+["Depends on what your goal is.", "I wouldn't worry too much about your results not matching the picture."]	0.056179775280898875
+["Depends on what your goal is.", "If you don't follow-up, then you are someone that will say one thing and not do it."]	0.05319148936170213
+["Did you overcook it?", "AFAIR this didn\u2019t happen in the book."]	0.0196078431372549
+["Do you have a car?", "At the end of the day you have to make him work for you."]	0.14035087719298245
+["Do you have a car?", "Don't you hate that?"]	0.17857142857142858
+["Do you need to incorporate?", "I would not do this for exactly the reasons you've asked about:  "]	0.03571428571428571
+["Does this answer your questions?", "Because this question is unanswered."]	0.3125
+["Does this answer your questions?", "Does this page answer your question?"]	0.7297297297297297
+["Does this answer your questions?", "I'll answer this question:"]	0.4594594594594595
+["Does this page answer your question?", "Because this question is unanswered."]	0.28846153846153844
+["Does this page answer your question?", "I'll answer this question:"]	0.4146341463414634
+["Find out what he would need to see from you to accept you on to the team.", "I've never had a problem with a full passport."]	0.009523809523809525
+["First, I'll answer your question.", "I would say, unless you know it is safe for cats assume it to be poisonous."]	0.020202020202020204
+["Focus on one thing at a time so you don't waste time switching between task.", "Because this question is unanswered."]	0.043010752688172046
+["Get a lot of sleep.", "That's not a lot of depth."]	0.2903225806451613
+["Go to your local music stores and ask them.", "At the moment, there's nothing you can do about what already has happened."]	0.03773584905660377
+["Harold McGee discusses this in On Food And Cooking.", "The HarpAndDragon website should be able to help you."]	0.030927835051546393
+["Harold McGee's On Food and Cooking for a start.", "Don't worry, Germans are usually polite."]	0.0
+["Have a look at these: ", "Take a look at these:"]	0.6956521739130435
+["Have a look at these: ", "Take a look at this: "]	0.4444444444444444
+["Have a look at these: ", "just take a look at the tail..!"]	0.38235294117647056
+["Have you considered making your own?", "Don't tell him you're recommending him if you aren't going to."]	0.0641025641025641
+["Have you considered making your own?", "Have you considered moleskin?"]	0.5128205128205128
+["Have you tried asking your employees?", "Have you tried asking?"]	0.5588235294117647
+["Have you tried asking your employees?", "just take a look at the tail..!"]	0.0
+["Have you tried beef consomm\u00e9 ?", "You shouldn't feel any obligation at all."]	0.015151515151515152
+["Here are the obvious things:", "No, I don't think it's possible to do that."]	0.06779661016949153
+["Here is a simple answer:", "I believe the movie you are looking for is Embrace Of The Vampire"]	0.037037037037037035
+["Here is a simple answer:", "I think this is a simple answer."]	0.53125
+["It all depends on context.", "You have a problem."]	0.0
+["It all depends on context.", "You will have absolutely no issues."]	0.017857142857142856
+["It all depends on you!!", "Depends on the place where you apply for."]	0.2
+["It all depends on you!!", "Depends on where you are."]	0.29411764705882354
+["It all depends on you!!", "It all depends on your goal."]	0.6785714285714286
+["It all depends on you!!", "It depends on funding."]	0.36666666666666664
+["It all depends on you!!", "It depends on what you are reading."]	0.3170731707317073
+["It all depends on you!!", "It depends on what you want to achieve."]	0.28888888888888886
+["It all depends on you!!", "It depends on you."]	0.6086956521739131
+["It all depends on you!!", "It depends on your local corporate culture."]	0.2916666666666667
+["It all depends on you!!", "That depends on who you ask."]	0.34285714285714286
+["It all depends on you!!", "You're on the right path."]	0.047619047619047616
+["It all depends on your goal.", "Depends on what your goal is."]	0.43243243243243246
+["It all depends on your goal.", "Depends on where you are."]	0.2564102564102564
+["It all depends on your goal.", "I think it really depends on your recipe."]	0.3333333333333333
+["It all depends on your goal.", "It depends on funding."]	0.3142857142857143
+["It all depends on your goal.", "It depends on what you are reading."]	0.2826086956521739
+["It all depends on your goal.", "It depends on what you want to achieve."]	0.26
+["It all depends on your goal.", "It depends on you."]	0.5
+["It all depends on your goal.", "It depends on your local corporate culture."]	0.3137254901960784
+["It all depends on your goal.", "It really depends on what you are looking for."]	0.25
+["It all depends on your goal.", "It really depends on your audience and setting."]	0.3148148148148148
+["It all depends on your goal.", "It really depends on your usage."]	0.4358974358974359
+["It all depends on your goal.", "That depends on who you ask."]	0.3
+["It always works for me.", "I do, it works marvellously for me."]	0.2558139534883721
+["It completely depends on what type of work you intend to do.", "If the environment is such that it is inappropriate, you can always take it off."]	0.05785123966942149
+["It completely depends on what type of work you intend to do.", "It really depends on the school and the program."]	0.17647058823529413
+["It depends a bit on the programme, but the general answer is \"stick to the 1000\".", "Body shape has a lot to do with it."]	0.04950495049504951
+["It depends entirely on your company and your contract.", "I'm not 100% sure I understand your question but I'll try to answer it anyway."]	0.09009009009009009
+["It depends entirely on your company and your contract.", "It depends on your company."]	0.4791666666666667
+["It depends entirely on your company and your contract.", "What are you goals?"]	0.03278688524590164
+["It depends in which country you are living in.", "Do you think I should keep it secret or not? "]	0.03614457831325301
+["It depends on a position, not person.", "This is not uncommon in a water heater."]	0.09523809523809523
+["It depends on funding.", "Depends on where you are."]	0.22857142857142856
+["It depends on funding.", "It depends on the employer."]	0.36363636363636365
+["It depends on funding.", "It depends on the fine print."]	0.34285714285714286
+["It depends on funding.", "It depends on the reason."]	0.3870967741935484
+["It depends on funding.", "It depends on what they are evaluating, and how."]	0.24528301886792453
+["It depends on funding.", "It depends on what they are."]	0.35294117647058826
+["It depends on funding.", "It depends on what you are reading."]	0.39473684210526316
+["It depends on funding.", "It depends on what you want to achieve."]	0.26666666666666666
+["It depends on funding.", "It depends on you."]	0.5
+["It depends on funding.", "It depends on your local corporate culture."]	0.24489795918367346
+["It depends on funding.", "It really depends on your usage."]	0.28205128205128205
+["It depends on how good you want to be.", "If not, the kindest thing you can do is to let them go."]	0.08974358974358974
+["It depends on how good you want to be.", "It depends on how much work you want to do."]	0.54
+["It depends on how good you want to be.", "It depends on how you use it."]	0.4318181818181818
+["It depends on how good you want to be.", "The wood probably isn't rotten, it's just worn out."]	0.024390243902439025
+["It depends on how good you want to be.", "You can do it."]	0.02127659574468085
+["It depends on how it's used.", "I agree with phil above."]	0.0
+["It depends on how it's used.", "I think you're looking for Awaken (2012)."]	0.0
+["It depends on how it's used.", "It depends on how long it's been out."]	0.4878048780487805
+["It depends on how it's used.", "It depends on how the term is used I think."]	0.43478260869565216
+["It depends on how it's used.", "It depends on how you use it."]	0.5588235294117647
+["It depends on how it's used.", "Nowadays, I really don't think it makes any difference whatsoever."]	0.011363636363636364
+["It depends on how long it's been out.", "You may want to find a partner to write with."]	0.0
+["It depends on how many calories you consume.", "As to the specifics, it depends on the rest of your training."]	0.15294117647058825
+["It depends on how many calories you consume.", "I don't think you should use a software."]	0.03896103896103896
+["It depends on how many calories you consume.", "I think either version will be fine."]	0.013333333333333334
+["It depends on how many calories you consume.", "Take it to a professional."]	0.0
+["It depends on how much work you want to do.", "Get help as soon as possible."]	0.015384615384615385
+["It depends on how much work you want to do.", "The key is you have to find something that works for you, and your goals."]	0.08080808080808081
+["It depends on how the cheese is made.", "It depends on the age of your child:"]	0.3018867924528302
+["It depends on how the term is used I think.", "Don't worry, Germans are usually polite."]	0.02631578947368421
+["It depends on how the term is used I think.", "If you are depressed enough that you don't feel you have friends, find a counselor."]	0.06481481481481481
+["It depends on how they are dried.", "I am not entirely sure this is the right place to answer those questions."]	0.031578947368421054
+["It depends on how they are dried.", "I'd say something along the lines of \"why?"]	0.04477611940298507
+["It depends on how you use it.", "But really, it depends on how you plan to use it."]	0.5208333333333334
+["It depends on how you use it.", "I agree with phil above."]	0.0
+["It depends on how you use it.", "It is almost as if you are sleeping, but you are not."]	0.05970149253731343
+["It depends on how you use it.", "This will, as the very first and foremost thing, allow you to place plenty of them."]	0.05154639175257732
+["It depends on the circuit you do.", "I think it depends on the dish."]	0.37209302325581395
+["It depends on the circuit you do.", "It depends on the employer."]	0.4
+["It depends on the circuit you do.", "It depends on the fine print."]	0.38095238095238093
+["It depends on the circuit you do.", "It depends on the reason."]	0.42105263157894735
+["It depends on the circuit you do.", "It depends on you."]	0.42424242424242425
+["It depends on the employer.", "I think it depends on the dish."]	0.39473684210526316
+["It depends on the employer.", "I think it depends on your broker."]	0.29545454545454547
+["It depends on the employer.", "I think it really depends on your recipe."]	0.21153846153846154
