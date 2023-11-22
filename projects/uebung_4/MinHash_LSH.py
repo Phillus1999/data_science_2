@@ -24,7 +24,7 @@ class MinHash(MRJob):
     random.seed(47)
     hashfunctions = create_hashfunctions()
     universe_dimension = 50000000    # 50 million some big number
-    bands = 50
+    bands = 100
 
     def get_bit_vector(self, shingles):
         vector = dict()
@@ -53,7 +53,7 @@ class MinHash(MRJob):
         yield text, list(values)[0]
 
     def LSHMapper(self, text, signature):
-        rows = len(signature) // self.bands
+        rows = len(signature) // self.bands                 #  500 hash = bands * rows ->  500/b = r     500/100 = 5=r
         for i in range(self.bands):
             sig_vec = list(signature)
             band = str(sig_vec[i * rows:(i + 1) * rows])
